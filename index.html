@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#eef1f4" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0e151b" media="(prefers-color-scheme: dark)">
+<title>Kiki's Job Search</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Public+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: a single centered column sized for phones. Everything wraps; nothing scrolls sideways. */
+:root {
+  --bg: #eef1f4;
+  --surface: #ffffff;
+  --sunk: #f5f7f9;
+  --ink: #16222c;
+  --muted: #5d6a75;
+  --line: #dde3e8;
+  --accent: #c0392b;
+  --accent-ink: #ffffff;
+  --good: #1d7347;
+  --good-soft: #e2f2e9;
+  --warn: #8f5c08;
+  --warn-soft: #faefd8;
+  --quiet: #66717c;
+  --quiet-soft: #eceff2;
+  --font-display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Public Sans", -apple-system, "Helvetica Neue", Arial, system-ui, sans-serif;
+  --r: 12px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0e151b; --surface: #17212a; --sunk: #121a21; --ink: #e6ecf0; --muted: #9aa7b2; --line: #26323c;
+    --accent: #f06a55; --accent-ink: #1b0b08;
+    --good: #5fc994; --good-soft: #14302a; --warn: #e6ab4b; --warn-soft: #33270f; --quiet: #909da8; --quiet-soft: #1f2a33;
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font-family: var(--font-body); font-size: 16px; line-height: 1.45;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: max(20px, env(safe-area-inset-top, 0px)) max(40px, env(safe-area-inset-bottom, 0px));
+  overflow-wrap: anywhere;
+}
+a { color: inherit; }
+button, select, textarea { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+[hidden] { display: none !important; }
+.wrap { max-width: 600px; margin: 0 auto; display: grid; gap: 16px; min-width: 0; }
+
+/* Header */
+.top { display: grid; gap: 4px; padding-top: 4px; }
+.kicker { margin: 0; font-size: 13px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+h1 { margin: 0; font-family: var(--font-display); font-weight: 700; font-size: 30px; line-height: 1.1; letter-spacing: -0.01em; text-wrap: balance; }
+h1 em { font-style: normal; color: var(--accent); }
+.sub { margin: 0; color: var(--muted); font-size: 14.5px; }
+
+/* Tabs */
+.tabs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 4px; gap: 2px; position: sticky; top: max(8px, env(safe-area-inset-top, 0px)); z-index: 5; }
+.tab { appearance: none; border: 0; background: none; border-radius: 999px; padding: 9px 4px; font-size: 14.5px; font-weight: 600; color: var(--muted); cursor: pointer; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.tab[aria-selected="true"] { background: var(--ink); color: var(--bg); }
+
+/* Toolbar + filters */
+.toolbar { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.btn { appearance: none; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; min-height: 40px; padding: 8px 14px; font-size: 15px; font-weight: 600; cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 6px; }
+.btn.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.btn.on { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+.badge { background: var(--accent); color: var(--accent-ink); border-radius: 999px; font-size: 12px; min-width: 20px; height: 20px; padding: 0 6px; display: inline-grid; place-items: center; }
+.select { border: 1px solid var(--line); background: var(--surface); border-radius: 10px; min-height: 40px; padding: 8px 10px; font-size: 15px; max-width: 60%; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 16px; display: grid; gap: 16px; }
+.fgroup { display: grid; gap: 8px; }
+.flabel { font-size: 13px; font-weight: 600; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { appearance: none; border: 1px solid var(--line); background: var(--sunk); border-radius: 999px; min-height: 36px; padding: 6px 13px; font-size: 14.5px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.switch { display: flex; align-items: center; justify-content: space-between; gap: 12px; font-size: 15px; }
+.switch input { width: 22px; height: 22px; accent-color: var(--accent); flex: none; }
+.summary { margin: 0; color: var(--muted); font-size: 14.5px; display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; }
+.summary b { color: var(--ink); }
+.linkbtn { appearance: none; border: 0; background: none; padding: 0; color: var(--accent); font-weight: 600; cursor: pointer; font-size: 14.5px; }
+
+/* Job cards */
+.list { display: grid; gap: 10px; }
+.job { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 16px; display: grid; gap: 8px; min-width: 0; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.tag { font-size: 12.5px; font-weight: 600; border-radius: 999px; padding: 3px 10px; line-height: 1.3; }
+.unit { background: var(--sunk); color: var(--ink); border: 1px solid var(--line); }
+.fit-strong { background: var(--good-soft); color: var(--good); }
+.fit-possible { background: var(--warn-soft); color: var(--warn); }
+.fit-stretch { background: var(--quiet-soft); color: var(--quiet); }
+.new { background: var(--accent); color: var(--accent-ink); }
+.flag { background: var(--quiet-soft); color: var(--quiet); }
+.job h2 { margin: 2px 0 0; font-family: var(--font-display); font-weight: 600; font-size: 19px; line-height: 1.25; text-wrap: balance; }
+.where { margin: 0; font-size: 15px; font-weight: 500; }
+.meta { margin: 0; color: var(--muted); font-size: 14.5px; }
+.why { margin: 0; font-size: 14.5px; color: var(--muted); }
+.actions { display: grid; grid-template-columns: 1fr 1.4fr; gap: 8px; margin-top: 4px; }
+details.more { border-top: 1px solid var(--line); margin-top: 4px; padding-top: 8px; }
+details.more summary { cursor: pointer; color: var(--muted); font-size: 14.5px; font-weight: 600; list-style: none; padding: 4px 0; }
+details.more summary::-webkit-details-marker { display: none; }
+details.more summary::after { content: " +"; }
+details.more[open] summary::after { content: " \2212"; }
+.dl { display: grid; gap: 10px; padding-top: 6px; font-size: 14.5px; }
+.dl p { margin: 0; }
+.dl .k { display: block; font-size: 12.5px; font-weight: 600; color: var(--muted); margin-bottom: 1px; }
+.row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.statussel { width: 100%; max-width: none; }
+textarea { width: 100%; min-height: 72px; border: 1px solid var(--line); border-radius: 10px; background: var(--sunk); padding: 10px 12px; font-size: 15px; resize: vertical; }
+.empty { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 22px 18px; color: var(--muted); }
+.empty b { display: block; color: var(--ink); font-family: var(--font-display); font-size: 18px; margin-bottom: 4px; }
+.moreRow { display: grid; }
+
+/* Hospitals */
+.section-title { margin: 8px 0 0; font-family: var(--font-display); font-size: 20px; font-weight: 600; }
+.hlist { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); }
+.hosp { padding: 14px 16px; border-top: 1px solid var(--line); display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 12px; }
+.hosp:first-child { border-top: 0; }
+.hosp h3 { margin: 0; font-size: 16px; font-weight: 600; line-height: 1.3; }
+.hosp .sys { margin: 0; color: var(--muted); font-size: 14px; }
+.hosp .drive { text-align: right; font-weight: 600; font-size: 15px; white-space: nowrap; }
+.hosp .drive small { display: block; font-weight: 400; color: var(--muted); font-size: 12.5px; }
+.hosp .units { grid-column: 1 / -1; margin: 4px 0 0; font-size: 14px; color: var(--muted); }
+.hosp .foot { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 6px; font-size: 14.5px; }
+.hosp .foot a, .hosp .foot button { color: var(--accent); font-weight: 600; text-decoration: none; }
+.note { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; color: var(--muted); font-size: 14.5px; }
+.note p { margin: 0; }
+.note p + p { margin-top: 6px; }
+
+/* Updates */
+.day { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); overflow: hidden; }
+.day h3 { margin: 0; padding: 14px 16px 4px; font-size: 16px; font-weight: 600; }
+.day .counts { padding: 0 16px 10px; color: var(--muted); font-size: 14px; }
+.day .sum { padding: 0 16px 12px; font-size: 14.5px; }
+.change { padding: 10px 16px; border-top: 1px solid var(--line); display: grid; grid-template-columns: 18px minmax(0, 1fr); gap: 8px; font-size: 14.5px; }
+.change .sym { font-weight: 700; }
+.change .sym.add { color: var(--good); }
+.change .sym.del { color: var(--quiet); }
+.change small { display: block; color: var(--muted); font-size: 13.5px; }
+.foot-note { color: var(--muted); font-size: 13px; text-align: center; margin: 8px 0 0; }
+@media (prefers-reduced-motion: no-preference) { .tab, .chip, .btn { transition: background-color .15s, color .15s; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <p class="kicker">Kiki's job search</p>
+    <h1 id="headline">Bay Area RN jobs</h1>
+    <p class="sub" id="status">Loading…</p>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Views">
+    <button class="tab" role="tab" id="tab-jobs" data-tab="jobs" aria-selected="true">Jobs</button>
+    <button class="tab" role="tab" id="tab-saved" data-tab="saved" aria-selected="false">Saved</button>
+    <button class="tab" role="tab" id="tab-hosp" data-tab="hospitals" aria-selected="false">Hospitals</button>
+    <button class="tab" role="tab" id="tab-upd" data-tab="updates" aria-selected="false">Updates</button>
+  </nav>
+
+  <main id="view"></main>
+  <p class="foot-note">Saved jobs and notes stay on this phone.</p>
+</div>
+
+<script>
+var UNITS = {
+  LD: "L&D", PP: "Mother-Baby", ANTE: "Antepartum", NICU: "NICU", PACU: "Pre-op / PACU", OR: "OR"
+};
+var UNIT_ORDER = ["LD", "PP", "ANTE", "NICU", "PACU", "OR"];
+var FIT = {
+  strong: { label: "Strong match", rank: 0 },
+  possible: { label: "Worth applying", rank: 1 },
+  stretch: { label: "Long shot", rank: 2 }
+};
+var STATES = [
+  { k: "saved", label: "Saved" },
+  { k: "applied", label: "Applied" },
+  { k: "interview", label: "Interviewing" },
+  { k: "offer", label: "Offer" },
+  { k: "pass", label: "Not for me" }
+];
+var AREAS = ["SF", "Peninsula", "Marin", "East Bay", "South Bay"];
+var RESUME = {
+  NICU: "NICU / newborn version", PP: "NICU / newborn version",
+  LD: "Pre-op / PACU version (covers L&D floats and hemorrhage response)",
+  ANTE: "Pre-op / PACU version", PACU: "Pre-op / PACU version", OR: "Pre-op / PACU version"
+};
+
+var state = { jobs: [], facilities: [], updates: [], meta: {}, loaded: false, error: false, showLimit: 25, panelOpen: false, facility: null };
+var prefs = Object.assign({ tab: "jobs", units: [], drive: "any", hours: "any", showLong: false, sort: "best" }, readLocal("prefs") || {});
+var marks = readLocal("marks") || {};
+var lastVisit = readLocal("lastVisit");
+
+function readLocal(k) { try { var v = localStorage.getItem("kiki:" + k); return v ? JSON.parse(v) : null; } catch (e) { return null; } }
+function writeLocal(k, v) { try { localStorage.setItem("kiki:" + k, JSON.stringify(v)); } catch (e) {} }
+function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+function safeUrl(u) { return /^https:\/\//i.test(u || "") ? u : "#"; }
+function todayStr() { var d = new Date(); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); }
+function daysBetween(a, b) { return Math.round((Date.parse(b + "T12:00:00") - Date.parse(a + "T12:00:00")) / 86400000); }
+function fmtDate(s) { if (!s) return ""; return new Date(s + "T12:00:00").toLocaleDateString(undefined, { month: "short", day: "numeric" }); }
+function ago(s) {
+  if (!s) return "";
+  var d = daysBetween(s, todayStr());
+  if (d <= 0) return "today"; if (d === 1) return "yesterday";
+  if (d < 14) return d + " days ago"; if (d < 60) return Math.round(d / 7) + " weeks ago";
+  return Math.round(d / 30) + " months ago";
+}
+
+/* Short, readable summaries of the messy posting fields */
+function shiftShort(s) {
+  s = String(s || "").toLowerCase();
+  if (!s) return "";
+  var plain = s.replace(/(variable|varied|varies) days/g, "");
+  var when = /night|noc|19:|7:00 ?pm|7p/.test(s) ? "Nights" : /evening|3p|3:00 ?pm|15:/.test(s) ? "Evenings" : /\bdays?\b|7a|7:00 ?am|6:15 ?am/.test(plain) ? "Days" : /rotat|variable|varied|varies/.test(s) ? "Varies" : /on-?call|call-in|as-needed/.test(s) ? "On call" : "";
+  var len = (s.match(/\b(12|10|8)[- ]?(h|hr|hour)/) || [])[1];
+  return [when, len ? len + "h" : ""].filter(Boolean).join(" ");
+}
+function hoursShort(j) {
+  var hrs = typeof j.fte === "number" && j.fte > 0 ? Math.round(j.fte * 40) : null;
+  if (j.employment === "Per diem") return "Per diem";
+  if (j.employment === "Full-time") return "Full-time";
+  if (j.employment === "Part-time") return hrs ? "Part-time, " + hrs + "h/wk" : "Part-time";
+  return hrs ? hrs + "h/wk" : "";
+}
+function hoursLong(j) {
+  var hrs = typeof j.fte === "number" && j.fte > 0 ? Math.round(j.fte * 40) : null;
+  var parts = [];
+  if (j.employment && j.employment !== "Unknown") parts.push(j.employment);
+  if (hrs) parts.push(j.fte + " FTE (" + hrs + " hours a week)");
+  return parts.join(", ") || "Not stated";
+}
+function payNums(j) {
+  var nums = (String(j.pay || "").match(/\$\s?[\d,]+(?:\.\d+)?/g) || []).map(function (x) { return parseFloat(x.replace(/[$,\s]/g, "")); });
+  return nums;
+}
+function payShort(j) {
+  var n = payNums(j); if (!n.length) return "";
+  var annual = n[0] > 1000;
+  var f = function (x) { return annual ? "$" + Math.round(x / 1000) + "k" : "$" + Math.round(x); };
+  var s = n.length > 1 && n[1] > n[0] ? f(n[0]) + "–" + f(n[1]).replace("$", "") : f(n[0]);
+  return s + (annual ? "/yr" : "/hr");
+}
+function payRank(j) { var n = payNums(j); if (!n.length) return 0; return n[0] > 1000 ? n[0] / 2080 : n[0]; }
+function isFullish(j) { return j.employment === "Full-time" || (typeof j.fte === "number" && j.fte >= 0.9); }
+function isOpen(j) { return j.status !== "closed"; }
+function isNew(j) {
+  var base = state.meta.baseline;
+  if (!j.firstSeen || (base && j.firstSeen <= base)) return false;
+  return daysBetween(j.firstSeen, todayStr()) <= 3;
+}
+function markOf(id) { return marks[id] || null; }
+function setMark(id, patch) {
+  var next = Object.assign({}, marks[id] || {}, patch, { updatedAt: new Date().toISOString() });
+  if (!next.state) delete next.state;
+  if (!next.note) delete next.note;
+  if (!next.state && !next.note) delete marks[id]; else marks[id] = next;
+  writeLocal("marks", marks);
+}
+
+/* Data */
+function load() {
+  var bust = "?t=" + Date.now();
+  var get = function (p) { return fetch(p + bust, { cache: "no-store" }).then(function (r) { if (!r.ok) throw new Error(p); return r.json(); }); };
+  Promise.all([get("data/jobs.json"), get("data/facilities.json"), get("data/updates.json"), get("data/meta.json")])
+    .then(function (res) {
+      state.jobs = res[0]; state.facilities = res[1]; state.updates = res[2]; state.meta = res[3] || {};
+      state.loaded = true; render();
+      setTimeout(function () { writeLocal("lastVisit", todayStr()); }, 3000);
+    })
+    .catch(function () { state.error = true; state.loaded = true; render(); });
+}
+
+/* Header */
+function renderHeader() {
+  var open = state.jobs.filter(isOpen);
+  var good = open.filter(function (j) { var m = markOf(j.id); return j.fit !== "stretch" && !(m && m.state === "pass"); });
+  var fresh = open.filter(isNew);
+  var h = document.getElementById("headline");
+  var s = document.getElementById("status");
+  if (state.error) { h.textContent = "Bay Area RN jobs"; s.textContent = "Couldn't load the job list. Pull down to refresh."; return; }
+  if (!state.loaded) return;
+  h.innerHTML = "<em>" + good.length + "</em> jobs worth a look";
+  var bits = [];
+  if (state.meta.lastRun) {
+    var d = new Date(state.meta.lastRun);
+    bits.push("Updated " + d.toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" }));
+  }
+  bits.push(fresh.length ? fresh.length + " new" : open.length + " open in total");
+  s.textContent = bits.join(" · ");
+}
+
+/* Jobs tab */
+function passes(j, skip) {
+  if (!isOpen(j)) return false;
+  var m = markOf(j.id); if (m && m.state === "pass") return false;
+  if (state.facility && j.facility !== state.facility) return false;
+  if (skip !== "units" && prefs.units.length && prefs.units.indexOf(j.unit) < 0) return false;
+  if (skip !== "drive" && prefs.drive !== "any" && !(j.drive <= Number(prefs.drive))) return false;
+  if (skip !== "hours" && prefs.hours === "full" && !isFullish(j)) return false;
+  if (skip !== "fit" && !prefs.showLong && !state.facility && j.fit === "stretch") return false;
+  return true;
+}
+function sorted(list) {
+  var fr = function (j) { return (FIT[j.fit] || FIT.stretch).rank; };
+  var posted = function (j) { return j.posted || j.firstSeen || "0000"; };
+  return list.slice().sort(function (a, b) {
+    if (prefs.sort === "new") return posted(b).localeCompare(posted(a)) || fr(a) - fr(b);
+    if (prefs.sort === "drive") return (a.drive || 99) - (b.drive || 99) || fr(a) - fr(b);
+    if (prefs.sort === "pay") return payRank(b) - payRank(a) || fr(a) - fr(b);
+    return fr(a) - fr(b) || (isFullish(b) - isFullish(a)) || (isNew(b) - isNew(a)) || (a.drive || 99) - (b.drive || 99);
+  });
+}
+function activeFilterCount() {
+  return (prefs.units.length ? 1 : 0) + (prefs.drive !== "any" ? 1 : 0) + (prefs.hours !== "any" ? 1 : 0) + (prefs.showLong ? 1 : 0);
+}
+function card(j, saved) {
+  var m = markOf(j.id) || {};
+  var fit = FIT[j.fit] || FIT.stretch;
+  var tags = '<span class="tag unit">' + esc(UNITS[j.unit] || j.unit) + '</span>' +
+    '<span class="tag fit-' + esc(j.fit) + '">' + fit.label + '</span>' +
+    (isNew(j) ? '<span class="tag new">New</span>' : '') +
+    (j.status === "unconfirmed" ? '<span class="tag flag">May be closed</span>' : '') +
+    (j.status === "closed" ? '<span class="tag flag">Closed</span>' : '');
+  var meta = ["~" + j.drive + " min" + (j.toll ? " + toll" : ""), hoursShort(j), shiftShort(j.shift), payShort(j)].filter(Boolean).join(" · ");
+  var saveBtn = '<button class="btn' + (m.state && m.state !== "pass" ? " on" : "") + '" data-act="save" data-id="' + esc(j.id) + '">' + (m.state === "saved" ? "Saved" : (m.state && m.state !== "pass" ? (STATES.filter(function (s) { return s.k === m.state; })[0] || {}).label : "Save")) + '</button>';
+  var top = saved
+    ? '<div class="row2"><select class="select statussel" data-statusfor="' + esc(j.id) + '" aria-label="Status">' +
+        STATES.map(function (s) { return '<option value="' + s.k + '"' + (m.state === s.k ? " selected" : "") + '>' + s.label + '</option>'; }).join("") +
+        '<option value="">Remove</option></select>' +
+        '<a class="btn primary" href="' + esc(safeUrl(j.url)) + '" target="_blank" rel="noopener">View posting</a></div>' +
+        '<label class="dl"><span class="k">Notes</span><textarea data-note="' + esc(j.id) + '" placeholder="Recruiter, interview date, questions…">' + esc(m.note || "") + '</textarea></label>'
+    : '<div class="actions">' + saveBtn + '<a class="btn primary" href="' + esc(safeUrl(j.url)) + '" target="_blank" rel="noopener">View posting</a></div>';
+  var postedTxt = j.posted ? "Posted " + fmtDate(j.posted) + " (" + ago(j.posted) + ")" : "Posted date not shown";
+  return '<article class="job">' +
+    '<div class="tags">' + tags + '</div>' +
+    '<h2>' + esc(j.title) + '</h2>' +
+    '<p class="where">' + esc(j.facilityName) + '</p>' +
+    '<p class="meta">' + esc(meta) + '</p>' +
+    (j.fitNote ? '<p class="why">' + esc(j.fitNote) + '</p>' : '') +
+    top +
+    '<details class="more"><summary>Details</summary><div class="dl">' +
+      (j.needs ? '<p><span class="k">What they ask for</span>' + esc(j.needs) + '</p>' : '') +
+      '<p><span class="k">Hours</span>' + esc(hoursLong(j)) + '</p>' +
+      (j.shift ? '<p><span class="k">Schedule</span>' + esc(j.shift) + '</p>' : '') +
+      (j.pay ? '<p><span class="k">Pay</span>' + esc(j.pay) + '</p>' : '') +
+      '<p><span class="k">Where</span>' + esc(j.facilityName) + ', ' + esc(j.city) + ' (' + esc(j.system) + '). About ' + esc(j.drive) + ' min drive' + (j.toll ? ', ' + esc(j.toll) + ' toll on the way home' : '') + '.</p>' +
+      '<p><span class="k">Resume to send</span>' + esc(RESUME[j.unit] || RESUME.PACU) + '</p>' +
+      '<p><span class="k">Dates</span>' + esc(postedTxt) + '. Last confirmed open ' + esc(fmtDate(j.lastSeen)) + '.</p>' +
+      (saved ? '' : '<div class="row2"><button class="btn' + (m.state === "applied" ? " on" : "") + '" data-act="applied" data-id="' + esc(j.id) + '">' + (m.state === "applied" ? "Applied" : "Mark applied") + '</button><button class="btn" data-act="pass" data-id="' + esc(j.id) + '">Not for me</button></div>') +
+    '</div></details>' +
+  '</article>';
+}
+function renderJobs() {
+  if (!state.loaded) return '<div class="empty"><b>Loading jobs</b>One moment.</div>';
+  if (state.error) return '<div class="empty"><b>Couldn’t load the job list</b>Check your connection and reload the page.</div>';
+  var all = state.jobs;
+  var list = sorted(all.filter(function (j) { return passes(j); }));
+  var n = activeFilterCount();
+  var fac = state.facility ? state.facilities.filter(function (f) { return f.key === state.facility; })[0] : null;
+  var toolbar = '<div class="toolbar">' +
+    '<button class="btn' + (state.panelOpen ? " on" : "") + '" data-act="panel" aria-expanded="' + state.panelOpen + '">Filters' + (n ? ' <span class="badge">' + n + '</span>' : '') + '</button>' +
+    '<select class="select" id="sortSel" aria-label="Sort">' +
+      [["best", "Best match"], ["new", "Newest"], ["drive", "Closest"], ["pay", "Highest pay"]].map(function (o) { return '<option value="' + o[0] + '"' + (prefs.sort === o[0] ? " selected" : "") + '>' + o[1] + '</option>'; }).join("") +
+    '</select></div>';
+  var longCount = all.filter(function (j) { return j.fit === "stretch" && passes(j, "fit"); }).length;
+  var panel = !state.panelOpen ? "" : '<div class="panel">' +
+    '<div class="fgroup"><span class="flabel">Unit</span><div class="chips">' +
+      UNIT_ORDER.map(function (u) { return '<button class="chip" data-unit="' + u + '" aria-pressed="' + (prefs.units.indexOf(u) >= 0) + '">' + esc(UNITS[u]) + '</button>'; }).join("") +
+    '</div></div>' +
+    '<div class="fgroup"><span class="flabel">Max drive</span><div class="chips">' +
+      [["any", "Any"], ["20", "20 min"], ["30", "30 min"], ["45", "45 min"]].map(function (o) { return '<button class="chip" data-drive="' + o[0] + '" aria-pressed="' + (prefs.drive === o[0]) + '">' + o[1] + '</button>'; }).join("") +
+    '</div></div>' +
+    '<div class="fgroup"><span class="flabel">Hours</span><div class="chips">' +
+      '<button class="chip" data-hours="any" aria-pressed="' + (prefs.hours === "any") + '">Any</button>' +
+      '<button class="chip" data-hours="full" aria-pressed="' + (prefs.hours === "full") + '">Full-time (36h+)</button>' +
+    '</div></div>' +
+    '<label class="switch" for="showLong"><span>Show long shots (' + longCount + ')</span><input type="checkbox" id="showLong"' + (prefs.showLong ? " checked" : "") + '></label>' +
+    '<div class="row2"><button class="btn" data-act="clear">Clear all</button><button class="btn primary" data-act="panel">Done</button></div>' +
+  '</div>';
+  var desc = [];
+  if (fac) desc.push(esc(fac.name));
+  if (prefs.units.length) desc.push(prefs.units.map(function (u) { return esc(UNITS[u]); }).join(", "));
+  if (prefs.drive !== "any") desc.push("under " + prefs.drive + " min");
+  if (prefs.hours === "full") desc.push("full-time");
+  var summary = '<p class="summary"><span><b>' + list.length + '</b> ' + (list.length === 1 ? "job" : "jobs") + (desc.length ? " · " + desc.join(" · ") : "") + '</span>' +
+    ((desc.length || prefs.showLong) ? '<button class="linkbtn" data-act="clear">Clear</button>' : '') + '</p>';
+  var body;
+  if (!list.length) body = '<div class="empty"><b>Nothing matches</b>Try a longer drive, any hours, or show long shots.</div>';
+  else {
+    var shown = list.slice(0, state.showLimit);
+    body = '<div class="list">' + shown.map(function (j) { return card(j, false); }).join("") + '</div>' +
+      (list.length > shown.length ? '<div class="moreRow"><button class="btn" data-act="more">Show ' + (list.length - shown.length) + ' more</button></div>' : '');
+  }
+  return '<div class="list" style="gap:12px">' + toolbar + panel + summary + body + '</div>';
+}
+
+/* Saved tab */
+function renderSaved() {
+  var byId = {}; state.jobs.forEach(function (j) { byId[j.id] = j; });
+  var lanes = STATES.map(function (s) {
+    return { s: s, items: Object.keys(marks).filter(function (id) { return marks[id].state === s.k && byId[id]; }).map(function (id) { return byId[id]; }) };
+  }).filter(function (l) { return l.items.length; });
+  if (!lanes.length) return '<div class="empty"><b>Nothing saved yet</b>Tap Save on any job and it shows up here, where you can track where you applied and keep notes.</div>';
+  return '<div class="list" style="gap:12px">' + lanes.map(function (l) {
+    return '<h2 class="section-title">' + l.s.label + ' (' + l.items.length + ')</h2><div class="list">' + l.items.map(function (j) { return card(j, true); }).join("") + '</div>';
+  }).join("") + '</div>';
+}
+
+/* Hospitals tab */
+function renderHospitals() {
+  var openBy = {};
+  state.jobs.filter(isOpen).forEach(function (j) { openBy[j.facility] = (openBy[j.facility] || 0) + 1; });
+  var intro = '<div class="note"><p>Every hospital and surgery center within about 55 minutes of north and central SF that has L&amp;D, mother-baby, NICU or pre-op/PACU nurses.</p><p>Drive times are rough weekday-morning estimates. Night shifts are usually quicker. Bridge tolls are paid coming back into the city.</p></div>';
+  return '<div class="list" style="gap:12px">' + intro + AREAS.map(function (a) {
+    var hs = state.facilities.filter(function (f) { return f.area === a; }).sort(function (x, y) { return x.drive - y.drive; });
+    if (!hs.length) return "";
+    return '<h2 class="section-title">' + esc(a) + '</h2><div class="hlist">' + hs.map(function (f) {
+      var o = openBy[f.key] || 0;
+      return '<div class="hosp"><div><h3>' + esc(f.name) + '</h3><p class="sys">' + esc(f.system) + ' · ' + esc(f.city) + '</p></div>' +
+        '<div class="drive">~' + f.drive + ' min<small>' + (f.toll ? "toll" : "no toll") + '</small></div>' +
+        '<p class="units">' + esc(f.units) + '</p>' +
+        '<div class="foot">' + (o ? '<button class="linkbtn" data-act="facility" data-fac="' + esc(f.key) + '">' + o + ' open job' + (o > 1 ? "s" : "") + '</button>' : '<span style="color:var(--muted)">No matching jobs right now</span>') +
+        '<a href="' + esc(safeUrl(f.careers)) + '" target="_blank" rel="noopener">Careers site</a></div></div>';
+    }).join("") + '</div>';
+  }).join("") + '</div>';
+}
+
+/* Updates tab */
+function renderUpdates() {
+  if (!state.updates.length) return '<div class="empty"><b>No updates yet</b>Each refresh lists the jobs that appeared and the ones that closed.</div>';
+  return '<div class="list" style="gap:12px">' + state.updates.slice().sort(function (a, b) { return b.date.localeCompare(a.date); }).map(function (r) {
+    var added = r.added || [], closed = r.closed || [];
+    var d = new Date(r.date + "T12:00:00").toLocaleDateString(undefined, { weekday: "long", month: "short", day: "numeric" });
+    return '<section class="day"><h3>' + esc(d) + '</h3>' +
+      '<div class="counts">' + (r.addedCount != null ? r.addedCount : added.length) + ' new · ' + (r.closedCount != null ? r.closedCount : closed.length) + ' closed</div>' +
+      (r.summary ? '<div class="sum">' + esc(r.summary) + '</div>' : '') +
+      added.map(function (a) { return '<div class="change"><span class="sym add">+</span><span>' + esc(a.title) + '<small>' + esc(a.facilityName || "") + '</small></span></div>'; }).join("") +
+      closed.map(function (a) { return '<div class="change"><span class="sym del">−</span><span>' + esc(a.title) + '<small>' + esc(a.facilityName || "") + ' · closed</small></span></div>'; }).join("") +
+    '</section>';
+  }).join("") + '</div>';
+}
+
+/* Render + events */
+function render() {
+  renderHeader();
+  Array.prototype.forEach.call(document.querySelectorAll(".tab"), function (t) { t.setAttribute("aria-selected", String(t.dataset.tab === prefs.tab)); });
+  var ae = document.activeElement;
+  if (ae && ae.matches && ae.matches("textarea[data-note]")) return;
+  var v = document.getElementById("view");
+  var openIds = Array.prototype.map.call(v.querySelectorAll("details[open]"), function (d) { var h = d.closest(".job"); return h ? h.querySelector("h2").textContent + "|" + h.querySelector(".where").textContent : ""; });
+  v.innerHTML = prefs.tab === "saved" ? renderSaved() : prefs.tab === "hospitals" ? renderHospitals() : prefs.tab === "updates" ? renderUpdates() : renderJobs();
+  if (openIds.length) Array.prototype.forEach.call(v.querySelectorAll(".job"), function (el) {
+    var key = el.querySelector("h2").textContent + "|" + el.querySelector(".where").textContent;
+    if (openIds.indexOf(key) >= 0) { var d = el.querySelector("details"); if (d) d.open = true; }
+  });
+}
+function savePrefs() { writeLocal("prefs", prefs); }
+
+document.addEventListener("click", function (e) {
+  var t = e.target.closest("button"); if (!t) return;
+  if (t.dataset.tab) { prefs.tab = t.dataset.tab; savePrefs(); render(); window.scrollTo(0, 0); return; }
+  if (t.dataset.unit) { var u = t.dataset.unit; prefs.units = prefs.units.indexOf(u) >= 0 ? prefs.units.filter(function (x) { return x !== u; }) : prefs.units.concat(u); state.showLimit = 25; savePrefs(); render(); return; }
+  if (t.dataset.drive) { prefs.drive = t.dataset.drive; savePrefs(); render(); return; }
+  if (t.dataset.hours) { prefs.hours = t.dataset.hours; savePrefs(); render(); return; }
+  var act = t.dataset.act, id = t.dataset.id;
+  if (act === "panel") { state.panelOpen = !state.panelOpen; render(); return; }
+  if (act === "clear") { prefs.units = []; prefs.drive = "any"; prefs.hours = "any"; prefs.showLong = false; state.facility = null; savePrefs(); render(); return; }
+  if (act === "more") { state.showLimit += 25; render(); return; }
+  if (act === "facility") { state.facility = t.dataset.fac; prefs.tab = "jobs"; state.panelOpen = false; savePrefs(); render(); window.scrollTo(0, 0); return; }
+  if (!id) return;
+  var cur = (markOf(id) || {}).state;
+  if (act === "save") setMark(id, { state: cur ? null : "saved" });
+  else if (act === "applied") setMark(id, { state: cur === "applied" ? null : "applied" });
+  else if (act === "pass") setMark(id, { state: "pass" });
+  render();
+});
+document.addEventListener("change", function (e) {
+  if (e.target.id === "showLong") { prefs.showLong = e.target.checked; savePrefs(); render(); return; }
+  if (e.target.id === "sortSel") { prefs.sort = e.target.value; savePrefs(); render(); return; }
+  var sid = e.target.dataset && e.target.dataset.statusfor;
+  if (sid) { setMark(sid, { state: e.target.value || null }); render(); }
+});
+var noteTimers = {};
+document.addEventListener("input", function (e) {
+  var id = e.target.dataset && e.target.dataset.note; if (!id) return;
+  clearTimeout(noteTimers[id]);
+  var val = e.target.value;
+  noteTimers[id] = setTimeout(function () { setMark(id, { note: val }); }, 500);
+});
+document.addEventListener("focusout", function (e) {
+  var id = e.target.dataset && e.target.dataset.note; if (!id) return;
+  clearTimeout(noteTimers[id]); setMark(id, { note: e.target.value });
+  setTimeout(render, 0);
+});
+
+(function init() {
+  var hash = (location.hash || "").slice(1);
+  if (["jobs", "saved", "hospitals", "updates"].indexOf(hash) >= 0) prefs.tab = hash;
+  render();
+  load();
+})();
+</script>
+</body>
+</html>
