@@ -7,7 +7,7 @@
   "area": "SF",
   "drive": 7,
   "toll": "",
-  "units": "L&D, Mother-Baby, Level III NICU, ASU/PACU, GI lab / endoscopy, Pre-Registration & Learning Center (pre-admission), OR",
+  "units": "L&D, Mother-Baby, Level III NICU, Pre-admission, ASU/PACU, GI lab, OR",
   "careers": "https://jobs.sutterhealth.org"
  },
  {
@@ -51,7 +51,7 @@
   "area": "SF",
   "drive": 12,
   "toll": "",
-  "units": "L&D, Mother-Baby, Level III NICU, Pre-op/PACU, OR, GI lab / endoscopy (busy procedural center; regional advanced endoscopy referral center per KP SF GI fellowship)",
+  "units": "L&D, Mother-Baby, Level III NICU, Pre-op/PACU, OR, GI lab, fertility clinic",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -62,7 +62,7 @@
   "area": "SF",
   "drive": 12,
   "toll": "",
-  "units": "Pre-admission / pre-op phone screening, Pre-op/PACU, OR (outpatient)",
+  "units": "Pre-op screening, Pre-op/PACU, OR (outpatient)",
   "careers": "https://jobs.sutterhealth.org"
  },
  {
@@ -73,7 +73,7 @@
   "area": "SF",
   "drive": 12,
   "toll": "",
-  "units": "Gyn-onc surgery, Pre-op/PACU, GI lab / endoscopy (Endoscopy MZ), ambulatory OB clinic",
+  "units": "Gyn-onc surgery, Pre-op/PACU, GI lab, OB clinic, fertility clinic",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -106,7 +106,7 @@
   "area": "SF",
   "drive": 16,
   "toll": "",
-  "units": "Adult Pre-op/PACU, OR (Moffitt-Long), GI endoscopy (staffed with Endoscopy MZ)",
+  "units": "Adult Pre-op/PACU, OR, GI lab",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -117,7 +117,7 @@
   "area": "SF",
   "drive": 18,
   "toll": "",
-  "units": "Birth Center (LDRP), Antepartum, Level IV ICN, Pre-op/PACU, adult + pediatric OR, ambulatory OB clinic",
+  "units": "Birth Center (LDRP), Antepartum, Level IV ICN, Pre-op/PACU, OR, OB clinic, fertility clinic",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -139,7 +139,7 @@
   "area": "SF",
   "drive": 18,
   "toll": "",
-  "units": "Birth Center (L&D/PP/antepartum), NICU (Infant Care Center), PACU, GI endoscopy",
+  "units": "Birth Center (L&D/PP/antepartum), NICU, PACU, GI lab",
   "careers": "https://careers.sf.gov"
  },
  {
@@ -183,7 +183,7 @@
   "area": "Marin",
   "drive": 25,
   "toll": "Golden Gate",
-  "units": "LDRP Birth Center, NICU, Pre-op/PACU, OR, Endoscopy",
+  "units": "LDRP Birth Center, NICU, Pre-op/PACU, OR, GI lab",
   "careers": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers"
  },
  {
@@ -227,7 +227,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "L&D, Mother-Baby, Level III NICU, Pre-op/PACU, OR, GI lab / endoscopy (regional referral center for motility and advanced esophageal procedures per KP GI fellowship)",
+  "units": "L&D, Mother-Baby, Level III NICU, Pre-op/PACU, OR, GI lab",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -238,7 +238,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "Level III NICU, pediatric PACU, pediatric OR (with Walnut Creek ASC)",
+  "units": "Level III NICU, pediatric PACU, pediatric OR",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -271,7 +271,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "L&D / Family Birthing Center, Mother-Baby, NICU, MCH/OB clinic (procedural sedation), endoscopy unit",
+  "units": "L&D, Mother-Baby, NICU, OB clinic, GI lab",
   "careers": "https://www.alamedahealthsystem.org/careers/"
  },
  {
@@ -282,7 +282,7 @@
   "area": "East Bay",
   "drive": 30,
   "toll": "Bay Bridge",
-  "units": "L&D, Mother-Baby, Level III NICU, PACU, GI endoscopy (Ashby)",
+  "units": "L&D, Mother-Baby, Level III NICU, PACU, GI lab",
   "careers": "https://jobs.sutterhealth.org"
  },
  {
@@ -381,7 +381,7 @@
   "area": "East Bay",
   "drive": 42,
   "toll": "Bay Bridge",
-  "units": "L&D, Nursery, Postpartum, PACU (perianesthesia), GI lab, OR",
+  "units": "L&D, Nursery, Postpartum, PACU, GI lab, OR",
   "careers": "https://www.governmentjobs.com/careers/contracosta"
  },
  {
@@ -392,7 +392,7 @@
   "area": "South Bay",
   "drive": 50,
   "toll": "",
-  "units": "L&D, Mother-Baby, Level IV NICU, pediatric pre-op/PACU, pediatric OR/CVOR",
+  "units": "L&D, Mother-Baby, Level IV NICU, pediatric pre-op/PACU, pediatric OR",
   "careers": "https://careers.stanfordchildrens.org"
  },
  {
@@ -403,7 +403,7 @@
   "area": "South Bay",
   "drive": 50,
   "toll": "",
-  "units": "Adult Pre-op/PACU (500P Pre-Post Care), procedure rooms (TEE/bronch), GI lab / endoscopy (300P), OR incl. CVOR",
+  "units": "Adult Pre-op/PACU, procedure rooms, GI lab, OR",
   "careers": "https://careers.stanfordhealthcare.org"
  },
  {
@@ -436,7 +436,7 @@
   "area": "South Bay",
   "drive": 55,
   "toll": "",
-  "units": "L&D, Mother-Baby, Level III NICU, Pre-op/PACU, Pre-Admission Services, OR",
+  "units": "L&D, Mother-Baby, Level III NICU, Pre-admission, Pre-op/PACU, OR",
   "careers": "https://www.elcaminohealth.org/careers"
  },
  {
@@ -548,5 +548,335 @@
   "toll": "Golden Gate",
   "units": "Office-based plastic surgery recovery (PACU)",
   "careers": "https://www.simplyhired.com/job/GMgW2j5zEJMoHBUJxAZajj6jN5-YDd32FV1RaK-Rzb0f1yRoJJT8PA"
+ },
+ {
+  "key": "spring-sf-ph",
+  "name": "Spring Fertility SF (Pacific Heights)",
+  "system": "Spring Fertility",
+  "city": "San Francisco",
+  "area": "SF",
+  "drive": 8,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://job-boards.greenhouse.io/springfertility"
+ },
+ {
+  "key": "spring-sf-soma",
+  "name": "Spring Fertility SF (SoMa)",
+  "system": "Spring Fertility",
+  "city": "San Francisco",
+  "area": "SF",
+  "drive": 15,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://job-boards.greenhouse.io/springfertility"
+ },
+ {
+  "key": "spring-rwc",
+  "name": "Spring Fertility Redwood City",
+  "system": "Spring Fertility",
+  "city": "Redwood City",
+  "area": "Peninsula",
+  "drive": 35,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://job-boards.greenhouse.io/springfertility"
+ },
+ {
+  "key": "spring-sv",
+  "name": "Spring Fertility Silicon Valley",
+  "system": "Spring Fertility",
+  "city": "Sunnyvale",
+  "area": "South Bay",
+  "drive": 55,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://job-boards.greenhouse.io/springfertility"
+ },
+ {
+  "key": "spring-oak",
+  "name": "Spring Fertility Oakland",
+  "system": "Spring Fertility",
+  "city": "Oakland",
+  "area": "East Bay",
+  "drive": 25,
+  "toll": "Bay Bridge",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://job-boards.greenhouse.io/springfertility"
+ },
+ {
+  "key": "spring-danville",
+  "name": "Spring Fertility Danville",
+  "system": "Spring Fertility",
+  "city": "Danville",
+  "area": "East Bay",
+  "drive": 45,
+  "toll": "Bay Bridge",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://job-boards.greenhouse.io/springfertility"
+ },
+ {
+  "key": "kindbody-sf",
+  "name": "Kindbody San Francisco",
+  "system": "Kindbody",
+  "city": "San Francisco",
+  "area": "SF",
+  "drive": 12,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://boards.greenhouse.io/kindbody"
+ },
+ {
+  "key": "kindbody-wc",
+  "name": "Kindbody Walnut Creek",
+  "system": "Kindbody",
+  "city": "Walnut Creek",
+  "area": "East Bay",
+  "drive": 40,
+  "toll": "Bay Bridge",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://boards.greenhouse.io/kindbody"
+ },
+ {
+  "key": "pfc-sf",
+  "name": "Pacific Fertility Center SF",
+  "system": "Prelude Fertility",
+  "city": "San Francisco",
+  "area": "SF",
+  "drive": 8,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.preludefertility.com/about-us/careers/opportunities"
+ },
+ {
+  "key": "pfc-marin",
+  "name": "Pacific Fertility Center Marin",
+  "system": "Prelude Fertility",
+  "city": "Greenbrae",
+  "area": "Marin",
+  "drive": 25,
+  "toll": "Golden Gate",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.preludefertility.com/about-us/careers/opportunities"
+ },
+ {
+  "key": "mfc-marin",
+  "name": "Marin Fertility Center",
+  "system": "Independent",
+  "city": "Greenbrae",
+  "area": "Marin",
+  "drive": 25,
+  "toll": "Golden Gate",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://marinfertilitycenter.com/careers"
+ },
+ {
+  "key": "lane-novato",
+  "name": "Lane Fertility Institute",
+  "system": "Independent",
+  "city": "Novato",
+  "area": "Marin",
+  "drive": 35,
+  "toll": "Golden Gate",
+  "units": "Fertility / IVF clinic",
+  "careers": ""
+ },
+ {
+  "key": "hrc-sf",
+  "name": "HRC Fertility San Francisco",
+  "system": "HRC Fertility",
+  "city": "San Francisco",
+  "area": "SF",
+  "drive": 8,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.glassdoor.com/Jobs/HRC-Fertility-Clinics-Jobs-E1429744.htm"
+ },
+ {
+  "key": "hrc-fc",
+  "name": "HRC Fertility Foster City",
+  "system": "HRC Fertility",
+  "city": "Foster City",
+  "area": "Peninsula",
+  "drive": 28,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.glassdoor.com/Jobs/HRC-Fertility-Clinics-Jobs-E1429744.htm"
+ },
+ {
+  "key": "laurel-sf",
+  "name": "Laurel Fertility Care SF",
+  "system": "Independent",
+  "city": "San Francisco",
+  "area": "SF",
+  "drive": 7,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://laurelfertility.com/careers/"
+ },
+ {
+  "key": "laurel-oak",
+  "name": "Laurel Fertility Care Oakland",
+  "system": "Independent",
+  "city": "Oakland",
+  "area": "East Bay",
+  "drive": 25,
+  "toll": "Bay Bridge",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://laurelfertility.com/careers/"
+ },
+ {
+  "key": "everleap-sf",
+  "name": "Everleap Fertility SF (formerly RMA)",
+  "system": "Everleap Fertility (IVI RMA)",
+  "city": "San Francisco",
+  "area": "SF",
+  "drive": 12,
+  "toll": "",
+  "units": "Fertility / IVF clinic with surgery center",
+  "careers": "https://www.ziprecruiter.com/co/Ivi-Rma-North-America/Jobs/-in-San-Francisco,CA"
+ },
+ {
+  "key": "everleap-epa",
+  "name": "Everleap Fertility Palo Alto",
+  "system": "Everleap Fertility (IVI RMA)",
+  "city": "East Palo Alto",
+  "area": "Peninsula",
+  "drive": 40,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.ziprecruiter.com/co/Ivi-Rma-North-America/Jobs/-in-San-Francisco,CA"
+ },
+ {
+  "key": "everleap-danville",
+  "name": "Everleap Fertility Danville",
+  "system": "Everleap Fertility (IVI RMA)",
+  "city": "Danville",
+  "area": "East Bay",
+  "drive": 45,
+  "toll": "Bay Bridge",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.ziprecruiter.com/co/Ivi-Rma-North-America/Jobs/-in-San-Francisco,CA"
+ },
+ {
+  "key": "ccrm-mp",
+  "name": "CCRM Fertility Menlo Park",
+  "system": "CCRM Fertility",
+  "city": "Menlo Park",
+  "area": "Peninsula",
+  "drive": 38,
+  "toll": "",
+  "units": "Fertility / IVF clinic with surgery center",
+  "careers": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&lang=en_US"
+ },
+ {
+  "key": "rsc-sr",
+  "name": "Reproductive Science Center San Ramon",
+  "system": "US Fertility",
+  "city": "San Ramon",
+  "area": "East Bay",
+  "drive": 45,
+  "toll": "Bay Bridge",
+  "units": "Fertility / IVF clinic with surgery center",
+  "careers": "https://www.usfertility.com/careers"
+ },
+ {
+  "key": "rsc-sm",
+  "name": "Reproductive Science Center San Mateo",
+  "system": "US Fertility",
+  "city": "San Mateo",
+  "area": "Peninsula",
+  "drive": 28,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.usfertility.com/careers"
+ },
+ {
+  "key": "rsc-oak",
+  "name": "Reproductive Science Center Oakland",
+  "system": "US Fertility",
+  "city": "Oakland",
+  "area": "East Bay",
+  "drive": 25,
+  "toll": "Bay Bridge",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.usfertility.com/careers"
+ },
+ {
+  "key": "rsc-mp",
+  "name": "Reproductive Science Center Menlo Park",
+  "system": "US Fertility",
+  "city": "Menlo Park",
+  "area": "Peninsula",
+  "drive": 38,
+  "toll": "",
+  "units": "Fertility / IVF clinic with surgery center",
+  "careers": "https://www.usfertility.com/careers"
+ },
+ {
+  "key": "collab-wc",
+  "name": "Collab Fertility Walnut Creek",
+  "system": "Collab Fertility",
+  "city": "Walnut Creek",
+  "area": "East Bay",
+  "drive": 40,
+  "toll": "Bay Bridge",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.collabfertility.com/careers"
+ },
+ {
+  "key": "bayivf",
+  "name": "Bay IVF Mountain View",
+  "system": "Independent",
+  "city": "Palo Alto",
+  "area": "South Bay",
+  "drive": 45,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://bayivf.com/"
+ },
+ {
+  "key": "nova-mv",
+  "name": "Nova IVF Mountain View",
+  "system": "Ivy Fertility",
+  "city": "Mountain View",
+  "area": "South Bay",
+  "drive": 55,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.ivyfertility.com/careers"
+ },
+ {
+  "key": "stanford-fert",
+  "name": "Stanford Fertility",
+  "system": "Stanford Medicine Children's Health",
+  "city": "Sunnyvale",
+  "area": "South Bay",
+  "drive": 55,
+  "toll": "",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://careers.stanfordchildrens.org/location/sunnyvale-jobs/47520/6252001-5332921-5400075/4"
+ },
+ {
+  "key": "kp-sanramon",
+  "name": "Kaiser Fertility Center San Ramon",
+  "system": "Kaiser Permanente",
+  "city": "San Ramon",
+  "area": "East Bay",
+  "drive": 45,
+  "toll": "Bay Bridge",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.kaiserpermanentejobs.org"
+ },
+ {
+  "key": "kp-fremont",
+  "name": "Kaiser Fertility Center Fremont",
+  "system": "Kaiser Permanente",
+  "city": "Fremont",
+  "area": "East Bay",
+  "drive": 50,
+  "toll": "San Mateo Bridge",
+  "units": "Fertility / IVF clinic",
+  "careers": "https://www.kaiserpermanentejobs.org"
  }
 ]

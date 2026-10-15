@@ -10,9 +10,9 @@
  },
  {
   "date": "2026-10-15",
-  "ranAt": "2026-10-15T18:57:25+00:00",
-  "summary": "43 new openings, 22 of them strong or worth applying. 4 closed. First sweep to include GI lab and pre-op-only roles. The independent surgery and endoscopy center search was cut short, so a few small centers may be missing.",
-  "addedCount": 43,
+  "ranAt": "2026-10-15T20:16:27+00:00",
+  "summary": "43 new openings, 22 of them strong or worth applying. 4 closed. First sweep to include GI lab and pre-op-only roles. The independent surgery and endoscopy center search was cut short, so a few small centers may be missing. Fertility clinics added later in the day: 13 openings across 30 newly tracked clinics. Many fertility roles require ACLS at hire.",
+  "addedCount": 56,
   "closedCount": 4,
   "added": [
    {
@@ -271,6 +271,84 @@
     "id": "SHC-R2331249",
     "title": "Clinical Nurse (RN) - Cardiovascular Operating Room (0.9 FTE, 12-Hour Rotating Shifts, Call Required)",
     "facilityName": "Stanford Hospital",
+    "fit": "stretch"
+   },
+   {
+    "id": "EVERLEAP-ZR8aabf7a137a5a562",
+    "title": "Registered Nurse",
+    "facilityName": "Everleap Fertility SF (formerly RMA)",
+    "fit": "strong"
+   },
+   {
+    "id": "USF-GD1010294403366",
+    "title": "IVF RN Case Manager",
+    "facilityName": "Reproductive Science Center San Mateo",
+    "fit": "strong"
+   },
+   {
+    "id": "CCRM-9201240650469",
+    "title": "Surgery Center Staff Nurse",
+    "facilityName": "CCRM Fertility Menlo Park",
+    "fit": "strong"
+   },
+   {
+    "id": "COLLAB-GD1010231225710",
+    "title": "Registered Nurse (RN) Fertility",
+    "facilityName": "Collab Fertility Walnut Creek",
+    "fit": "strong"
+   },
+   {
+    "id": "USF-fdf04bff",
+    "title": "Registered Nurse - Third Party Case Manager",
+    "facilityName": "Reproductive Science Center San Ramon",
+    "fit": "strong"
+   },
+   {
+    "id": "USF-GD1010295466341",
+    "title": "IVF RN Case Manager",
+    "facilityName": "Reproductive Science Center San Ramon",
+    "fit": "strong"
+   },
+   {
+    "id": "NOVA-GD1010167411893",
+    "title": "Patient Care Coordinator-RN",
+    "facilityName": "Nova IVF Mountain View",
+    "fit": "strong"
+   },
+   {
+    "id": "EVERLEAP-GD1010286234661",
+    "title": "Temporary Surgical Center Nurse (RN)",
+    "facilityName": "Everleap Fertility SF (formerly RMA)",
+    "fit": "possible"
+   },
+   {
+    "id": "CCRM-9201315399176",
+    "title": "IVF Nurse Coordinator (RN)",
+    "facilityName": "CCRM Fertility Menlo Park",
+    "fit": "possible"
+   },
+   {
+    "id": "USF-7b5f321a",
+    "title": "OR/PACU RN Part-Time",
+    "facilityName": "Reproductive Science Center Menlo Park",
+    "fit": "possible"
+   },
+   {
+    "id": "SPRING-4742101005",
+    "title": "Registered Nurse (RN)",
+    "facilityName": "Spring Fertility Danville",
+    "fit": "possible"
+   },
+   {
+    "id": "USF-afdd1ccd",
+    "title": "OR/PACU RN Part-Time",
+    "facilityName": "Reproductive Science Center San Ramon",
+    "fit": "possible"
+   },
+   {
+    "id": "USF-f5da8c9b",
+    "title": "OR/PACU RN Per Diem (Float)",
+    "facilityName": "Reproductive Science Center San Ramon",
     "fit": "stretch"
    }
   ],
