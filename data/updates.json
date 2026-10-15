@@ -7,5 +7,294 @@
   "closedCount": 0,
   "added": [],
   "closed": []
+ },
+ {
+  "date": "2026-10-15",
+  "ranAt": "2026-10-15T18:57:25+00:00",
+  "summary": "43 new openings, 22 of them strong or worth applying. 4 closed. First sweep to include GI lab and pre-op-only roles. The independent surgery and endoscopy center search was cut short, so a few small centers may be missing.",
+  "addedCount": 43,
+  "closedCount": 4,
+  "added": [
+   {
+    "id": "sutter-R-137822",
+    "title": "Staff Nurse II, Pre-Registration & Learning Center",
+    "facilityName": "CPMC Van Ness",
+    "fit": "strong"
+   },
+   {
+    "id": "ucsf-4587",
+    "title": "Registered Nurse - Ambulatory OB",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)",
+    "fit": "strong"
+   },
+   {
+    "id": "AHS-GD1010295994903",
+    "title": "Clinical Nurse II - Obstetrics (Per Diem)",
+    "facilityName": "Highland Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "AHS-GD1009899129582",
+    "title": "Clinical Nurse II - Labor and Delivery (Part-time, Nights)",
+    "facilityName": "Highland Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "SHCTV-R2660812",
+    "title": "Registered Nurse (RN) Labor and Delivery Full Time Nights",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "strong"
+   },
+   {
+    "id": "SHCTV-R2659231",
+    "title": "PD PACU RN",
+    "facilityName": "Stanford Tri-Valley Livermore Surgery Center",
+    "fit": "strong"
+   },
+   {
+    "id": "MEDBRIDGE-1010102027604",
+    "title": "MBV/PHSC Pre Op/PACU RN - Per Diem (Pacific Heights Surgery Center)",
+    "facilityName": "Pacific Heights Surgery Center",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-142368",
+    "title": "Ambulatory Services Nurse II, Gastroenterology",
+    "facilityName": "Golden Gate Endoscopy Center",
+    "fit": "possible"
+   },
+   {
+    "id": "ucsf-3768",
+    "title": "Perinatal RN Navigator (EMBRACE program)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)",
+    "fit": "possible"
+   },
+   {
+    "id": "MH-JR102390",
+    "title": "Clinical RN II, Neonatal Intensive Care, Part-Time, (24 Hour Week), Variable Shifts",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "AHS-GD1009899129583",
+    "title": "CN II - Ambulatory Procedural Nurse (MCH/OB Clinic K6)",
+    "facilityName": "Highland Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "AHS-GD1009945710895",
+    "title": "CN II - Ambulatory Procedural Nurse (MCH/OB Clinic K6, Per Diem)",
+    "facilityName": "Highland Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "MEDBRIDGE-1010070878474",
+    "title": "PT OAK PAT RN (Pre-Admission Testing) - The Surgery Center of Oakland",
+    "facilityName": "The Surgery Center of Oakland",
+    "fit": "possible"
+   },
+   {
+    "id": "MEDBRIDGE-1010277326932",
+    "title": "OAK FT PreOp-PACU RN - The Surgery Center of Oakland",
+    "facilityName": "The Surgery Center of Oakland",
+    "fit": "possible"
+   },
+   {
+    "id": "MEDBRIDGE-1009718126609",
+    "title": "OAK Pre-Op/PACU RN - Per Diem - The Surgery Center of Oakland",
+    "facilityName": "The Surgery Center of Oakland",
+    "fit": "possible"
+   },
+   {
+    "id": "BASM-1010204884306",
+    "title": "Registered Nurse Pre-Op/Post-Op PACU - Multi-Specialty (Soar Surgery Center)",
+    "facilityName": "Soar Surgery Center",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1445987",
+    "title": "Staff Nurse II - Labor & Delivery",
+    "facilityName": "Kaiser San Leandro",
+    "fit": "possible"
+   },
+   {
+    "id": "USPI-70639-147",
+    "title": "Registered Nurse (RN) - Atherton Endoscopy Center (PRN)",
+    "facilityName": "Atherton Endoscopy Center",
+    "fit": "possible"
+   },
+   {
+    "id": "CCRMC-4996127",
+    "title": "Registered Nurse (Emergency, Perianesthesia, GI Assignments)",
+    "facilityName": "Contra Costa Regional Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "CCRMC-4996178",
+    "title": "Registered Nurse (Operating Room Assignment)",
+    "facilityName": "Contra Costa Regional Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "SHC-R2660482",
+    "title": "Clinical Nurse (RN) - 500P Procedure Room (0.9 FTE, 12-Hour Rotating Shifts, On-Call Required)",
+    "facilityName": "Stanford Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "ECH-CZ-169790557",
+    "title": "Clinical Nurse II - 0.8 - Days - Nursery - Intensive Care @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-141527",
+    "title": "Staff Nurse II, Neonatal ICU",
+    "facilityName": "CPMC Van Ness",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-R-141714",
+    "title": "Staff Nurse II, Gastrointestinal",
+    "facilityName": "CPMC Van Ness",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-R-141174",
+    "title": "Staff Nurse II, Gastrointestinal",
+    "facilityName": "CPMC Van Ness",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-R-141495",
+    "title": "Ambulatory Services Charge Nurse, Operating Room",
+    "facilityName": "Sutter Outpatient Surgery SF (1635 Divisadero)",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4888",
+    "title": "RN - Operating Room ML Spine Pod",
+    "facilityName": "UCSF Parnassus",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4690",
+    "title": "Registered Nurse - Bayfront Operating Room (FT, day)",
+    "facilityName": "UCSF Bayfront Outpatient Surgery",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4710",
+    "title": "Registered Nurse - OR (MB, FT, 12hr/8 hr, eve shift)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4434",
+    "title": "Registered Nurse - Pediatric OR (BCH-Mission Bay)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)",
+    "fit": "stretch"
+   },
+   {
+    "id": "MOHEBALI-1010276746035",
+    "title": "PACU Recovery Nurse (per diem) - Mohebali Plastic Surgery",
+    "facilityName": "Mohebali Plastic Surgery",
+    "fit": "stretch"
+   },
+   {
+    "id": "SMMC-5071603",
+    "title": "Perioperative Relief Nurse (Open)",
+    "facilityName": "San Mateo Medical Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4070",
+    "title": "Registered Nurse - Pediatric OR (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4471",
+    "title": "Registered Nurse - Pediatric OR (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4835",
+    "title": "Registered Nurse - Pediatric OR (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4862",
+    "title": "Registered Nurse - Pediatric OR (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4393",
+    "title": "Registered Nurse - UCSF Pediatric Perioperative Resource Team",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4864",
+    "title": "Registered Nurse PD - Pediatric Perioperative Resource Team",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "SHC-R2660285",
+    "title": "Clinical Nurse (RN) - RWC Operating Room (Full-Time, 10-Hour Rotating Shifts)",
+    "facilityName": "Stanford Redwood City Outpatient Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "USPI-78146-147",
+    "title": "Charge Nurse RN - Endoscopy (Atherton Endoscopy Center)",
+    "facilityName": "Atherton Endoscopy Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "TENET-2603013680",
+    "title": "RN Recovery (per diem, rotating)",
+    "facilityName": "San Ramon Regional Medical Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "LPCH-P141712-1950",
+    "title": "Clinical Nurse II, CVOR",
+    "facilityName": "Lucile Packard Children's Stanford",
+    "fit": "stretch"
+   },
+   {
+    "id": "SHC-R2331249",
+    "title": "Clinical Nurse (RN) - Cardiovascular Operating Room (0.9 FTE, 12-Hour Rotating Shifts, Call Required)",
+    "facilityName": "Stanford Hospital",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "MH-JR102256",
+    "title": "Clinical RN II, Neonatal Intensive Care, Part-Time (36 Hour Week), Nights",
+    "facilityName": "MarinHealth Medical Center"
+   },
+   {
+    "id": "SHCTV-R2660238",
+    "title": "Registered Nurse (RN) Labor and Delivery Full Time Nights",
+    "facilityName": "Stanford Health Care Tri-Valley"
+   },
+   {
+    "id": "SHCTV-R2659919",
+    "title": "Registered Nurse II (RN) Labor & Delivery Full Time Days",
+    "facilityName": "Stanford Health Care Tri-Valley"
+   },
+   {
+    "id": "JMH-JR0017801",
+    "title": "RN - WCMC Neonatal ICU - Full Time - 12 Hour - Nights",
+    "facilityName": "John Muir Walnut Creek"
+   }
+  ]
  }
 ]
