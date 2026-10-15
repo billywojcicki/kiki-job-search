@@ -169,9 +169,9 @@ textarea { width: 100%; min-height: 72px; border: 1px solid var(--line); border-
 
 <script>
 var UNITS = {
-  LD: "L&D", PP: "Mother-Baby", ANTE: "Antepartum", NICU: "NICU", PACU: "Pre-op / PACU", OR: "OR"
+  LD: "L&D", PP: "Mother-Baby", ANTE: "Antepartum", NICU: "NICU", PREOP: "Pre-op", PACU: "Pre-op / PACU", GI: "GI Lab", OR: "OR"
 };
-var UNIT_ORDER = ["LD", "PP", "ANTE", "NICU", "PACU", "OR"];
+var UNIT_ORDER = ["LD", "PP", "ANTE", "NICU", "PREOP", "PACU", "GI", "OR"];
 var FIT = {
   strong: { label: "Strong match", rank: 0 },
   possible: { label: "Worth applying", rank: 1 },
@@ -188,7 +188,8 @@ var AREAS = ["SF", "Peninsula", "Marin", "East Bay", "South Bay"];
 var RESUME = {
   NICU: "NICU / newborn version", PP: "NICU / newborn version",
   LD: "Pre-op / PACU version (covers L&D floats and hemorrhage response)",
-  ANTE: "Pre-op / PACU version", PACU: "Pre-op / PACU version", OR: "Pre-op / PACU version"
+  ANTE: "Pre-op / PACU version", PREOP: "Pre-op / PACU version", PACU: "Pre-op / PACU version",
+  GI: "Pre-op / PACU version (lead with pre-op prep and post-procedure recovery)", OR: "Pre-op / PACU version"
 };
 
 var state = { jobs: [], facilities: [], updates: [], meta: {}, loaded: false, error: false, showLimit: 25, panelOpen: false, facility: null };
@@ -415,7 +416,7 @@ function renderSaved() {
 function renderHospitals() {
   var openBy = {};
   state.jobs.filter(isOpen).forEach(function (j) { openBy[j.facility] = (openBy[j.facility] || 0) + 1; });
-  var intro = '<div class="note"><p>Every hospital and surgery center within about 55 minutes of north and central SF that has L&amp;D, mother-baby, NICU or pre-op/PACU nurses.</p><p>Drive times are rough weekday-morning estimates. Night shifts are usually quicker. Bridge tolls are paid coming back into the city.</p></div>';
+  var intro = '<div class="note"><p>Every hospital and surgery center within about 55 minutes of north and central SF that hires L&amp;D, mother-baby, NICU, pre-op, PACU or GI lab nurses.</p><p>Drive times are rough weekday-morning estimates. Night shifts are usually quicker. Bridge tolls are paid coming back into the city.</p></div>';
   return '<div class="list" style="gap:12px">' + intro + AREAS.map(function (a) {
     var hs = state.facilities.filter(function (f) { return f.area === a; }).sort(function (x, y) { return x.drive - y.drive; });
     if (!hs.length) return "";
