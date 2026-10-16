@@ -101,6 +101,8 @@ h1 em { font-style: normal; color: var(--accent); }
 .job h2 { margin: 2px 0 0; font-family: var(--font-display); font-weight: 600; font-size: 19px; line-height: 1.25; text-wrap: balance; }
 .where { margin: 0; font-size: 15px; font-weight: 500; }
 .meta { margin: 0; color: var(--muted); font-size: 14.5px; }
+.when { margin: 0; color: var(--muted); font-size: 13.5px; font-weight: 500; }
+.when.fresh { color: var(--good); }
 .why { margin: 0; font-size: 14.5px; color: var(--muted); }
 .actions { display: grid; grid-template-columns: 1fr 1.4fr; gap: 8px; margin-top: 4px; }
 details.more { border-top: 1px solid var(--line); margin-top: 4px; padding-top: 8px; }
@@ -211,6 +213,17 @@ function ago(s) {
   if (d <= 0) return "today"; if (d === 1) return "yesterday";
   if (d < 14) return d + " days ago"; if (d < 60) return Math.round(d / 7) + " weeks ago";
   return Math.round(d / 30) + " months ago";
+}
+
+/* When the job was posted, as precisely as the source allowed */
+function postedLine(j) {
+  if (!j.posted) return "Posting date not listed · first spotted " + fmtDate(j.firstSeen);
+  var d = daysBetween(j.posted, todayStr());
+  if (j.postedBefore) return "Posted over " + (d < 60 ? Math.round(d / 7) + " weeks" : Math.round(d / 30) + " months") + " ago";
+  if (j.postedApprox) return "Posted about " + (d <= 0 ? "today" : d === 1 ? "a day ago" : ago(j.posted)) + " (~" + fmtDate(j.posted) + ")";
+  if (d <= 0) return "Posted today";
+  if (d === 1) return "Posted yesterday (" + fmtDate(j.posted) + ")";
+  return "Posted " + fmtDate(j.posted) + " (" + ago(j.posted) + ")";
 }
 
 /* Short, readable summaries of the messy posting fields */
@@ -337,12 +350,14 @@ function card(j, saved) {
         '<a class="btn primary" href="' + esc(safeUrl(j.url)) + '" target="_blank" rel="noopener">View posting</a></div>' +
         '<label class="dl"><span class="k">Notes</span><textarea data-note="' + esc(j.id) + '" placeholder="Recruiter, interview date, questions…">' + esc(m.note || "") + '</textarea></label>'
     : '<div class="actions">' + saveBtn + '<a class="btn primary" href="' + esc(safeUrl(j.url)) + '" target="_blank" rel="noopener">View posting</a></div>';
-  var postedTxt = j.posted ? "Posted " + fmtDate(j.posted) + " (" + ago(j.posted) + ")" : "Posted date not shown";
+  var postedTxt = postedLine(j);
+  var fresh = j.posted && !j.postedBefore && daysBetween(j.posted, todayStr()) <= 7;
   return '<article class="job">' +
     '<div class="tags">' + tags + '</div>' +
     '<h2>' + esc(j.title) + '</h2>' +
     '<p class="where">' + esc(j.facilityName) + '</p>' +
     '<p class="meta">' + esc(meta) + '</p>' +
+    '<p class="when' + (fresh ? ' fresh' : '') + '">' + esc(postedTxt) + '</p>' +
     (j.fitNote ? '<p class="why">' + esc(j.fitNote) + '</p>' : '') +
     top +
     '<details class="more"><summary>Details</summary><div class="dl">' +
@@ -352,7 +367,7 @@ function card(j, saved) {
       (j.pay ? '<p><span class="k">Pay</span>' + esc(j.pay) + '</p>' : '') +
       '<p><span class="k">Where</span>' + esc(j.facilityName) + ', ' + esc(j.city) + ' (' + esc(j.system) + '). About ' + esc(j.drive) + ' min drive' + (j.toll ? ', ' + esc(j.toll) + ' toll on the way home' : '') + '.</p>' +
       '<p><span class="k">Resume to send</span>' + esc(RESUME[j.unit] || RESUME.PACU) + '</p>' +
-      '<p><span class="k">Dates</span>' + esc(postedTxt) + '. Last confirmed open ' + esc(fmtDate(j.lastSeen)) + '.</p>' +
+      '<p><span class="k">Dates</span>' + esc(postedTxt) + '. First spotted here ' + esc(fmtDate(j.firstSeen)) + ', last confirmed open ' + esc(fmtDate(j.lastSeen)) + '.</p>' +
       (saved ? '' : '<div class="row2"><button class="btn' + (m.state === "applied" ? " on" : "") + '" data-act="applied" data-id="' + esc(j.id) + '">' + (m.state === "applied" ? "Applied" : "Mark applied") + '</button><button class="btn" data-act="pass" data-id="' + esc(j.id) + '">Not for me</button></div>') +
     '</div></details>' +
   '</article>';

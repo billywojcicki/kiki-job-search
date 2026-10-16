@@ -14,14 +14,16 @@
   "fte": null,
   "shift": "Night",
   "pay": "$74.07-$108.57/hr",
-  "posted": null,
+  "posted": "2026-09-15",
   "needs": "6 mo as AHS Clinical Nurse I or 1 yr recent full-time comparable RN experience (100+ bed hospital); BLS; ACLS may be required; Perinatal Safety Modules within 3 months of hire",
   "fit": "strong",
   "fitNote": "Part-time night L&D at Highland asking only 1 yr of acute care; you clearly meet that, and your L&D floats help.",
   "url": "https://www.glassdoor.com/job-listing/clinical-nurse-ii-alameda-health-system-JV_IC1147380_KO0,17_KE18,39.htm?jl=1009899129582",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": true
  },
  {
   "id": "AHS-GD1009899129583",
@@ -45,7 +47,9 @@
   "url": "https://www.glassdoor.com/job-listing/cn-ii-ambulatory-procedural-nurse-alameda-health-system-JV_IC1147380_KO0,33_KE34,55.htm?jl=1009899129583",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "AHS-GD1009945710895",
@@ -69,7 +73,9 @@
   "url": "https://www.glassdoor.com/job-listing/cn-ii-ambulatory-procedural-nurse-alameda-health-system-JV_IC1147380_KO0,33_KE34,55.htm?jl=1009945710895",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "AHS-GD1010295994903",
@@ -93,7 +99,9 @@
   "url": "https://www.glassdoor.com/job-listing/clinical-nurse-ii-alameda-health-system-JV_IC1147380_KO0,17_KE18,39.htm?jl=1010295994903",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "BASM-1010204884306",
@@ -117,7 +125,9 @@
   "url": "https://www.simplyhired.com/job/i_3rsyUrL6cChP1tEBQdjdjtbv91SFO8_KbiKWOp-Jn--M4nDM0Mfg",
   "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "CCRM-9201240650469",
@@ -141,7 +151,9 @@
   "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&jobId=9201240650469_1&lang=en_US",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "CCRM-9201315399176",
@@ -165,7 +177,9 @@
   "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&jobId=9201315399176_1&lang=en_US",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "CCRMC-4996104",
@@ -189,7 +203,9 @@
   "url": "https://www.governmentjobs.com/careers/contracosta/jobs/4996104/registered-nurse-labor-delivery-nursery-and-postpartum-assignments",
   "status": "unconfirmed",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "CCRMC-4996127",
@@ -213,7 +229,9 @@
   "url": "https://www.governmentjobs.com/careers/contracosta/jobs/4996127/registered-nurse-emergency-perianesthesia-gi-assignments",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "CCRMC-4996178",
@@ -237,7 +255,9 @@
   "url": "https://www.governmentjobs.com/careers/contracosta/jobs/4996178/registered-nurse-operating-room-assignment",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "COLLAB-GD1010231225710",
@@ -261,7 +281,9 @@
   "url": "https://www.glassdoor.com/job-listing/registered-nurse-rn-fertility-collab-fertility-JV_IC1147417_KO0,29_KE30,46.htm?jl=1010231225710",
   "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ECH-CZ-169790557",
@@ -285,7 +307,9 @@
   "url": "https://credenzahealth.com/jobs/169790557-clinical-nurse-ii-0-8-days-nursery-intensive-care-mv",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ECH-IN-6fff46ae3ec8eb3b",
@@ -309,7 +333,9 @@
   "url": "https://credenzahealth.com/jobs/169790556-clinical-nurse-ll-0-8-nights-nursery-intensive-care-mv",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ECH-IN-768eed437a720bc8",
@@ -333,7 +359,9 @@
   "url": "https://credenzahealth.com/jobs/169790558-clinical-nurse-ii-0-7-days-nursery-intensive-care-mv",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "EVERLEAP-GD1010286234661",
@@ -350,14 +378,16 @@
   "fte": null,
   "shift": "Days, Mon-Fri about 6:30am-3:00pm (~37.5 hrs/wk); occasional weekends; temporary about Dec through Feb/Mar",
   "pay": "$55-$65/hr",
-  "posted": null,
+  "posted": "2026-10-05",
   "needs": "Graduate of approved nursing school; BLS and ACLS required; 2+ yrs clinical nursing experience; proficient in nursing assessment and IV therapy",
   "fit": "possible",
   "fitNote": "Temporary Dec-to-March surgical center role needing 2+ yrs of clinical nursing plus BLS and ACLS; your 4 yrs and surgical recovery work fit, but ACLS is required at hire.",
   "url": "https://www.glassdoor.com/job-listing/temporary-surgical-center-nurse-everleap-fertility-JV_IC1147401_KO0,31_KE32,50.htm?jl=1010286234661",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": false
  },
  {
   "id": "EVERLEAP-ZR8aabf7a137a5a562",
@@ -381,7 +411,9 @@
   "url": "https://www.ziprecruiter.com/c/IVI-America/Job/Registered-Nurse/-in-San-Francisco,CA?jid=8aabf7a137a5a562",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "JMH-JR0017801",
@@ -406,7 +438,9 @@
   "status": "closed",
   "firstSeen": "2026-10-13",
   "lastSeen": "2026-10-13",
-  "closedAt": "2026-10-15"
+  "closedAt": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "LPCH-LP_00019176-2659760",
@@ -430,7 +464,9 @@
   "url": "https://careers.stanfordchildrens.org/job/palo-alto/clinical-nurse-ii-pediatric-anesthesia-resource-center/47520/100738214608",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "LPCH-P141712-1950",
@@ -447,14 +483,16 @@
   "fte": 0.9,
   "shift": "Rotating, 12h (36 h/wk)",
   "pay": "$96.35-$111.14/hr (min-mid)",
-  "posted": null,
+  "posted": "2026-02-24",
   "needs": "2 yrs as OR RN, scrub and circulate; pediatric experience preferred; BSN pref; BLS, PALS, ACLS",
   "fit": "stretch",
   "fitNote": "Pediatric cardiovascular OR that wants 2 years of OR scrub and circulate experience, which you don't have.",
   "url": "https://careers.stanfordchildrens.org/job/palo-alto/clinical-nurse-ii-cvor/47520/92094535424",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": false
  },
  {
   "id": "LPCH-P146335-3237",
@@ -478,7 +516,9 @@
   "url": "https://careers.stanfordchildrens.org/job/palo-alto/clinical-nurse-ii-labor-and-delivery/47520/101332473344",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "MEDBRIDGE-1009718126609",
@@ -495,14 +535,16 @@
   "fte": null,
   "shift": "Per surgical schedule (outpatient)",
   "pay": "$75-$87/hr",
-  "posted": null,
+  "posted": "2026-09-15",
   "needs": "Preferred: 5+ yrs experience, critical care experience; BLS; ACLS required",
   "fit": "possible",
   "fitNote": "Per diem pre-op/PACU where experience is only preferred, but ACLS is required at hire.",
   "url": "https://www.glassdoor.com/job-listing/oak-pre-op-pacu-rn-per-diem-medbridge-JV_IC1147380_KO0,27_KE28,37.htm?jl=1009718126609",
   "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": true
  },
  {
   "id": "MEDBRIDGE-1010070878474",
@@ -526,7 +568,9 @@
   "url": "https://www.ziprecruiter.com/c/medbridge/Job/PT-OAK-PAT-RN/-in-Oakland,CA?jid=7fad0eb78b0c47e9",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "MEDBRIDGE-1010102027604",
@@ -543,14 +587,16 @@
   "fte": null,
   "shift": "Per surgical schedule (outpatient)",
   "pay": "$58.00-$80.33/hr",
-  "posted": null,
+  "posted": "2026-09-15",
   "needs": "No years stated; BLS; ACLS and PALS if applicable",
   "fit": "possible",
   "fitNote": "Per diem pre-op/PACU at an SF outpatient surgery center close to home; no minimum is listed, but ACLS and PALS may be required.",
   "url": "https://www.glassdoor.com/job-listing/mbv-phsc-pre-op-pacu-rn-per-diem-medbridge-JV_IC1147401_KO0,32_KE33,42.htm?jl=1010102027604",
   "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": true
  },
  {
   "id": "MEDBRIDGE-1010277326932",
@@ -574,7 +620,9 @@
   "url": "https://www.glassdoor.com/job-listing/oak-ft-preop-pacu-rn-medbridge-JV_IC1147380_KO0,20_KE21,30.htm?jl=1010277326932",
   "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "MH-JR102256",
@@ -599,7 +647,9 @@
   "status": "closed",
   "firstSeen": "2026-10-13",
   "lastSeen": "2026-10-13",
-  "closedAt": "2026-10-15"
+  "closedAt": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "MH-JR102300",
@@ -623,7 +673,9 @@
   "url": "https://mymarinhealth.wd5.myworkdayjobs.com/en-US/MHCareers/job/Greenbrae-CA/Clinical-RN-II--Post-Anesthesia-Care-Unit--Full-Time--Days_JR102300",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "MH-JR102324",
@@ -647,7 +699,9 @@
   "url": "https://mymarinhealth.wd5.myworkdayjobs.com/en-US/MHCareers/job/Greenbrae-CA/Clinical-RN-II--Surgery-and-Procedures-Pre-Op--Full-Time--Days_JR102324",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "MH-JR102390",
@@ -671,7 +725,9 @@
   "url": "https://mymarinhealth.wd5.myworkdayjobs.com/en-US/MHCareers/job/Greenbrae-CA/Clinical-RN-II--Neonatal-Intensive-Care--Part-Time---24-Hour-Week---Variable-Shifts_JR102390",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "MOHEBALI-1010276746035",
@@ -695,7 +751,9 @@
   "url": "https://www.simplyhired.com/job/GMgW2j5zEJMoHBUJxAZajj6jN5-YDd32FV1RaK-Rzb0f1yRoJJT8PA",
   "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "NOVA-GD1010167411893",
@@ -719,7 +777,9 @@
   "url": "https://www.glassdoor.com/job-listing/patient-care-coordinator-rn-ivy-fertility-nova-ivf-JV_IC1147431_KO0,27_KE28,50.htm?jl=1010167411893",
   "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SETON-27566",
@@ -743,7 +803,9 @@
   "url": "https://careers-ahmchealth.icims.com/jobs/27566/*staff-nurse-ii/job",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SETON-28385",
@@ -767,7 +829,9 @@
   "url": "https://careers-ahmchealth.icims.com/jobs/28385/*staff-nurse-ii/job",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SHC-R2331249",
@@ -791,7 +855,9 @@
   "url": "https://www.glassdoor.com/job-listing/clinical-nurse-rn-cardiovascular-operating-room-09-fte-12-hour-rotating-shifts-call-required-stanford-health-care-JV_IC1147434_KO0,92_KE93,113.htm?jl=1008767099733",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SHC-R2660285",
@@ -815,7 +881,9 @@
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_External_Career_Site/job/450-Broadway-Bldg-A---REDWOOD-CITY/Clinical-Nurse--RN----RWC-Operating-Room--Full-Time--10-Hour-Rotating-Shifts-_R2660285",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SHC-R2660482",
@@ -839,7 +907,9 @@
   "url": "https://www.ziprecruiter.com/c/Stanford-Health-Care/Job/Clinical-Nurse-(RN)-500P-Procedure-Room-(0.9-FTE,-12-Hour-Rotating-Shifts,-On-Call-Required,-Start/-in-Palo-Alto,CA?jid=471f0b81ee289d75",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SHC-R2660498",
@@ -863,7 +933,9 @@
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Clinical-Nurse-II---500p-Pre-Post-Care-Intervention--09-FTE-Full-Time--12-Hour-Rotating-Shifts--On-Call-Required-_R2660498",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SHCTV-R2659231",
@@ -887,7 +959,9 @@
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/1133-E-Stanley-Blvd---LIVERMORE/PD-PACU-RN_R2659231",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SHCTV-R2659919",
@@ -912,7 +986,9 @@
   "status": "closed",
   "firstSeen": "2026-10-13",
   "lastSeen": "2026-10-13",
-  "closedAt": "2026-10-15"
+  "closedAt": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SHCTV-R2660238",
@@ -937,7 +1013,9 @@
   "status": "closed",
   "firstSeen": "2026-10-13",
   "lastSeen": "2026-10-13",
-  "closedAt": "2026-10-15"
+  "closedAt": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "SHCTV-R2660812",
@@ -954,14 +1032,16 @@
   "fte": null,
   "shift": "Nights, 12h",
   "pay": "$77.69-$95.52/hr",
-  "posted": null,
+  "posted": "2026-10-12",
   "needs": "1-2 yrs prior acute care RN experience; BLS",
   "fit": "strong",
   "fitNote": "Asks for 1-2 years of acute care RN experience, which you clear; this is a new req that replaces R2660238 with the same title.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5555-W-Las-Positas-Blvd---PLEASANTON/Registered-Nurse--RN--Labor-and-Delivery-Full-Time-Nights_R2660812",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": false
  },
  {
   "id": "SMMC-5071603",
@@ -978,14 +1058,16 @@
   "fte": null,
   "shift": "Not stated (relief/temporary; OR and PACU)",
   "pay": "$148,533-$185,640/yr",
-  "posted": null,
+  "posted": "2026-05-27",
   "needs": "CA RN; BLS; ACLS within 3 mo; PALS for PACU; ideally 2+ yrs OR or PACU in acute care plus procedural sedation; not for new grads; critical care preferred",
   "fit": "stretch",
   "fitNote": "Relief pool aimed at experienced OR/PACU nurses (ideally 2 yrs) that also needs PALS; your C-section recovery work is adjacent but short of that.",
   "url": "https://www.governmentjobs.com/careers/sanmateo/jobs/5071603",
   "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": false
  },
  {
   "id": "SPRING-4742101005",
@@ -1009,7 +1091,9 @@
   "url": "https://job-boards.greenhouse.io/springfertility/jobs/4742101005",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "TENET-2603013680",
@@ -1026,14 +1110,16 @@
   "fte": null,
   "shift": "Rotating",
   "pay": "$84.24-$102.50/hr",
-  "posted": null,
+  "posted": "2026-06-25",
   "needs": "3 yrs recent acute care; 2 yrs recent moderate-sedation administration/monitoring; preferred: 1 yr periop, 2 yrs endoscopy, 2 yrs pre-op/PAT; ACLS, PALS, BLS current",
   "fit": "stretch",
   "fitNote": "Phase II recovery, per diem; your acute care years qualify, but it wants 2 years of moderate-sedation monitoring plus current ACLS and PALS.",
   "url": "https://jobs.tenethealth.com/job/san-ramon/rn-recovery-per-diem-rotate/1127/96898259776",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": false
  },
  {
   "id": "USF-7b5f321a",
@@ -1057,7 +1143,9 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=7b5f321a-b11b-4209-80c0-616ced0f9cc8",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "USF-GD1010294403366",
@@ -1074,14 +1162,16 @@
   "fte": null,
   "shift": "Days, Mon-Fri 8:30am-5:00pm; one weekend/month floating to Menlo Park; 2-3 holidays/yr",
   "pay": "$65-$68/hr",
-  "posted": null,
+  "posted": "2026-10-13",
   "needs": "Current RN license without limitations; computer proficiency; able to manage a patient caseload; preferred BSN, IVF/fertility experience and women's health background",
   "fit": "strong",
   "fitNote": "Asks only for an RN license (BSN and women's health preferred); your BSN and 4 yrs of high-risk postpartum clearly meet it.",
   "url": "https://www.glassdoor.com/job-listing/ivf-rn-case-manager-us-fertility-JV_IC1147406_KO0,19_KE20,32.htm?jl=1010294403366",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": false
  },
  {
   "id": "USF-GD1010295466341",
@@ -1098,14 +1188,16 @@
   "fte": null,
   "shift": "Days, Mon-Fri 8:30am-5:00pm; rotating weekends and holidays",
   "pay": "$65-$68/hr",
-  "posted": null,
+  "posted": "2026-10-14",
   "needs": "Current RN license without limitations; computer proficiency; able to manage a patient caseload; preferred BSN, IVF/fertility experience and women's health background",
   "fit": "strong",
   "fitNote": "Asks only for an RN license (BSN and women's health preferred); your BSN and 4 yrs of high-risk postpartum clearly meet it.",
   "url": "https://www.glassdoor.com/job-listing/ivf-rn-case-manager-us-fertility-JV_IC1147410_KO0,19_KE20,32.htm?jl=1010295466341",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": true,
+  "postedBefore": false
  },
  {
   "id": "USF-afdd1ccd",
@@ -1129,7 +1221,9 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=afdd1ccd-645e-47a9-b5a5-1d91dfab6fd2",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "USF-f5da8c9b",
@@ -1153,7 +1247,9 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=f5da8c9b-9cf0-4796-95f8-d885e1b0bd35",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "USF-fdf04bff",
@@ -1177,7 +1273,9 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=fdf04bff-160a-4454-9ef8-fe4e0c584ef7",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "USPI-70639-147",
@@ -1201,7 +1299,9 @@
   "url": "https://careers.uspi.com/job/atherton/registered-nurse-rn/35934/79847277968",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "USPI-78146-147",
@@ -1225,7 +1325,9 @@
   "url": "https://careers.uspi.com/job/atherton/charge-nurse-rn-endoscopy/35934/86259841088",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "WHHS-ohvnAfwt",
@@ -1249,7 +1351,9 @@
   "url": "https://jobs.jobvite.com/washingtonhospital/job/ohvnAfwt",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1439244",
@@ -1273,7 +1377,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-rafael/staff-nurse-ii-sh-operating-room/641/99499739312",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1443210",
@@ -1297,7 +1403,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/richmond/staff-nurse-ii-operating-room/641/101575217504",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1443455",
@@ -1321,7 +1429,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/oakland/staff-nurse-ii-labor-and-delivery-float-pool/641/100190896832",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1445010",
@@ -1345,7 +1455,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/richmond/staff-nurse-ii-operating-room/641/101575225264",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1445987",
@@ -1369,7 +1481,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-leandro/staff-nurse-ii-labor-and-delivery/641/100684980192",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1446846",
@@ -1393,7 +1507,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/walnut-creek/staff-nurse-ii-operating-room/641/101870859072",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1447223",
@@ -1417,7 +1533,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/walnut-creek/staff-nurse-ii-labor-and-delivery/641/100992406880",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1447519",
@@ -1441,7 +1559,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/walnut-creek/staff-nurse-ii-operating-room/641/101585176064",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1448685",
@@ -1465,7 +1585,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-cvor-circulator/641/101460434112",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1448729",
@@ -1489,7 +1611,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-cvor-circulator/641/101460434352",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1449046",
@@ -1513,7 +1637,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/oakland/staff-nurse-ii-l-and-d/641/101589124000",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1449050",
@@ -1537,7 +1663,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/oakland/staff-nurse-ii/641/101450289280",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1449054",
@@ -1561,7 +1689,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/oakland/staff-nurse-ii/641/101450289328",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1449481",
@@ -1585,7 +1715,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-cvor-circulator/641/101460436768",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1451103",
@@ -1609,7 +1741,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-rafael/staff-nurse-ii/641/101926689088",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "kp-1452273",
@@ -1633,7 +1767,9 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-nicu/641/101870902080",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-132169",
@@ -1657,7 +1793,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Surgery_R-132169-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-135639",
@@ -1681,7 +1819,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Operating-Room-Float-Pool_R-135639-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-135641",
@@ -1705,7 +1845,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Operating-Room-Float-Pool_R-135641-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-135662",
@@ -1729,7 +1871,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Castro-Valley/Staff-Nurse-II--Nursery_R-135662-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-135664",
@@ -1753,7 +1897,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Castro-Valley/Staff-Nurse-II--Nursery_R-135664-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-136806",
@@ -1777,7 +1923,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Oakland/Pre-Op---PACU-RN---Oakland-Oncology-Surgery-Center_R-136806",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-137019",
@@ -1801,7 +1949,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Ambulatory-Services-Nurse-II--Operating-Room_R-137019-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-137822",
@@ -1825,7 +1975,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Pre-Registration---Learning-Center_R-137822-1",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-138190",
@@ -1849,7 +2001,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Novato/Staff-Nurse-II--OR-Circulator_R-138190-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-138205",
@@ -1873,7 +2027,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Novato/Staff-Nurse-II--OR-Circulator_R-138205-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-138990",
@@ -1897,7 +2053,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--ASU-PACU_R-138990-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-139683",
@@ -1921,7 +2079,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Castro-Valley/Staff-Nurse-II--Nursery_R-139683-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-140111",
@@ -1945,7 +2105,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Castro-Valley/Staff-Nurse-II--Nursery_R-140111-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-140312",
@@ -1969,7 +2131,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Oakland/Staff-Nurse-II--Surgery-Operating-Room_R-140312-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-140975",
@@ -1993,7 +2157,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Burlingame/Staff-Nurse-II--PACU_R-140975-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-141174",
@@ -2017,7 +2183,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Gastrointestinal_R-141174-1",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-141230",
@@ -2041,7 +2209,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Ambulatory-Services-Nurse-II--Pre-Admission---Pre-Operative-Phone-Calls_R-141230",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-141495",
@@ -2065,7 +2235,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Ambulatory-Services-Charge-Nurse--Operating-Room_R-141495",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-141527",
@@ -2089,7 +2261,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Neonatal-ICU_R-141527-1",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-141529",
@@ -2113,7 +2287,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Neonatal-ICU_R-141529-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-141532",
@@ -2137,7 +2313,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Neonatal-ICU_R-141532-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-141714",
@@ -2161,7 +2339,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Gastrointestinal_R-141714-1",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-142119",
@@ -2185,7 +2365,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Clinic-Nurse-II--Maternal-Fetal-Medicine_R-142119",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-142219",
@@ -2209,7 +2391,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Oakland/Operating-Room-RN---Oakland-Oncology-Surgery-Center_R-142219",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "sutter-R-142368",
@@ -2233,7 +2417,9 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Ambulatory-Services-Nurse-II--Gastroenterology_R-142368",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-2976",
@@ -2257,7 +2443,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/2976",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-3500",
@@ -2281,7 +2469,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/3500",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-3502",
@@ -2305,7 +2495,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/CA-United-States/3502",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-3768",
@@ -2329,7 +2521,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/3768",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-3901",
@@ -2353,7 +2547,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/3901",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-3908",
@@ -2377,7 +2573,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/3908",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4070",
@@ -2401,7 +2599,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4070",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4393",
@@ -2425,7 +2625,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4393",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4398",
@@ -2449,7 +2651,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4398",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4413",
@@ -2473,7 +2677,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/United-States/4413",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4434",
@@ -2497,7 +2703,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4434",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4461",
@@ -2521,7 +2729,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4461",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4471",
@@ -2545,7 +2755,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4471",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4496",
@@ -2569,7 +2781,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4496",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4587",
@@ -2593,7 +2807,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4587",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4656",
@@ -2617,7 +2833,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4656",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4663",
@@ -2641,7 +2859,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4663",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4690",
@@ -2665,7 +2885,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4690",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4691",
@@ -2689,7 +2911,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4691",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4710",
@@ -2713,7 +2937,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4710",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4714",
@@ -2737,7 +2963,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4714",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4832",
@@ -2761,7 +2989,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4832",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4835",
@@ -2785,7 +3015,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4835",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4859",
@@ -2809,7 +3041,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4859",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4862",
@@ -2833,7 +3067,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4862",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4863",
@@ -2857,7 +3093,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4863",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4864",
@@ -2881,7 +3119,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4864",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4887",
@@ -2905,7 +3145,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Burlingame-CA-United-States/4887",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "ucsf-4888",
@@ -2929,7 +3171,9 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/United-States/4888",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "zsfg-3743990015109685",
@@ -2953,7 +3197,9 @@
   "url": "https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990015109685-per-diem-registered-nurse-all-specialties-dph-p103-",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "zsfg-3743990015109716",
@@ -2977,6 +3223,8 @@
   "url": "https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990015109716-registered-nurse-experienced-nurses-2320-citywide-h00083",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-10-15"
+  "lastSeen": "2026-10-15",
+  "postedApprox": false,
+  "postedBefore": false
  }
 ]
