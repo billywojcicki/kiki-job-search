@@ -374,5 +374,208 @@
     "facilityName": "John Muir Walnut Creek"
    }
   ]
+ },
+ {
+  "date": "2026-10-19",
+  "ranAt": "2026-10-19T19:46:22+00:00",
+  "summary": "22 new openings, 6 of them strong or worth applying. 12 closed. Washington Hospital's new Birthing Center job was left off because it is open only to current Washington staff. A few small surgery centers and county jobs could only be checked through job boards.",
+  "addedCount": 22,
+  "closedCount": 12,
+  "added": [
+   {
+    "id": "sutter-R-141188",
+    "title": "Staff Nurse II, Mom and Baby",
+    "facilityName": "CPMC Van Ness",
+    "fit": "strong"
+   },
+   {
+    "id": "sutter-R-143296",
+    "title": "Clinic Nurse II, Maternal Fetal Medicine",
+    "facilityName": "Sutter Maternal-Fetal Medicine clinic (Oakland)",
+    "fit": "strong"
+   },
+   {
+    "id": "kp-1451117",
+    "title": "Staff Nurse II (Obstetrics/Gynecology Clinic, On-Call)",
+    "facilityName": "Kaiser Pleasanton Medical Offices",
+    "fit": "strong"
+   },
+   {
+    "id": "USPI-94805",
+    "title": "Pre-Anesthesia Testing RN - San Ramon Endoscopy Center",
+    "facilityName": "San Ramon Endoscopy Center",
+    "fit": "possible"
+   },
+   {
+    "id": "WOSC-IN-2192a23d2e7384b2",
+    "title": "Registered Nurse - Endoscopy (Washington Outpatient Surgery Center)",
+    "facilityName": "Washington Outpatient Surgery Center",
+    "fit": "possible"
+   },
+   {
+    "id": "LPCH-P146644-3304",
+    "title": "Clinical Nurse II, Sedation Program",
+    "facilityName": "Lucile Packard Children's Stanford",
+    "fit": "possible"
+   },
+   {
+    "id": "MEDBRIDGE-1010102027603",
+    "title": "MBV/PHSC OR Circulator RN - Per Diem (Pacific Heights Surgery Center)",
+    "facilityName": "Pacific Heights Surgery Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-4974",
+    "title": "Registered Nurse - Operating Room",
+    "facilityName": "UCSF Stanyan (former St. Mary's)",
+    "fit": "stretch"
+   },
+   {
+    "id": "BASM-1010211257834",
+    "title": "OR Registered Nurse - Multispecialty (Soar Surgery Center)",
+    "facilityName": "Soar Surgery Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "MEDBRIDGE-1010277326930",
+    "title": "OAK FT OR Circulator RN - The Surgery Center of Oakland",
+    "facilityName": "The Surgery Center of Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "MSSC-GD1010177443937",
+    "title": "Registered Nurse - OR Full Time (Marin Specialty Surgery Center)",
+    "facilityName": "Marin Specialty Surgery Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-R-143226",
+    "title": "Charge Nurse, Surgery",
+    "facilityName": "Sutter Eden Medical Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "TENET-2603025251",
+    "title": "Registered Nurse (RN) - Ambulatory Surgery (per diem, days)",
+    "facilityName": "San Ramon Regional Medical Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "TENET-2603016285",
+    "title": "Ambulatory OR RN",
+    "facilityName": "San Ramon Regional Medical Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "PREMIERPS-GD1010244764931",
+    "title": "Registered Nurse - Pre-op/PACU/OR (Blackhawk Plastic Surgery & MedSpa)",
+    "facilityName": "Blackhawk Plastic Surgery & MedSpa",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-R-141081",
+    "title": "Ambulatory Services Nurse II, Operating Nurse",
+    "facilityName": "Sutter Health Pleasanton (PAMF ambulatory surgery)",
+    "fit": "stretch"
+   },
+   {
+    "id": "WOSC-IN-f3a80095c29c8279",
+    "title": "Registered Nurse Circulator (Washington Outpatient Surgery Center)",
+    "facilityName": "Washington Outpatient Surgery Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "SHC-R2661056",
+    "title": "Clinical Nurse/Scrub Nurse (RN) - CVOR (0.90 FTE, 12-Hour Rotating Shifts, On-Call Required) - 300P Activation",
+    "facilityName": "Stanford Hospital",
+    "fit": "stretch"
+   },
+   {
+    "id": "WOSC-GD1010297313064",
+    "title": "Endoscopy Charge Nurse (Washington Outpatient Surgery Center)",
+    "facilityName": "Washington Outpatient Surgery Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "FSC-IN-f18b03ba79b3a57b",
+    "title": "PREOP and PACU Nurses (Fremont Surgery Center)",
+    "facilityName": "Fremont Surgery Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "FSC-IN-6434c051e5a66c44",
+    "title": "Moderate Sedation Nurse for Pain Management (Fremont Surgery Center)",
+    "facilityName": "Fremont Surgery Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "FSC-IN-fad1cc288d0eed7b",
+    "title": "Circulating Nurse/Operating Room Nurse (Fremont Surgery Center)",
+    "facilityName": "Fremont Surgery Center",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "EVERLEAP-ZR8aabf7a137a5a562",
+    "title": "Registered Nurse",
+    "facilityName": "Everleap Fertility SF (formerly RMA)"
+   },
+   {
+    "id": "SHC-R2660482",
+    "title": "Clinical Nurse (RN) - 500P Procedure Room (0.9 FTE, 12-Hour Rotating Shifts, On-Call Required)",
+    "facilityName": "Stanford Hospital"
+   },
+   {
+    "id": "SHCTV-R2659231",
+    "title": "PD PACU RN",
+    "facilityName": "Stanford Tri-Valley Livermore Surgery Center"
+   },
+   {
+    "id": "SPRING-4742101005",
+    "title": "Registered Nurse (RN)",
+    "facilityName": "Spring Fertility Danville"
+   },
+   {
+    "id": "USF-fdf04bff",
+    "title": "Registered Nurse - Third Party Case Manager",
+    "facilityName": "Reproductive Science Center San Ramon"
+   },
+   {
+    "id": "USPI-70639-147",
+    "title": "Registered Nurse (RN) - Atherton Endoscopy Center (PRN)",
+    "facilityName": "Atherton Endoscopy Center"
+   },
+   {
+    "id": "USPI-78146-147",
+    "title": "Charge Nurse RN - Endoscopy (Atherton Endoscopy Center)",
+    "facilityName": "Atherton Endoscopy Center"
+   },
+   {
+    "id": "sutter-R-137019",
+    "title": "Ambulatory Services Nurse II, Operating Room",
+    "facilityName": "Sutter Outpatient Surgery SF (1635 Divisadero)"
+   },
+   {
+    "id": "sutter-R-140975",
+    "title": "Staff Nurse II, PACU",
+    "facilityName": "Mills-Peninsula Medical Center"
+   },
+   {
+    "id": "sutter-R-141174",
+    "title": "Staff Nurse II, Gastrointestinal",
+    "facilityName": "CPMC Van Ness"
+   },
+   {
+    "id": "sutter-R-141230",
+    "title": "Ambulatory Services Nurse II, Pre-Admission & Pre-Operative Phone Calls",
+    "facilityName": "Sutter Outpatient Surgery SF (1635 Divisadero)"
+   },
+   {
+    "id": "sutter-R-141495",
+    "title": "Ambulatory Services Charge Nurse, Operating Room",
+    "facilityName": "Sutter Outpatient Surgery SF (1635 Divisadero)"
+   }
+  ]
  }
 ]

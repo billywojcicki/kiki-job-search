@@ -7,7 +7,7 @@
   "area": "SF",
   "drive": 7,
   "toll": "",
-  "units": "L&D, Mother-Baby, Level III NICU, Pre-admission, ASU/PACU, GI lab, OR",
+  "units": "L&D, Mom & Baby, Level III NICU, ASU/PACU, GI lab / endoscopy, Pre-Registration & Learning Center (pre-admission), OR",
   "careers": "https://jobs.sutterhealth.org"
  },
  {
@@ -18,7 +18,7 @@
   "area": "SF",
   "drive": 8,
   "toll": "",
-  "units": "No maternity. Small OR/PACU",
+  "units": "No maternity. PACU, short-stay/day surgery unit, endoscopy, OR (RN posting lists ACLS for ICU, ED, PACU, SDSU and ENDO)",
   "careers": "https://chinesehospital-sf.org/job-opportunities/"
  },
  {
@@ -40,7 +40,7 @@
   "area": "SF",
   "drive": 10,
   "toll": "",
-  "units": "Outpatient high-risk OB",
+  "units": "Outpatient high-risk OB / maternal-fetal medicine (SF; some roles also cover the Oakland clinic)",
   "careers": "https://jobs.sutterhealth.org"
  },
  {
@@ -95,7 +95,7 @@
   "area": "SF",
   "drive": 15,
   "toll": "",
-  "units": "No maternity. Pre-op/PACU, OR",
+  "units": "PACU, OR",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -106,7 +106,7 @@
   "area": "SF",
   "drive": 16,
   "toll": "",
-  "units": "Adult Pre-op/PACU, OR, GI lab",
+  "units": "OR",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -117,7 +117,7 @@
   "area": "SF",
   "drive": 18,
   "toll": "",
-  "units": "Birth Center (LDRP), Antepartum, Level IV ICN, Pre-op/PACU, OR, OB clinic, fertility clinic",
+  "units": "Birth Center (L&D), Ambulatory OB, ICN, adult and pediatric OR, EMBRACE perinatal navigator",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -128,7 +128,7 @@
   "area": "SF",
   "drive": 18,
   "toll": "",
-  "units": "Pre-op/PACU and OR (outpatient)",
+  "units": "PACU, OR (outpatient)",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -139,7 +139,7 @@
   "area": "SF",
   "drive": 18,
   "toll": "",
-  "units": "Birth Center (L&D/PP/antepartum), NICU, PACU, GI lab",
+  "units": "All units via 2320 citywide list and P103 per diem (no unit-specific perinatal/NICU/PACU postings open; 2320 Perinatal posting 3743990001812046 is expired)",
   "careers": "https://careers.sf.gov"
  },
  {
@@ -205,7 +205,7 @@
   "area": "Peninsula",
   "drive": 28,
   "toll": "",
-  "units": "Pre-op/PACU (outpatient)",
+  "units": "Pre-op/PACU",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -238,7 +238,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "Level III NICU, pediatric PACU, pediatric OR",
+  "units": "NICU, pediatric PACU, pediatric OR, pediatric periop resource team, pediatric critical care float pool",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -271,7 +271,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "L&D, Mother-Baby, NICU, OB clinic, GI lab",
+  "units": "Obstetrics/L&D, MCH/OB clinic procedural RN",
   "careers": "https://www.alamedahealthsystem.org/careers/"
  },
  {
@@ -315,7 +315,7 @@
   "area": "Peninsula",
   "drive": 35,
   "toll": "",
-  "units": "Birth Center (L&D/PP), PACU, OR",
+  "units": "Family Birth Center (LDRP), Level II NICU, PACU, OR. No RN openings on CommonSpirit live lists 10/19",
   "careers": "https://www.commonspirit.careers"
  },
  {
@@ -348,7 +348,7 @@
   "area": "East Bay",
   "drive": 40,
   "toll": "Bay Bridge",
-  "units": "L&D, Nursery + postpartum couplets",
+  "units": "L&D, Nursery + postpartum couplets, Surgery/OR",
   "careers": "https://jobs.sutterhealth.org"
  },
  {
@@ -425,7 +425,7 @@
   "area": "East Bay",
   "drive": 50,
   "toll": "San Mateo Bridge",
-  "units": "Birthing Center, NICU, PACU",
+  "units": "Birthing Center (L&D), cath lab, ICU/IMC, med-onc",
   "careers": "https://jobs.jobvite.com/washingtonhospital/jobs"
  },
  {
@@ -878,5 +878,93 @@
   "toll": "San Mateo Bridge",
   "units": "Fertility / IVF clinic",
   "careers": "https://www.kaiserpermanentejobs.org"
+ },
+ {
+  "key": "sutter-mfm-oak",
+  "name": "Sutter Maternal-Fetal Medicine clinic (Oakland)",
+  "system": "Sutter Health",
+  "city": "Oakland",
+  "area": "East Bay",
+  "drive": 26,
+  "toll": "Bay Bridge",
+  "units": "Outpatient high-risk OB / maternal-fetal medicine (5730 Telegraph Ave)",
+  "careers": "https://jobs.sutterhealth.org"
+ },
+ {
+  "key": "sutter-pleasanton",
+  "name": "Sutter Health Pleasanton (PAMF ambulatory surgery)",
+  "system": "Sutter Health",
+  "city": "Pleasanton",
+  "area": "East Bay",
+  "drive": 50,
+  "toll": "Bay Bridge",
+  "units": "OR (outpatient surgery); endoscopy (4480 Willow Rd)",
+  "careers": "https://jobs.sutterhealth.org"
+ },
+ {
+  "key": "kp-pleasanton",
+  "name": "Kaiser Pleasanton Medical Offices",
+  "system": "Kaiser Permanente",
+  "city": "Pleasanton",
+  "area": "East Bay",
+  "drive": 50,
+  "toll": "Bay Bridge",
+  "units": "Outpatient OB/GYN clinic",
+  "careers": "https://www.kaiserpermanentejobs.org"
+ },
+ {
+  "key": "wosc",
+  "name": "Washington Outpatient Surgery Center",
+  "system": "Washington Outpatient Surgery Center (Washington Hospital joint venture)",
+  "city": "Fremont",
+  "area": "East Bay",
+  "drive": 50,
+  "toll": "San Mateo Bridge",
+  "units": "Outpatient OR, pre-op/PACU, GI endoscopy (ASC)",
+  "careers": "https://www.indeed.com/cmp/Washington-Outpatient-Surgery-Center/jobs"
+ },
+ {
+  "key": "fremont-sc",
+  "name": "Fremont Surgery Center",
+  "system": "Independent",
+  "city": "Fremont",
+  "area": "East Bay",
+  "drive": 50,
+  "toll": "San Mateo Bridge",
+  "units": "Pre-op/PACU, OR, pain-procedure sedation, endoscopy (outpatient multispecialty)",
+  "careers": "https://www.fremontsurgerycenter.com/job-opportunities"
+ },
+ {
+  "key": "sr-endo",
+  "name": "San Ramon Endoscopy Center",
+  "system": "USPI",
+  "city": "San Ramon",
+  "area": "East Bay",
+  "drive": 45,
+  "toll": "Bay Bridge",
+  "units": "Pre-anesthesia testing, GI lab / endoscopy (outpatient)",
+  "careers": "https://careers.uspi.com/location/san-ramon-jobs/1127/6252001-5332921-5392593/4"
+ },
+ {
+  "key": "mssc",
+  "name": "Marin Specialty Surgery Center",
+  "system": "MarinHealth / UCSF / surgeon joint venture (ASC)",
+  "city": "San Rafael",
+  "area": "Marin",
+  "drive": 28,
+  "toll": "Golden Gate",
+  "units": "OR, pre-op/PACU (outpatient multispecialty)",
+  "careers": "https://www.ziprecruiter.com/co/marin-specialty-surgery-center/Jobs/--in-California"
+ },
+ {
+  "key": "blackhawk-ps",
+  "name": "Blackhawk Plastic Surgery & MedSpa",
+  "system": "Premier Plastic Surgery Partners",
+  "city": "Danville",
+  "area": "East Bay",
+  "drive": 45,
+  "toll": "Bay Bridge",
+  "units": "Office-based plastic surgery pre-op/PACU/OR",
+  "careers": "https://www.blackhawkplasticsurgery.com/"
  }
 ]
