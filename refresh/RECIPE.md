@@ -83,6 +83,7 @@ B) KAISER
 - A job is open only if all three hold: its page loads; "Submit Interest" links to kp.taleo.net ... job=<number>; and https://www.kaiserpermanentejobs.org/business/custom_fields.reqid/<number>/641/5 shows "1 Job Results". A page that loads but shows 0 there is closed.
 - Backup: Glassdoor Kaiser pages and WebSearch site:kaiserpermanentejobs.org with unit words (results include many stale jobs; verify).
 - Note: Kaiser labels 36 h/wk (0.9) as part-time; record fte.
+- Add a cache-buster (?v=<today digits>) to every Kaiser list, job and reqid URL; without it, copies from earlier days come back.
 - The statewide California nursing list (all pages) catches jobs the city lists miss, e.g. Pleasanton medical offices; scan it too. Exclude lactation-only roles that require IBCLC.
 
 C) UCSF + SF GENERAL + ALAMEDA HEALTH
