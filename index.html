@@ -119,6 +119,9 @@ textarea { width: 100%; min-height: 72px; border: 1px solid var(--line); border-
 .empty { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 22px 18px; color: var(--muted); }
 .empty b { display: block; color: var(--ink); font-family: var(--font-display); font-size: 18px; margin-bottom: 4px; }
 .moreRow { display: grid; }
+.group-label { margin: 6px 0 0; font-size: 13px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); display: flex; gap: 8px; align-items: baseline; }
+.group-label span { font-weight: 500; letter-spacing: 0; }
+.group-label:first-child { margin-top: 0; }
 
 /* Hospitals */
 .section-title { margin: 8px 0 0; font-family: var(--font-display); font-size: 20px; font-weight: 600; }
@@ -294,7 +297,7 @@ function load() {
 function renderHeader() {
   var open = state.jobs.filter(isOpen);
   var good = open.filter(function (j) { var m = markOf(j.id); return j.fit !== "stretch" && !(m && m.state === "pass"); });
-  var fresh = open.filter(isNew);
+  var fresh = good.filter(isNew);
   var h = document.getElementById("headline");
   var s = document.getElementById("status");
   if (state.error) { h.textContent = "Bay Area RN jobs"; s.textContent = "Couldn't load the job list. Pull down to refresh."; return; }
@@ -324,6 +327,8 @@ function sorted(list) {
   var fr = function (j) { return (FIT[j.fit] || FIT.stretch).rank; };
   var posted = function (j) { return j.posted || j.firstSeen || "0000"; };
   return list.slice().sort(function (a, b) {
+    var fresh = isNew(b) - isNew(a);
+    if (fresh) return fresh;
     if (prefs.sort === "new") return posted(b).localeCompare(posted(a)) || fr(a) - fr(b);
     if (prefs.sort === "drive") return (a.drive || 99) - (b.drive || 99) || fr(a) - fr(b);
     if (prefs.sort === "pay") return payRank(b) - payRank(a) || fr(a) - fr(b);
@@ -410,7 +415,16 @@ function renderJobs() {
   if (!list.length) body = '<div class="empty"><b>Nothing matches</b>Try a longer drive, any hours, or show long shots.</div>';
   else {
     var shown = list.slice(0, state.showLimit);
-    body = '<div class="list">' + shown.map(function (j) { return card(j, false); }).join("") + '</div>' +
+    var newCount = list.filter(isNew).length;
+    var cards = shown.map(function (j, i) {
+      var label = "";
+      if (newCount && newCount < list.length) {
+        if (i === 0) label = '<h2 class="group-label">New <span>' + newCount + '</span></h2>';
+        else if (i === newCount) label = '<h2 class="group-label">Earlier <span>' + (list.length - newCount) + '</span></h2>';
+      }
+      return label + card(j, false);
+    }).join("");
+    body = '<div class="list">' + cards + '</div>' +
       (list.length > shown.length ? '<div class="moreRow"><button class="btn" data-act="more">Show ' + (list.length - shown.length) + ' more</button></div>' : '');
   }
   return '<div class="list" style="gap:12px">' + toolbar + panel + summary + body + '</div>';
