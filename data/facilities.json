@@ -29,7 +29,7 @@
   "area": "SF",
   "drive": 8,
   "toll": "",
-  "units": "No maternity. Pre-op/PACU, OR",
+  "units": "No open target-unit RN posting (Hyde Surgery feed shows surgical techs only)",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -73,7 +73,7 @@
   "area": "SF",
   "drive": 12,
   "toll": "",
-  "units": "Gyn-onc surgery, Pre-op/PACU, GI lab, OB clinic, fertility clinic",
+  "units": "No open target-unit RN posting (GI Clinic RN 3653 is outpatient clinic/triage, not endoscopy)",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -106,7 +106,7 @@
   "area": "SF",
   "drive": 16,
   "toll": "",
-  "units": "OR",
+  "units": "OR (Spine pod); no open adult pre-op/PACU or endoscopy RN posting",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -117,7 +117,7 @@
   "area": "SF",
   "drive": 18,
   "toll": "",
-  "units": "Birth Center (L&D), Ambulatory OB, ICN, adult and pediatric OR, EMBRACE perinatal navigator",
+  "units": "Birth Center (L&D/antepartum/postpartum/well baby), Ambulatory OB clinic, ICN (Level IV), adult and pediatric OR, EMBRACE perinatal navigator; no open Mother-Baby-only, Antepartum-only, PACU, endoscopy or fertility RN posting",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -139,7 +139,7 @@
   "area": "SF",
   "drive": 18,
   "toll": "",
-  "units": "All units via 2320 citywide list and P103 per diem (no unit-specific perinatal/NICU/PACU postings open; 2320 Perinatal posting 3743990001812046 is expired)",
+  "units": "All units via 2320 citywide list (H00083) and P103 per diem; unit-specific 2320 Perinatal, Perinatal Training Program, NICU and Periop OR postings are expired",
   "careers": "https://careers.sf.gov"
  },
  {
@@ -238,7 +238,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "NICU, pediatric PACU, pediatric OR, pediatric periop resource team, pediatric critical care float pool",
+  "units": "Level III NICU, pediatric PACU, pediatric OR, pediatric periop resource team, pediatric critical care float pool (with Walnut Creek ASC)",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -271,7 +271,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "Obstetrics/L&D, MCH/OB clinic procedural RN",
+  "units": "Obstetrics/L&D, MCH/OB clinic procedural RN, pre/post cath lab; endoscopy openings are techs only",
   "careers": "https://www.alamedahealthsystem.org/careers/"
  },
  {
@@ -966,5 +966,38 @@
   "toll": "Bay Bridge",
   "units": "Office-based plastic surgery pre-op/PACU/OR",
   "careers": "https://www.blackhawkplasticsurgery.com/"
+ },
+ {
+  "key": "northbay",
+  "name": "NorthBay Medical Center",
+  "system": "NorthBay Health",
+  "city": "Fairfield",
+  "area": "East Bay",
+  "drive": 55,
+  "toll": "Bay Bridge",
+  "units": "L&D, NICU, OR, endoscopy (inpatient hospital)",
+  "careers": "https://www.glassdoor.com/Jobs/NorthBay-Health-Clinical-nurse-ii-Jobs-EI_IE121907.0,15_KO16,33.htm"
+ },
+ {
+  "key": "pen-sc-rwc",
+  "name": "Peninsula Surgery Center",
+  "system": "Independent",
+  "city": "Redwood City",
+  "area": "Peninsula",
+  "drive": 35,
+  "toll": "",
+  "units": "OR (outpatient ortho/multispecialty ASC)",
+  "careers": "https://www.ziprecruiter.com/co/Peninsula-Surgery-Center/Jobs"
+ },
+ {
+  "key": "callista-wc",
+  "name": "Callista Surgery Center (Golden State Dermatology)",
+  "system": "Golden State Dermatology",
+  "city": "Walnut Creek",
+  "area": "East Bay",
+  "drive": 40,
+  "toll": "Bay Bridge",
+  "units": "OR (office-based facial plastic / reconstructive surgery center)",
+  "careers": "https://www.indeed.com/cmp/Golden-State-Dermatology/jobs"
  }
 ]

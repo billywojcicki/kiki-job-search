@@ -577,5 +577,84 @@
     "facilityName": "Sutter Outpatient Surgery SF (1635 Divisadero)"
    }
   ]
+ },
+ {
+  "date": "2026-10-20",
+  "ranAt": "2026-10-20T15:47:21+00:00",
+  "summary": "8 new openings, 3 of them strong or worth applying. 4 closed. Mills-Peninsula's part-time PACU job was reposted and is open again. NorthBay in Fairfield is new and sits at the edge of the drive limit.",
+  "addedCount": 8,
+  "closedCount": 4,
+  "added": [
+   {
+    "id": "NORTHBAY-GD1010297268891",
+    "title": "Clinical Nurse II - NBMC NICU (Per Diem, Day)",
+    "facilityName": "NorthBay Medical Center",
+    "fit": "strong"
+   },
+   {
+    "id": "NORTHBAY-GD1010297268899",
+    "title": "Clinical Nurse II - NBMC L&D (Per Diem, Day)",
+    "facilityName": "NorthBay Medical Center",
+    "fit": "strong"
+   },
+   {
+    "id": "AHS-GD1010295994902",
+    "title": "Clinical Nurse II - Pre/Post Cath Lab (Per Diem, Nights)",
+    "facilityName": "Highland Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "PENSC-ZR-866f2bf08fcaded0",
+    "title": "Registered Nurse - OR Circulator (Peninsula Surgery Center)",
+    "facilityName": "Peninsula Surgery Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "kp-1443543",
+    "title": "Staff Nurse II Short Hour - Operating Room",
+    "facilityName": "Kaiser Walnut Creek",
+    "fit": "stretch"
+   },
+   {
+    "id": "GSD-ZR-ac7cfafa88eea05a",
+    "title": "Per Diem OR Circulator Registered Nurse (Callista Surgery Center)",
+    "facilityName": "Callista Surgery Center (Golden State Dermatology)",
+    "fit": "stretch"
+   },
+   {
+    "id": "NORTHBAY-GD1010105082225",
+    "title": "Clinical Nurse II - Operating Room (Part Time, Night)",
+    "facilityName": "NorthBay Medical Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "NORTHBAY-GD1010121477426",
+    "title": "Clinical Nurse II - NBMC Operating Room (Part Time, Day 1100-1930)",
+    "facilityName": "NorthBay Medical Center",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "LPCH-LP_00019176-2659760",
+    "title": "Clinical Nurse II, Pediatric Anesthesia Resource Center (Pre-op/PACU)",
+    "facilityName": "Lucile Packard Children's Stanford"
+   },
+   {
+    "id": "kp-1449054",
+    "title": "Staff Nurse II (Neo-Natal ICU)",
+    "facilityName": "Kaiser Oakland"
+   },
+   {
+    "id": "sutter-R-141081",
+    "title": "Ambulatory Services Nurse II, Operating Nurse",
+    "facilityName": "Sutter Health Pleasanton (PAMF ambulatory surgery)"
+   },
+   {
+    "id": "sutter-R-142368",
+    "title": "Ambulatory Services Nurse II, Gastroenterology",
+    "facilityName": "Golden Gate Endoscopy Center"
+   }
+  ]
  }
 ]
