@@ -118,7 +118,9 @@ for jid, s in seen.items():
 for jid, j in jobs.items():
     if jid in seen or j.get("status") == "closed":
         continue
-    if jid in closed_ev or days(j["lastSeen"], TODAY) >= 7:
+    # Close on explicit evidence. Without it (e.g. the employer site refused us), wait two weeks
+    # so a few days of blocked checks can't knock real openings off the list.
+    if jid in closed_ev or days(j["lastSeen"], TODAY) >= 14:
         j["status"] = "closed"
         j["closedAt"] = TODAY
         closed.append(j)
