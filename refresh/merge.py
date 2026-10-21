@@ -143,6 +143,8 @@ entry = {
     "added": [{"id": a["id"], "title": a["title"], "facilityName": a["facilityName"], "fit": a["fit"]} for a in added],
     "closed": [{"id": c["id"], "title": c["title"], "facilityName": c["facilityName"]} for c in closed],
 }
+issues_path = os.path.join(SWEEP, "issues.json")
+entry["issues"] = json.load(open(issues_path)) if os.path.exists(issues_path) else []
 prev = next((u for u in updates if u["date"] == TODAY), None)
 if APPEND and prev:
     entry["added"] = prev.get("added", []) + entry["added"]
@@ -150,6 +152,7 @@ if APPEND and prev:
     entry["addedCount"] = len(entry["added"])
     entry["closedCount"] = len(entry["closed"])
     entry["summary"] = (prev.get("summary", "") + " " + NOTE).strip()
+    entry["issues"] = prev.get("issues", []) + entry["issues"]
 updates = [u for u in updates if u["date"] != TODAY and days(u["date"], TODAY) <= 60] + [entry]
 meta["lastRun"] = entry["ranAt"]
 meta["openCount"] = len(open_jobs)

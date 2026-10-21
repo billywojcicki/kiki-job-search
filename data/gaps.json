@@ -1,0 +1,30 @@
+{
+ "updated": "2026-10-21",
+ "manual": [
+  {"name": "LinkedIn Jobs", "covers": "Cross-posted hospital jobs, plus some that recruiters post only here", "why": "LinkedIn blocks automated reading, so nothing here is tracked.", "url": "https://www.linkedin.com/jobs/search/?keywords=registered%20nurse&location=San%20Francisco%20Bay%20Area"},
+  {"name": "Indeed", "covers": "Jobs from every employer, incl. small clinics and surgery centers", "why": "Indeed limits how many pages can be read each day, so coverage is partial.", "url": "https://www.indeed.com/jobs?q=registered+nurse&l=San+Francisco+Bay+Area%2C+CA"},
+  {"name": "SF VA Medical Center", "covers": "Pre-op, PACU, GI lab, OR and women's health clinic RN jobs", "why": "USAJobs pages can't be read automatically, so the VA isn't tracked at all.", "url": "https://www.usajobs.gov/search/results/?l=San%20Francisco%2C%20California&k=registered%20nurse"},
+  {"name": "Highland Hospital (Alameda Health System)", "covers": "L&D, mother-baby, NICU, OB clinic, pre/post cath lab", "why": "The careers site blocks automated reading; jobs are checked only through Glassdoor copies, which can lag.", "url": "https://www.alamedahealthsystem.org/careers/"},
+  {"name": "Contra Costa Regional Medical Center", "covers": "L&D / nursery / postpartum, PACU, GI lab and OR (county jobs)", "why": "The county job site blocks automated reading; jobs are checked only through Indeed.", "url": "https://www.governmentjobs.com/careers/contracosta"},
+  {"name": "San Mateo Medical Center", "covers": "Pre-op, PACU, OR (county jobs)", "why": "The county job site blocks automated reading; jobs are checked only through job boards.", "url": "https://www.governmentjobs.com/careers/sanmateo"},
+  {"name": "Sequoia Hospital (Dignity Health)", "covers": "Birth center (L&D / postpartum), PACU, OR", "why": "Dignity's job search is blocked; only its location pages can be read, and they can lag.", "url": "https://www.commonspirit.careers"},
+  {"name": "Chinese Hospital", "covers": "GI / endoscopy, PACU, OR", "why": "Its job page often times out.", "url": "https://chinesehospital-sf.org/job-opportunities/"},
+  {"name": "NorthBay Health (Fairfield)", "covers": "L&D, NICU, OR", "why": "The careers site blocks automated reading; jobs are checked through Glassdoor and Indeed.", "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Clinical-nurse-ii-Jobs-EI_IE121907.0,15_KO16,33.htm"},
+  {"name": "Stanford Health Care", "covers": "Palo Alto, Redwood City and Tri-Valley jobs", "why": "Its job site shows only the first 100 openings to automated readers, so some Stanford jobs can be missed.", "url": "https://careers.stanfordhealthcare.org"},
+  {"name": "Sutter Health", "covers": "CPMC, Mills-Peninsula, Alta Bates, Eden and Sutter clinics", "why": "Sutter's job lists are cut off for automated readers; most jobs are found through Glassdoor and Built In, but a few can slip through.", "url": "https://jobs.sutterhealth.org"},
+  {"name": "El Camino Health", "covers": "NICU, mother-baby, L&D, pre-admission (Mountain View)", "why": "Its job site refuses automated reading; jobs are checked through Credenza and Glassdoor.", "url": "https://www.elcaminohealth.org/careers"},
+  {"name": "Kindbody", "covers": "Fertility RN jobs (SF, Walnut Creek)", "why": "Its job board returns errors.", "url": "https://boards.greenhouse.io/kindbody"},
+  {"name": "US Fertility / Reproductive Science Center", "covers": "IVF nurse and OR/PACU jobs (San Ramon, San Mateo, Menlo Park, Oakland)", "why": "Its job board can't be read; jobs are found through ZipRecruiter and Glassdoor.", "url": "https://www.usfertility.com/careers"},
+  {"name": "Pacific Fertility Center (Prelude)", "covers": "Fertility RN jobs (SF, Marin)", "why": "Its job board times out.", "url": "https://www.preludefertility.com/about-us/careers/opportunities"},
+  {"name": "Nova IVF (Ivy Fertility)", "covers": "Fertility RN jobs (Mountain View)", "why": "Its job board blocks automated reading.", "url": "https://www.ivyfertility.com/careers"},
+  {"name": "Collab Fertility", "covers": "Fertility RN jobs (Walnut Creek)", "why": "Its careers page shows no listings to automated readers.", "url": "https://www.collabfertility.com/careers"},
+  {"name": "MedBridge surgery centers", "covers": "The Surgery Center of Oakland, Pacific Heights Surgery Center (pre-op, PACU, OR)", "why": "Their job board can't be read; jobs are checked through Glassdoor.", "url": "https://medbridge.md/about-us/culture-careers/"}
+ ],
+ "excluded": [
+  {"name": "Hospitals more than about 55 minutes away", "why": "San Jose, Santa Clara, Vallejo, Antioch, Santa Rosa and similar are outside the drive limit."},
+  {"name": "Travel, agency and staffing-firm postings", "why": "Left out on purpose; only direct hospital and clinic jobs are tracked."},
+  {"name": "New-grad residency programs", "why": "She already has 4 years of experience."},
+  {"name": "Managers, educators, NPs, LVNs, CNAs, techs and lactation-only (IBCLC) roles", "why": "Not staff RN roles she's looking for."},
+  {"name": "Postings open only to current employees", "why": "For example, Washington Hospital's internal Staff Nurse III Birthing Center job."}
+ ]
+}

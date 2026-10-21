@@ -736,6 +736,50 @@
     "title": "RN Recovery (per diem, rotating)",
     "facilityName": "San Ramon Regional Medical Center"
    }
+  ],
+  "issues": [
+   {
+    "name": "UCSF Health",
+    "covers": "21 UCSF jobs could not be re-checked; they stay listed as of Oct 20",
+    "why": "UCSF's job feeds refused the overnight check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "Sutter open/closed checks",
+    "why": "Sutter's job site refused the overnight check; statuses came from job boards",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "MarinHealth",
+    "covers": "MarinHealth open/closed checks",
+    "why": "Its job site refused the overnight check",
+    "url": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "Stanford open/closed checks",
+    "why": "Its job site refused the overnight check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "El Camino Health",
+    "covers": "El Camino NICU jobs",
+    "why": "Its job site refused the overnight check",
+    "url": "https://www.elcaminohealth.org/careers"
+   },
+   {
+    "name": "Seton Medical Center",
+    "covers": "Seton PACU and OR jobs",
+    "why": "Its job site refused the overnight check",
+    "url": "https://careers-ahmchealth.icims.com"
+   },
+   {
+    "name": "Kaiser Permanente",
+    "covers": "Kaiser open/closed checks",
+    "why": "Kaiser's job-number check was refused; statuses came from its job lists",
+    "url": "https://www.kaiserpermanentejobs.org"
+   }
   ]
  }
 ]

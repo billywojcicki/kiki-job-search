@@ -64,8 +64,8 @@ h1 em { font-style: normal; color: var(--accent); }
 .sub { margin: 0; color: var(--muted); font-size: 14.5px; }
 
 /* Tabs */
-.tabs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 4px; gap: 2px; position: sticky; top: max(8px, env(safe-area-inset-top, 0px)); z-index: 5; }
-.tab { appearance: none; border: 0; background: none; border-radius: 999px; padding: 9px 4px; font-size: 14.5px; font-weight: 600; color: var(--muted); cursor: pointer; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.tabs { display: flex; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 4px; gap: 2px; position: sticky; top: max(8px, env(safe-area-inset-top, 0px)); z-index: 5; }
+.tab { flex: 1 1 auto; appearance: none; border: 0; background: none; border-radius: 999px; padding: 9px 6px; font-size: 14px; font-weight: 600; color: var(--muted); cursor: pointer; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .tab[aria-selected="true"] { background: var(--ink); color: var(--bg); }
 
 /* Toolbar + filters */
@@ -103,6 +103,7 @@ h1 em { font-style: normal; color: var(--accent); }
 .meta { margin: 0; color: var(--muted); font-size: 14.5px; }
 .when { margin: 0; color: var(--muted); font-size: 13.5px; font-weight: 500; }
 .when.fresh { color: var(--good); }
+.recent { background: var(--good-soft); color: var(--good); }
 .why { margin: 0; font-size: 14.5px; color: var(--muted); }
 .actions { display: grid; grid-template-columns: 1fr 1.4fr; gap: 8px; margin-top: 4px; }
 details.more { border-top: 1px solid var(--line); margin-top: 4px; padding-top: 8px; }
@@ -166,6 +167,7 @@ textarea { width: 100%; min-height: 72px; border: 1px solid var(--line); border-
     <button class="tab" role="tab" id="tab-saved" data-tab="saved" aria-selected="false">Saved</button>
     <button class="tab" role="tab" id="tab-hosp" data-tab="hospitals" aria-selected="false">Hospitals</button>
     <button class="tab" role="tab" id="tab-upd" data-tab="updates" aria-selected="false">Updates</button>
+    <button class="tab" role="tab" id="tab-gaps" data-tab="gaps" aria-selected="false">Gaps</button>
   </nav>
 
   <main id="view"></main>
@@ -198,7 +200,7 @@ var RESUME = {
   FERT: "Pre-op / PACU version (lead with high-risk OB, patient teaching and procedure recovery)"
 };
 
-var state = { jobs: [], facilities: [], updates: [], meta: {}, loaded: false, error: false, showLimit: 25, panelOpen: false, facility: null };
+var state = { jobs: [], facilities: [], updates: [], meta: {}, gaps: {}, loaded: false, error: false, showLimit: 25, panelOpen: false, facility: null };
 var prefs = Object.assign({ tab: "jobs", units: [], drive: "any", hours: "any", showLong: false, sort: "best" }, readLocal("prefs") || {});
 var marks = readLocal("marks") || {};
 var lastVisit = readLocal("lastVisit");
@@ -266,11 +268,21 @@ function payShort(j) {
 function payRank(j) { var n = payNums(j); if (!n.length) return 0; return n[0] > 1000 ? n[0] / 2080 : n[0]; }
 function isFullish(j) { return j.employment === "Full-time" || (typeof j.fte === "number" && j.fte >= 0.9); }
 function isOpen(j) { return j.status !== "closed"; }
-function isNew(j) {
-  var base = state.meta.baseline;
-  if (!j.firstSeen || (base && j.firstSeen <= base)) return false;
-  return daysBetween(j.firstSeen, todayStr()) <= 3;
+/* "New" = first spotted in the most recent refresh. */
+function latestRefresh() {
+  return state.updates.reduce(function (m, u) { return u.date > m ? u.date : m; }, "");
 }
+function isNew(j) {
+  var base = state.meta.baseline, last = latestRefresh();
+  if (!j.firstSeen || !last || (base && j.firstSeen <= base)) return false;
+  return j.firstSeen === last;
+}
+/* Posted by the employer in the last 3 days (exact or approximate date). */
+function isRecent(j) {
+  return !!j.posted && !j.postedBefore && daysBetween(j.posted, todayStr()) <= 3;
+}
+/* 0 = new since the last refresh, 1 = posted in the last 3 days, 2 = everything else */
+function freshness(j) { return isNew(j) ? 0 : isRecent(j) ? 1 : 2; }
 function markOf(id) { return marks[id] || null; }
 function setMark(id, patch) {
   var next = Object.assign({}, marks[id] || {}, patch, { updatedAt: new Date().toISOString() });
@@ -284,9 +296,10 @@ function setMark(id, patch) {
 function load() {
   var bust = "?t=" + Date.now();
   var get = function (p) { return fetch(p + bust, { cache: "no-store" }).then(function (r) { if (!r.ok) throw new Error(p); return r.json(); }); };
-  Promise.all([get("data/jobs.json"), get("data/facilities.json"), get("data/updates.json"), get("data/meta.json")])
+  var optional = function (p) { return get(p).catch(function () { return null; }); };
+  Promise.all([get("data/jobs.json"), get("data/facilities.json"), get("data/updates.json"), get("data/meta.json"), optional("data/gaps.json")])
     .then(function (res) {
-      state.jobs = res[0]; state.facilities = res[1]; state.updates = res[2]; state.meta = res[3] || {};
+      state.jobs = res[0]; state.facilities = res[1]; state.updates = res[2]; state.meta = res[3] || {}; state.gaps = res[4] || {};
       state.loaded = true; render();
       setTimeout(function () { writeLocal("lastVisit", todayStr()); }, 3000);
     })
@@ -327,12 +340,12 @@ function sorted(list) {
   var fr = function (j) { return (FIT[j.fit] || FIT.stretch).rank; };
   var posted = function (j) { return j.posted || j.firstSeen || "0000"; };
   return list.slice().sort(function (a, b) {
-    var fresh = isNew(b) - isNew(a);
+    var fresh = freshness(a) - freshness(b);
     if (fresh) return fresh;
     if (prefs.sort === "new") return posted(b).localeCompare(posted(a)) || fr(a) - fr(b);
     if (prefs.sort === "drive") return (a.drive || 99) - (b.drive || 99) || fr(a) - fr(b);
     if (prefs.sort === "pay") return payRank(b) - payRank(a) || fr(a) - fr(b);
-    return fr(a) - fr(b) || (isFullish(b) - isFullish(a)) || (isNew(b) - isNew(a)) || (a.drive || 99) - (b.drive || 99);
+    return fr(a) - fr(b) || (isFullish(b) - isFullish(a)) || (a.drive || 99) - (b.drive || 99);
   });
 }
 function activeFilterCount() {
@@ -343,7 +356,7 @@ function card(j, saved) {
   var fit = FIT[j.fit] || FIT.stretch;
   var tags = '<span class="tag unit">' + esc(UNITS[j.unit] || j.unit) + '</span>' +
     '<span class="tag fit-' + esc(j.fit) + '">' + fit.label + '</span>' +
-    (isNew(j) ? '<span class="tag new">New</span>' : '') +
+    (isNew(j) ? '<span class="tag new">New</span>' : isRecent(j) ? '<span class="tag recent">Posted in last 3 days</span>' : '') +
     (j.status === "unconfirmed" ? '<span class="tag flag">May be closed</span>' : '') +
     (j.status === "closed" ? '<span class="tag flag">Closed</span>' : '');
   var meta = ["~" + j.drive + " min" + (j.toll ? " + toll" : ""), hoursShort(j), shiftShort(j.shift), payShort(j)].filter(Boolean).join(" · ");
@@ -356,7 +369,7 @@ function card(j, saved) {
         '<label class="dl"><span class="k">Notes</span><textarea data-note="' + esc(j.id) + '" placeholder="Recruiter, interview date, questions…">' + esc(m.note || "") + '</textarea></label>'
     : '<div class="actions">' + saveBtn + '<a class="btn primary" href="' + esc(safeUrl(j.url)) + '" target="_blank" rel="noopener">View posting</a></div>';
   var postedTxt = postedLine(j);
-  var fresh = j.posted && !j.postedBefore && daysBetween(j.posted, todayStr()) <= 7;
+  var fresh = isRecent(j);
   return '<article class="job">' +
     '<div class="tags">' + tags + '</div>' +
     '<h2>' + esc(j.title) + '</h2>' +
@@ -415,13 +428,13 @@ function renderJobs() {
   if (!list.length) body = '<div class="empty"><b>Nothing matches</b>Try a longer drive, any hours, or show long shots.</div>';
   else {
     var shown = list.slice(0, state.showLimit);
-    var newCount = list.filter(isNew).length;
+    var GROUPS = ["New since last refresh", "Posted in last 3 days", "Earlier"];
+    var counts = [0, 0, 0];
+    list.forEach(function (j) { counts[freshness(j)]++; });
+    var multi = counts.filter(function (c) { return c; }).length > 1;
     var cards = shown.map(function (j, i) {
-      var label = "";
-      if (newCount && newCount < list.length) {
-        if (i === 0) label = '<h2 class="group-label">New <span>' + newCount + '</span></h2>';
-        else if (i === newCount) label = '<h2 class="group-label">Earlier <span>' + (list.length - newCount) + '</span></h2>';
-      }
+      var g = freshness(j), label = "";
+      if (multi && (i === 0 || freshness(shown[i - 1]) !== g)) label = '<h2 class="group-label">' + GROUPS[g] + ' <span>' + counts[g] + '</span></h2>';
       return label + card(j, false);
     }).join("");
     body = '<div class="list">' + cards + '</div>' +
@@ -476,6 +489,30 @@ function renderUpdates() {
   }).join("") + '</div>';
 }
 
+/* Gaps tab: sources the tracker can't fully read, so she checks them herself */
+function gapRow(g) {
+  return '<div class="hosp"><div><h3>' + esc(g.name) + '</h3>' + (g.covers ? '<p class="sys">' + esc(g.covers) + '</p>' : '') + '</div>' +
+    '<p class="units">' + esc(g.why) + '</p>' +
+    (g.url ? '<div class="foot"><a href="' + esc(safeUrl(g.url)) + '" target="_blank" rel="noopener">Check it yourself</a></div>' : '') + '</div>';
+}
+function renderGaps() {
+  if (!state.loaded) return '<div class="empty"><b>Loading</b>One moment.</div>';
+  var g = state.gaps || {};
+  var last = state.updates.slice().sort(function (a, b) { return b.date.localeCompare(a.date); })[0];
+  var issues = (last && last.issues) || [];
+  var out = '<div class="note"><p>Every refresh reads about 90 hospital, clinic and job-board sites. These ones it can’t fully read, so jobs there can be missed or out of date. Check them yourself every few days.</p></div>';
+  if (last) {
+    var d = new Date(last.date + "T12:00:00").toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" });
+    out += '<h2 class="section-title">Problems in the latest refresh</h2>';
+    out += issues.length
+      ? '<p class="summary">' + esc(d) + '. These sites refused or failed this time, so their jobs weren’t fully re-checked.</p><div class="hlist">' + issues.map(gapRow).join("") + '</div>'
+      : '<p class="summary">' + esc(d) + '. Every site was read without problems.</p>';
+  }
+  if ((g.manual || []).length) out += '<h2 class="section-title">Always check these yourself</h2><div class="hlist">' + g.manual.map(gapRow).join("") + '</div>';
+  if ((g.excluded || []).length) out += '<h2 class="section-title">Not tracked on purpose</h2><div class="hlist">' + g.excluded.map(gapRow).join("") + '</div>';
+  return '<div class="list" style="gap:12px">' + out + '</div>';
+}
+
 /* Render + events */
 function render() {
   renderHeader();
@@ -484,7 +521,7 @@ function render() {
   if (ae && ae.matches && ae.matches("textarea[data-note]")) return;
   var v = document.getElementById("view");
   var openIds = Array.prototype.map.call(v.querySelectorAll("details[open]"), function (d) { var h = d.closest(".job"); return h ? h.querySelector("h2").textContent + "|" + h.querySelector(".where").textContent : ""; });
-  v.innerHTML = prefs.tab === "saved" ? renderSaved() : prefs.tab === "hospitals" ? renderHospitals() : prefs.tab === "updates" ? renderUpdates() : renderJobs();
+  v.innerHTML = prefs.tab === "saved" ? renderSaved() : prefs.tab === "hospitals" ? renderHospitals() : prefs.tab === "updates" ? renderUpdates() : prefs.tab === "gaps" ? renderGaps() : renderJobs();
   if (openIds.length) Array.prototype.forEach.call(v.querySelectorAll(".job"), function (el) {
     var key = el.querySelector("h2").textContent + "|" + el.querySelector(".where").textContent;
     if (openIds.indexOf(key) >= 0) { var d = el.querySelector("details"); if (d) d.open = true; }
@@ -531,7 +568,7 @@ document.addEventListener("focusout", function (e) {
 
 (function init() {
   var hash = (location.hash || "").slice(1);
-  if (["jobs", "saved", "hospitals", "updates"].indexOf(hash) >= 0) prefs.tab = hash;
+  if (["jobs", "saved", "hospitals", "updates", "gaps"].indexOf(hash) >= 0) prefs.tab = hash;
   render();
   load();
 })();
