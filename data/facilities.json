@@ -999,5 +999,38 @@
   "toll": "Bay Bridge",
   "units": "OR (office-based facial plastic / reconstructive surgery center)",
   "careers": "https://www.indeed.com/cmp/Golden-State-Dermatology/jobs"
+ },
+ {
+  "key": "ebes-oak",
+  "name": "East Bay Endosurgery Center",
+  "system": "AmSurg",
+  "city": "Oakland",
+  "area": "East Bay",
+  "drive": 25,
+  "toll": "Bay Bridge",
+  "units": "GI lab / endoscopy (outpatient ASC, 300 Frank Ogawa Plaza)",
+  "careers": "https://www.simplyhired.com/job/yXlEyv6jaA0vZ9_91yR5BjhkJXj60YlD-451O5prHURAPRCKH9QLmA"
+ },
+ {
+  "key": "nbasc-dc",
+  "name": "North Bay Ambulatory Surgery Center",
+  "system": "Independent",
+  "city": "Daly City",
+  "area": "Peninsula",
+  "drive": 20,
+  "toll": "",
+  "units": "Pre-op, PACU, OR (outpatient ophthalmology, pain, ortho, spine)",
+  "careers": "https://www.indeed.com/q-north-bay-ambulatory-surgery-center-l-daly-city,-ca-jobs.html"
+ },
+ {
+  "key": "hvsc",
+  "name": "Hayes Valley Surgery Center",
+  "system": "Independent",
+  "city": "San Francisco",
+  "area": "SF",
+  "drive": 8,
+  "toll": "",
+  "units": "OR, pre-op/PACU (outpatient ASC)",
+  "careers": "https://www.hayessurgery.com/careers"
  }
 ]

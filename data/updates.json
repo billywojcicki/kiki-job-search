@@ -656,5 +656,86 @@
     "facilityName": "Golden Gate Endoscopy Center"
    }
   ]
+ },
+ {
+  "date": "2026-10-21",
+  "ranAt": "2026-10-21T13:17:28+00:00",
+  "summary": "10 new openings, 9 of them strong or worth applying. 2 closed. Many employer sites (Sutter, MarinHealth, Stanford and El Camino Workday, UCSF feeds, Seton iCIMS, Kaiser reqid checks) were refused today, so most statuses rest on job boards; 21 UCSF jobs could not be rechecked. New leads seen only on Indeed (Tri-Valley postpartum, Chinese Hospital endoscopy) are marked unconfirmed.",
+  "addedCount": 10,
+  "closedCount": 2,
+  "added": [
+   {
+    "id": "SHCTV-IN-1b14800c996bcf91",
+    "title": "Registered Nurse II Postpartum Full Time Days",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "strong"
+   },
+   {
+    "id": "SHCTV-IN-98312518a575432e",
+    "title": "Registered Nurse Postpartum Full Time Nights",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "strong"
+   },
+   {
+    "id": "CHINESE-IN-f9703cc0a0f92fd3",
+    "title": "Registered Nurse - Gastroenterology/Endoscopy",
+    "facilityName": "Chinese Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "NBASC-IN-cef4b82500dc6f97",
+    "title": "Registered Nurses - Pre-Op, PACU & Circulating (North Bay Ambulatory Surgery Center)",
+    "facilityName": "North Bay Ambulatory Surgery Center",
+    "fit": "possible"
+   },
+   {
+    "id": "EBES-GD1010301650194",
+    "title": "Registered Nurse - Per Diem, Pre, Intra and Post Procedure Care Endoscopy (East Bay Endosurgery Center)",
+    "facilityName": "East Bay Endosurgery Center",
+    "fit": "possible"
+   },
+   {
+    "id": "SPRING-4745714005",
+    "title": "IVF Nurse Coordinator/ ASC Nurse (RN)",
+    "facilityName": "Spring Fertility Oakland",
+    "fit": "possible"
+   },
+   {
+    "id": "KINDBODY-GD1010163757293",
+    "title": "Lead Clinical Nurse",
+    "facilityName": "Kindbody Walnut Creek",
+    "fit": "possible"
+   },
+   {
+    "id": "WHHS-oq8MzfwD",
+    "title": "OR/Endo Staff RN II - Operating Room/Endoscopy - Full Time 8 hr - Variable",
+    "facilityName": "Washington Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "SPRING-4736090005",
+    "title": "Registered Nurse (Outpatient Surgery Center)",
+    "facilityName": "Spring Fertility Silicon Valley",
+    "fit": "possible"
+   },
+   {
+    "id": "HVSC-VAIA-90362026",
+    "title": "Perioperative RN Circulator (Part-Time/Per Diem) (Hayes Valley Surgery Center)",
+    "facilityName": "Hayes Valley Surgery Center",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "LPCH-P146644-3304",
+    "title": "Clinical Nurse II, Sedation Program",
+    "facilityName": "Lucile Packard Children's Stanford"
+   },
+   {
+    "id": "TENET-2603013680",
+    "title": "RN Recovery (per diem, rotating)",
+    "facilityName": "San Ramon Regional Medical Center"
+   }
+  ]
  }
 ]
