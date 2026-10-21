@@ -53,7 +53,7 @@ Today = the date in America/Los_Angeles (YYYY-MM-DD). SWEEP = /home/claude/resea
    Reply with only: existing open / closed / unknown counts, new jobs by unit, failed sources, under 100 words."
 3. Review the new jobs across the 7 files (print id, unit, fit, verified, title, facility, url, evidence). Drop duplicates of jobs already listed under another id, leads another sweep already verified, and postings she cannot apply to. Then:
    `python3 refresh/merge.py <today> SWEEP "<comma-separated ids to drop>" "<one or two sentences on anything notable or any source that failed>"`
-   merge.py keeps the better-evidenced copy when two sweeps report the same job, never replaces an exact posting date with a guess, marks jobs reported closed, marks unseen jobs unconfirmed after 3 days and closed after 7, prunes jobs closed more than 30 days, and writes the day's entry to data/updates.json and data/meta.json.
+   merge.py keeps the better-evidenced copy when two sweeps report the same job, never replaces an exact posting date with a guess, marks jobs reported closed, marks unseen jobs unconfirmed after 3 days and closed after 14 (so a few days of refused sites cannot knock real openings off the list), prunes jobs closed more than 30 days, and writes the day's entry to data/updates.json and data/meta.json.
 4. Check: every job's facility key exists in data/facilities.json, ids are unique, and the counts printed by merge.py look right.
 5. Commit only data/*.json with a short message ("Refresh <today>: N new openings, M closed"), git fetch origin main, then push to main.
 6. Finish with a short plain-text summary (it becomes the phone notification): number of new openings and closed ones, then each new strong or possible job as "Title, Facility (~N min)". If nothing changed, say "No new openings today."
@@ -65,6 +65,7 @@ PREOP: "pre-op", "preop", "pre-operative", "pre-admission", "PAT", "pre-procedur
 FERT: "fertility nurse", "IVF nurse", "REI nurse", "reproductive endocrinology", "fertility RN", "nurse coordinator fertility", "egg retrieval", "reproductive health". UCSF feed terms: Fertility, Reproductive, IVF. Glassdoor kw: fertility-nurse, ivf-nurse. Indeed: fertility-nurse, ivf-nurse.
 
 ## Recipes by source
+If an employer's own site is refused in a run, still re-check that employer's existing jobs through another source rather than skipping them: Glassdoor, Built In, Credenza, ZipRecruiter or Indeed listings, or the employer's job detail pages on a different host (for UCSF, careers.ucsf.edu/careers/JobDetail/x/<id> when the ucsf.avature.net feeds are refused; Credenza also carries most UCSF postings). Report a job as open when a board shows it active with no expired notice (verified true if the listing is recent, false if not), closed when a board says expired or removed, and unknown only when nothing could be checked.
 General: WebFetch respects robots.txt, so some hosts refuse (LinkedIn, dejobs.org, api.smartrecruiters.com, governmentjobs.com, kaiserpermanentejobs.org/search-jobs). Keep WebFetch URLs short. Prefer fetching URLs taken from search results or from pages already read; some hand-typed URLs get refused. Use WebSearch mode "extended" for fresh results. Most Workday/Phenom search pages render empty; their sitemaps and detail JSON usually work.
 
 A) SUTTER
