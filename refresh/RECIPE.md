@@ -68,6 +68,7 @@ FERT: "fertility nurse", "IVF nurse", "REI nurse", "reproductive endocrinology",
 
 ## Recipes by source
 If an employer's own site is refused in a run, still re-check that employer's existing jobs through another source rather than skipping them: Glassdoor, Built In, Credenza, ZipRecruiter or Indeed listings, or the employer's job detail pages on a different host (for UCSF, careers.ucsf.edu/careers/JobDetail/x/<id> when the ucsf.avature.net feeds are refused; Credenza also carries most UCSF postings). Report a job as open when a board shows it active with no expired notice (verified true if the listing is recent, false if not), closed when a board says expired or removed, and unknown only when nothing could be checked.
+Web searches share one daily budget across all 7 sweeps, and it ran out on Oct 22. Use WebSearch only for discovery the list pages can't do (new employers, one-off leads), at most about 8 searches per sweep; check existing jobs and employer lists with direct WebFetch of the pages named below instead.
 General: WebFetch respects robots.txt, so some hosts refuse (LinkedIn, dejobs.org, api.smartrecruiters.com, governmentjobs.com, kaiserpermanentejobs.org/search-jobs). Keep WebFetch URLs short. Prefer fetching URLs taken from search results or from pages already read; some hand-typed URLs get refused. Use WebSearch mode "extended" for fresh results. Most Workday/Phenom search pages render empty; their sitemaps and detail JSON usually work.
 
 A) SUTTER
