@@ -151,8 +151,12 @@ if APPEND and prev:
     entry["closed"] = prev.get("closed", []) + entry["closed"]
     entry["addedCount"] = len(entry["added"])
     entry["closedCount"] = len(entry["closed"])
-    entry["summary"] = (prev.get("summary", "") + " " + NOTE).strip()
-    entry["issues"] = prev.get("issues", []) + entry["issues"]
+    # a second run on the same day: one combined entry, with this run's view of what failed
+    good_all = [a for a in entry["added"] if a.get("fit") != "stretch"]
+    entry["summary"] = (f"{entry['addedCount']} new openings, {len(good_all)} of them strong or worth applying. "
+                        f"{entry['closedCount']} closed. " + NOTE).strip()
+    if not os.path.exists(issues_path):
+        entry["issues"] = prev.get("issues", [])
 updates = [u for u in updates if u["date"] != TODAY and days(u["date"], TODAY) <= 60] + [entry]
 meta["lastRun"] = entry["ranAt"]
 meta["openCount"] = len(open_jobs)
