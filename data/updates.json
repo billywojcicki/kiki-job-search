@@ -781,5 +781,93 @@
     "url": "https://www.kaiserpermanentejobs.org"
    }
   ]
+ },
+ {
+  "date": "2026-10-22",
+  "ranAt": "2026-10-22T13:22:31+00:00",
+  "summary": "4 new openings, 3 of them strong or worth applying. 3 closed. Many employer sites (UCSF, Sutter Workday, Stanford sitemaps) timed out or were refused and the web search limit ran out, so 30+ jobs could not be re-checked; new Stanford Tri-Valley listings came from job boards only.",
+  "addedCount": 4,
+  "closedCount": 3,
+  "added": [
+   {
+    "id": "SHCTV-GD1010265338984",
+    "title": "PD PACU RN",
+    "facilityName": "Stanford Tri-Valley Livermore Surgery Center",
+    "fit": "strong"
+   },
+   {
+    "id": "SHCTV-IN-40f3c9912c781d3d",
+    "title": "Registered Nurse II, NICU- Per Diem Days",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "possible"
+   },
+   {
+    "id": "SHCTV-IN-656ff437b7e8900b",
+    "title": "Registered Nurse II (RN) Labor & Delivery Full Time Days",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "possible"
+   },
+   {
+    "id": "LPCH-LP_00024890-2660697",
+    "title": "Clinical Nurse II, Neonatal ICU",
+    "facilityName": "Lucile Packard Children's Stanford",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "HVSC-VAIA-90362026",
+    "title": "Perioperative RN Circulator (Part-Time/Per Diem) (Hayes Valley Surgery Center)",
+    "facilityName": "Hayes Valley Surgery Center"
+   },
+   {
+    "id": "KINDBODY-GD1010163757293",
+    "title": "Lead Clinical Nurse",
+    "facilityName": "Kindbody Walnut Creek"
+   },
+   {
+    "id": "ucsf-4710",
+    "title": "Registered Nurse - OR (MB, FT, 12hr/8 hr, eve shift)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "UCSF Health",
+    "covers": "21 UCSF jobs could not be re-checked, and new UCSF postings were not fully searched",
+    "why": "UCSF's job feeds and detail pages timed out waiting for approval",
+    "url": "https://careers.ucsf.edu/nursing"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "5 Sutter jobs (Mission Bernal OR, Novato OR, Eden surgery charge) could not be checked; unchecked leads include SF Pre-op/PACU, Oakland Pre/Post Op, San Leandro Pre-op/PACU, a 28-hr Mom & Baby, a 16-hr Eden Nursery and a Fremont periop RN",
+    "why": "Sutter's Workday job pages timed out and Glassdoor and Indeed rate-limited the check",
+    "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH"
+   },
+   {
+    "name": "Stanford Health Care / Lucile Packard",
+    "covers": "Tri-Valley postpartum days could not be checked; new Tri-Valley L&D, NICU and PACU listings were seen only on job boards",
+    "why": "Stanford and Packard job sitemaps were refused",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Kaiser Permanente",
+    "covers": "Statewide nursing list pages 2-37, Oakland page 2 and San Rafael page 2 were not read; an Indeed lead for a part-time Fremont IVF Clinic RN could not be confirmed",
+    "why": "Those Kaiser pages were refused",
+    "url": "https://www.kaiserpermanentejobs.org/employment/san-francisco-nursing-licensed-and-nurse-practitioners-jobs/641/8267760/6252001-5332921-5391997-5391959/4"
+   },
+   {
+    "name": "MarinHealth",
+    "covers": "Possible part-time Surgery days and PACU evenings openings could not be confirmed",
+    "why": "MarinHealth's Workday site was refused",
+    "url": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers"
+   },
+   {
+    "name": "Fertility clinics",
+    "covers": "HRC, Laurel, Bay IVF, Stanford Fertility and UCSF fertility were not searched for new jobs",
+    "why": "The day's web search limit ran out",
+    "url": "https://www.indeed.com/q-fertility-nurse-l-san-francisco-bay-area,-ca-jobs.html"
+   }
+  ]
  }
 ]
