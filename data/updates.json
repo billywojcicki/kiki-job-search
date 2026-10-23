@@ -906,5 +906,116 @@
     "url": "https://www.indeed.com/jobs?q=pre-op+rn&l=San+Francisco+Bay+Area%2C+CA"
    }
   ]
+ },
+ {
+  "date": "2026-10-23",
+  "ranAt": "2026-10-23T13:55:47+00:00",
+  "summary": "6 new openings, 6 of them strong or worth applying. 4 closed. Most employer sites refused today's checks, so many statuses come from job boards and some jobs show May be closed; see the Gaps tab.",
+  "addedCount": 6,
+  "closedCount": 4,
+  "added": [
+   {
+    "id": "MH-CZ-169815141",
+    "title": "Clinical RN II, LDRP, Part-Time, (36 Hour Week), Days",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "MH-CZ-169815142",
+    "title": "Clinical RN II, LDRP, Part-Time, (36 Hour Week), Nights",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "MH-CZ-169815143",
+    "title": "Clinical RN II, LDRP, Part-Time, (36 Hour Week), Nights",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "MH-CZ-169815144",
+    "title": "Clinical RN II, LDRP, Part-Time, (36 Hour Week), Nights",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "JMH-CZ-169811646",
+    "title": "Temporary - RN - Ambulatory Clinic - Specialty - Per Diem - 8 Hour - Days",
+    "facilityName": "John Muir Health Orinda clinic",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1445742",
+    "title": "Staff Nurse II - Labor & Delivery",
+    "facilityName": "Kaiser San Leandro",
+    "fit": "possible"
+   }
+  ],
+  "closed": [
+   {
+    "id": "CHINESE-IN-f9703cc0a0f92fd3",
+    "title": "Registered Nurse - Gastroenterology/Endoscopy",
+    "facilityName": "Chinese Hospital"
+   },
+   {
+    "id": "MH-JR102390",
+    "title": "Clinical RN II, Neonatal Intensive Care, Part-Time, (24 Hour Week), Variable Shifts",
+    "facilityName": "MarinHealth Medical Center"
+   },
+   {
+    "id": "SHCTV-IN-1b14800c996bcf91",
+    "title": "Registered Nurse II Postpartum Full Time Days",
+    "facilityName": "Stanford Health Care Tri-Valley"
+   },
+   {
+    "id": "kp-1452273",
+    "title": "Staff Nurse II - NICU",
+    "facilityName": "Kaiser San Francisco (Geary)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "UCSF Health",
+    "covers": "27 UCSF jobs couldn't be re-checked",
+    "why": "UCSF's job feeds and job pages refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "CPMC, Mills-Peninsula, Eden and Sutter clinics: 13 jobs couldn't be re-checked; 10 others only through older job-board copies",
+    "why": "Sutter's job site refused the check",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Highland Hospital",
+    "covers": "All 5 Highland jobs couldn't be re-checked",
+    "why": "Its careers portal and Glassdoor copies couldn't be read",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "Stanford Health Care / Lucile Packard",
+    "covers": "Stanford jobs were checked only through job boards",
+    "why": "Stanford's own job sites refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "MarinHealth, John Muir, Seton, Washington, El Camino",
+    "covers": "Their own job sites; new MarinHealth LDRP jobs were found through Credenza",
+    "why": "Their job sites refused the check",
+    "url": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers"
+   },
+   {
+    "name": "Fertility clinics",
+    "covers": "CCRM, Everleap, Kindbody, Laurel, Marin Fertility, US Fertility, Ivy, Bay IVF, Stanford Fertility",
+    "why": "Their job boards timed out waiting for permission",
+    "url": "https://www.glassdoor.com/Job/san-francisco-fertility-nurse-jobs-SRCH_IL.0,13_IC1147401_KO14,29.htm"
+   },
+   {
+    "name": "Surgery and endoscopy centers",
+    "covers": "About 9 centers in SF, the East Bay and the Peninsula weren't checked for new jobs",
+    "why": "Job boards rate-limited and the day's web-search allowance ran out",
+    "url": "https://www.indeed.com/jobs?q=pre-op+rn&l=San+Francisco+Bay+Area%2C+CA"
+   }
+  ]
  }
 ]

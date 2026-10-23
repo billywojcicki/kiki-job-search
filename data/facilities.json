@@ -18,7 +18,7 @@
   "area": "SF",
   "drive": 8,
   "toll": "",
-  "units": "No maternity. PACU, short-stay/day surgery unit, endoscopy, OR (RN posting lists ACLS for ICU, ED, PACU, SDSU and ENDO)",
+  "units": "No maternity. PACU, short-stay/day surgery unit, endoscopy, OR. Job page 10/23 shows no staff RN postings (only Nursing House Supervisor)",
   "careers": "https://chinesehospital-sf.org/job-opportunities/"
  },
  {
@@ -315,7 +315,7 @@
   "area": "Peninsula",
   "drive": 35,
   "toll": "",
-  "units": "Family Birth Center (LDRP), Level II NICU, PACU, OR. No RN openings on CommonSpirit Redwood City staff-nurse list 10/22",
+  "units": "Family Birth Center (LDRP), Level II NICU, PACU, OR. No RN openings on CommonSpirit Redwood City or SF staff-nurse lists 10/23",
   "careers": "https://www.commonspirit.careers"
  },
  {
@@ -1032,5 +1032,16 @@
   "toll": "",
   "units": "OR, pre-op/PACU (outpatient ASC)",
   "careers": "https://www.hayessurgery.com/careers"
+ },
+ {
+  "key": "jm-orinda",
+  "name": "John Muir Health Orinda clinic",
+  "system": "John Muir Health",
+  "city": "Orinda",
+  "area": "East Bay",
+  "drive": 30,
+  "toll": "Bay Bridge",
+  "units": "Ambulatory specialty clinic (temporary per diem RN; posting prefers L&D/NST experience)",
+  "careers": "https://careers.johnmuirhealth.com"
  }
 ]
