@@ -1017,5 +1017,123 @@
     "url": "https://www.indeed.com/jobs?q=pre-op+rn&l=San+Francisco+Bay+Area%2C+CA"
    }
   ]
+ },
+ {
+  "date": "2026-10-24",
+  "ranAt": "2026-10-24T13:30:09+00:00",
+  "summary": "8 new openings, 6 of them strong or worth applying. 3 closed. Most employer sites refused today's checks again, so many statuses come from job boards; see the Gaps tab.",
+  "addedCount": 8,
+  "closedCount": 3,
+  "added": [
+   {
+    "id": "VISTA-IN-a2f83059d04e8b04",
+    "title": "Registered Nurse - Post-Anesthesia Care Unit (PACU) (Vista Surgery Center)",
+    "facilityName": "Vista Surgery Center",
+    "fit": "possible"
+   },
+   {
+    "id": "DIG-2026-484089",
+    "title": "RN Labor and Delivery EXPERIENCED",
+    "facilityName": "Sequoia Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "NCOSC-IN-0b9edba025e89023",
+    "title": "Pre-Op/PACU RN - Part Time (NorCal Orthopedic Surgery Center)",
+    "facilityName": "NorCal Orthopedic Surgery Center",
+    "fit": "possible"
+   },
+   {
+    "id": "WHHS-oJqYAfwr",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "WHHS-oIqYAfwq",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "LPCH-LP_00019799-2660218",
+    "title": "Clinical Nurse II, Labor and Delivery",
+    "facilityName": "Lucile Packard Children's Stanford",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1448948",
+    "title": "Staff Nurse II - Main Operating Room",
+    "facilityName": "Kaiser Redwood City",
+    "fit": "stretch"
+   },
+   {
+    "id": "BASS-IN-e90692167fe6c463",
+    "title": "PRE-OP/PACU RN (per diem) (BASS Surgery Center)",
+    "facilityName": "BASS Surgery Center",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "LPCH-LP_00024890-2660697",
+    "title": "Clinical Nurse II, Neonatal ICU",
+    "facilityName": "Lucile Packard Children's Stanford"
+   },
+   {
+    "id": "LPCH-P146335-3237",
+    "title": "Clinical Nurse II, Labor and Delivery",
+    "facilityName": "Lucile Packard Children's Stanford"
+   },
+   {
+    "id": "kp-1451103",
+    "title": "Staff Nurse II (Temporary) - General Surgery Outpatient",
+    "facilityName": "Kaiser San Rafael"
+   }
+  ],
+  "issues": [
+   {
+    "name": "UCSF Health",
+    "covers": "17 UCSF jobs couldn't be re-checked; most others only through undated job-board copies",
+    "why": "UCSF's job feeds and job pages refused the check again",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "8 Sutter jobs couldn't be re-checked; 15 others only through job-board copies from Oct 15-22",
+    "why": "Sutter's job site refused the check (third day running)",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Highland Hospital",
+    "covers": "Highland jobs only through older Glassdoor copies",
+    "why": "Its careers portal blocks automated reading and Glassdoor pages were refused",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "MarinHealth, John Muir, Seton, El Camino, Chinese Hospital",
+    "covers": "MarinHealth PACU, Pre-op and one LDRP job, plus El Camino's 3 NICU jobs, couldn't be re-checked",
+    "why": "Their job sites refused the check",
+    "url": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "Tri-Valley postpartum nights and a CVOR job couldn't be confirmed",
+    "why": "Stanford's job sites refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Fertility clinics",
+    "covers": "Spring, UCSF, Stanford and Kaiser fertility pages; existing jobs checked through job boards",
+    "why": "Their job pages refused the check",
+    "url": "https://www.glassdoor.com/Job/san-francisco-fertility-nurse-jobs-SRCH_IL.0,13_IC1147401_KO14,29.htm"
+   },
+   {
+    "name": "County hospitals",
+    "covers": "Contra Costa Regional and San Mateo Medical Center jobs couldn't be re-checked",
+    "why": "The county job site blocks automated reading",
+    "url": "https://www.governmentjobs.com/careers/contracosta"
+   }
+  ]
  }
 ]

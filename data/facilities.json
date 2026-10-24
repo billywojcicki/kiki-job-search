@@ -304,7 +304,7 @@
   "area": "Peninsula",
   "drive": 35,
   "toll": "",
-  "units": "L&D, Mother-Baby, Level II NICU, PACU",
+  "units": "L&D, Mother-Baby, Level II NICU, PACU, OR",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -315,7 +315,7 @@
   "area": "Peninsula",
   "drive": 35,
   "toll": "",
-  "units": "Family Birth Center (LDRP), Level II NICU, PACU, OR. No RN openings on CommonSpirit Redwood City or SF staff-nurse lists 10/23",
+  "units": "Family Birth Center (LDRP), Level II NICU, PACU, OR. 10/24: RN Labor and Delivery EXPERIENCED (FT nights, req 2026-484089) on the live Redwood City list",
   "careers": "https://www.commonspirit.careers"
  },
  {
@@ -370,7 +370,7 @@
   "area": "East Bay",
   "drive": 40,
   "toll": "Bay Bridge",
-  "units": "L&D, Mother-Baby, Level III NICU, PACU",
+  "units": "L&D, Mother-Baby, Level III NICU, PACU. Walnut Creek careers list 10/24 (25 jobs) shows no L&D, Mother-Baby, NICU, PACU or pre-op RN openings",
   "careers": "https://careers.johnmuirhealth.com"
  },
  {
@@ -1043,5 +1043,38 @@
   "toll": "Bay Bridge",
   "units": "Ambulatory specialty clinic (temporary per diem RN; posting prefers L&D/NST experience)",
   "careers": "https://careers.johnmuirhealth.com"
+ },
+ {
+  "key": "vista-sf",
+  "name": "Vista Surgery Center",
+  "system": "Independent (ASC)",
+  "city": "San Francisco",
+  "area": "SF",
+  "drive": 10,
+  "toll": "",
+  "units": "PACU (outpatient surgery center, 94108 Union Square / Financial District area)",
+  "careers": "https://www.indeed.com/cmp/Vista-Surgery-Center/locations/CA/San%20Francisco"
+ },
+ {
+  "key": "bass-wc",
+  "name": "BASS Surgery Center",
+  "system": "USPI",
+  "city": "Walnut Creek",
+  "area": "East Bay",
+  "drive": 40,
+  "toll": "Bay Bridge",
+  "units": "Pre-op/PACU, OR (outpatient multi-specialty ASC)",
+  "careers": "https://careers.uspi.com"
+ },
+ {
+  "key": "norcal-ortho-sr",
+  "name": "NorCal Orthopedic Surgery Center",
+  "system": "Surgery Partners",
+  "city": "San Ramon",
+  "area": "East Bay",
+  "drive": 45,
+  "toll": "Bay Bridge",
+  "units": "Pre-op/PACU, OR (outpatient orthopedic ASC)",
+  "careers": "https://www.indeed.com/q-pacu-rn-l-san-francisco-bay-area,-ca-jobs.html"
  }
 ]
