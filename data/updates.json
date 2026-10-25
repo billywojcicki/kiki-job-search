@@ -1135,5 +1135,77 @@
     "url": "https://www.governmentjobs.com/careers/contracosta"
    }
   ]
+ },
+ {
+  "date": "2026-10-25",
+  "ranAt": "2026-10-25T13:13:21+00:00",
+  "summary": "3 new openings, 1 of them strong or worth applying. 0 closed. Most employer sites refused today's checks again, so many statuses come from job boards; see the Gaps tab for leads to check by hand.",
+  "addedCount": 3,
+  "closedCount": 0,
+  "added": [
+   {
+    "id": "NORTHBAY-IN-045245f40cada945",
+    "title": "Clinical Nurse II - Endoscopy (Part Time, Day)",
+    "facilityName": "NorthBay Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "ucsf-cz169761299",
+    "title": "Registered Nurse - OR (MB, FT, 8 hr, eve shift)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)",
+    "fit": "stretch"
+   },
+   {
+    "id": "NORTHBAY-IN-377c16884a043e30",
+    "title": "Clinical Nurse II - NBMC Operating Room (Part Time, Day)",
+    "facilityName": "NorthBay Medical Center",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [],
+  "issues": [
+   {
+    "name": "UCSF Health",
+    "covers": "23 UCSF jobs couldn't be re-checked",
+    "why": "UCSF's job feeds and job pages refused the check again",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "7 Sutter jobs couldn't be re-checked; 16 others only through older job-board copies. Lead to check: Alta Bates Summit 'Staff Nurse II, Surgical Pre/Post Op'",
+    "why": "Sutter's job site refused the check",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "The full-time Tri-Valley postpartum nights job couldn't be confirmed",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Kaiser Oakland",
+    "covers": "Lead to check: 'Staff Nurse II - Recovery' (possibly PACU), seen only on Indeed",
+    "why": "Kaiser's Oakland list page 2 and job-number check were refused",
+    "url": "https://www.kaiserpermanentejobs.org"
+   },
+   {
+    "name": "MarinHealth, John Muir, Seton, El Camino, Chinese Hospital",
+    "covers": "MarinHealth PACU and Pre-op seen only on older board copies; El Camino NICU and John Muir Orinda couldn't be re-checked",
+    "why": "Their job sites refused the check",
+    "url": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers"
+   },
+   {
+    "name": "Fertility clinics",
+    "covers": "US Fertility, CCRM, Everleap, Kindbody, Collab, Laurel; existing jobs checked through job boards",
+    "why": "Their job boards refused the check",
+    "url": "https://www.glassdoor.com/Job/san-francisco-fertility-nurse-jobs-SRCH_IL.0,13_IC1147401_KO14,29.htm"
+   },
+   {
+    "name": "Surgery and endoscopy centers",
+    "covers": "About 13 centers unchecked for new jobs; leads seen only on Indeed: Atherton Endoscopy RN, a San Leandro vascular center PACU RN",
+    "why": "Job boards rate-limited and the day's web-search allowance ran out",
+    "url": "https://www.indeed.com/jobs?q=pacu+rn&l=San+Francisco+Bay+Area%2C+CA"
+   }
+  ]
  }
 ]
