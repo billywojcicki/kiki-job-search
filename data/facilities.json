@@ -183,7 +183,7 @@
   "area": "Marin",
   "drive": 25,
   "toll": "Golden Gate",
-  "units": "LDRP Birth Center, NICU, Pre-op/PACU, OR, GI lab",
+  "units": "LDRP Birth Center, NICU, Pre-op/PACU, OR, GI lab. 10/26: Credenza shows an LDRP PT RN (10/22), PACU FT days and Surgery & Procedures Pre-Op FT days; NICU and LDRP Clinical Nurse Manager postings (excluded); MarinHealth Workday unreadable",
   "careers": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers"
  },
  {
@@ -315,7 +315,7 @@
   "area": "Peninsula",
   "drive": 35,
   "toll": "",
-  "units": "Family Birth Center (LDRP), Level II NICU, PACU, OR. 10/25: Redwood City staff-nurse list shows only RN Labor and Delivery EXPERIENCED (FT nights, req 2026-484089) and an Admin Nurse; no PACU or NICU RN posting",
+  "units": "Family Birth Center (LDRP), Level II NICU, PACU, OR. 10/26: Redwood City staff-nurse list shows only RN Labor and Delivery EXPERIENCED (FT nights, req 2026-484089) and an Admin Nurse; no PACU or NICU RN posting (only travel L&D/OR ads on boards)",
   "careers": "https://www.commonspirit.careers"
  },
  {
@@ -370,7 +370,7 @@
   "area": "East Bay",
   "drive": 40,
   "toll": "Bay Bridge",
-  "units": "L&D, Mother-Baby, Level III NICU, PACU. 10/25: no L&D, Mother-Baby, NICU, PACU or pre-op RN openings found (Glassdoor John Muir L&D search, John Muir search page 1); a Mother/Baby PT nights posting on ZipRecruiter has expired",
+  "units": "L&D, Mother-Baby, Level III NICU, PACU, pre-op. 10/26: no L&D, Mother-Baby, NICU, PACU or pre-op RN openings found (careers search page 1 of 4, Glassdoor John Muir L&D search, ZipRecruiter John Muir L&D list); a ZipRecruiter 'WCMC Pre-Operative Services PT days' lead could not be opened",
   "careers": "https://careers.johnmuirhealth.com"
  },
  {
@@ -425,7 +425,7 @@
   "area": "East Bay",
   "drive": 50,
   "toll": "San Mateo Bridge",
-  "units": "Birthing Center (L&D), OR/Endoscopy, cath lab, ICU/IMC, med-onc. 10/25 Jobvite list (48 jobs): 3 Birthing Center L&D night RN jobs and 1 OR/Endo RN; no postpartum, NICU, PACU or pre-op RN posting",
+  "units": "Birthing Center (L&D), OR/Endoscopy, PACU, endoscopy, short stay, cath lab, ICU/IMC, med-onc. 10/26 Jobvite list (48 jobs): 3 Birthing Center L&D night RN jobs and 1 OR/Endo RN; older PACU (ofAmAfwv), Endoscopy per diem (oV3eAfww) and Short Stay (opzdAfwv) postings still surface in web search but are not on the live list; no postpartum, NICU or pre-op RN posting",
   "careers": "https://jobs.jobvite.com/washingtonhospital/jobs"
  },
  {
@@ -1076,5 +1076,16 @@
   "toll": "Bay Bridge",
   "units": "Pre-op/PACU, OR (outpatient orthopedic ASC)",
   "careers": "https://www.indeed.com/q-pacu-rn-l-san-francisco-bay-area,-ca-jobs.html"
+ },
+ {
+  "key": "vasc-sl",
+  "name": "Vascular surgery center (San Leandro)",
+  "system": "Independent (vascular surgery practice)",
+  "city": "San Leandro",
+  "area": "East Bay",
+  "drive": 35,
+  "toll": "Bay Bridge",
+  "units": "PACU (outpatient vascular)",
+  "careers": "https://www.indeed.com/q-endoscopy-nurse-l-san-francisco-bay-area,-ca-jobs.html"
  }
 ]

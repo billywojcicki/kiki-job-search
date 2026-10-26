@@ -1207,5 +1207,77 @@
     "url": "https://www.indeed.com/jobs?q=pacu+rn&l=San+Francisco+Bay+Area%2C+CA"
    }
   ]
+ },
+ {
+  "date": "2026-10-26",
+  "ranAt": "2026-10-26T13:24:05+00:00",
+  "summary": "3 new openings, 2 of them strong or worth applying. 0 closed. Most employer job sites refused checks again, so many jobs couldn't be re-confirmed.",
+  "addedCount": 3,
+  "closedCount": 0,
+  "added": [
+   {
+    "id": "VASCSL-IN-PACU-RN-PD",
+    "title": "PACU RN (per diem)",
+    "facilityName": "Vascular surgery center (San Leandro)",
+    "fit": "possible"
+   },
+   {
+    "id": "ATHERTON-IN-RN-PRN",
+    "title": "Registered Nurse (PRN)",
+    "facilityName": "Atherton Endoscopy Center",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-RNJ-782449155",
+    "title": "ALS/Neonatal Transport Nurse Specialist",
+    "facilityName": "Alta Bates (Berkeley campus)",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "20 Sutter jobs couldn't be re-checked. Leads to check: Alta Bates 'Staff Nurse II, NICU' (about Oct 25) and SF 'Staff Nurse II, Gastrointestinal' (part-time)",
+    "why": "Sutter's job site refused the check for the 6th day; job boards only had copies from Oct 21-22",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "21 UCSF jobs couldn't be re-checked",
+    "why": "UCSF's job feeds and job pages refused the check again",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Highland Hospital (Alameda Health System)",
+    "covers": "4 Highland jobs couldn't be re-checked",
+    "why": "The careers site and Glassdoor copies refused the check",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "El Camino, MarinHealth, Seton, John Muir",
+    "covers": "9 jobs couldn't be re-checked (El Camino NICU, MarinHealth LDRP part-time, Seton, John Muir Orinda). Leads: El Camino per diem NICU, John Muir pre-op part-time",
+    "why": "Their job sites refused the check",
+    "url": "https://www.elcaminohealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "Tri-Valley postpartum nights and 2 CVOR jobs couldn't be confirmed. Lead: 'Clinical Nurse (RN) - Pre-Post Care 500P'",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Fertility clinic job boards",
+    "covers": "Spring, US Fertility, CCRM, Prelude, Kindbody, Collab and Ivy boards. US Fertility Menlo Park OR/PACU couldn't be confirmed",
+    "why": "Their job boards refused the check; jobs were checked through Indeed and ZipRecruiter",
+    "url": "https://www.usfertility.com/careers"
+   },
+   {
+    "name": "Surgery centers on Indeed",
+    "covers": "7 surgery-center jobs couldn't be re-checked (BASS, Callista, NorCal Ortho, Peninsula, Vista, NorthBay). New Atherton Endoscopy and San Leandro PACU jobs are Indeed-only",
+    "why": "Indeed limited how many pages could be read",
+    "url": "https://www.indeed.com/jobs?q=endoscopy+nurse&l=San+Francisco+Bay+Area%2C+CA"
+   }
+  ]
  }
 ]
