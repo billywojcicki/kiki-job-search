@@ -90,9 +90,17 @@ for jid, s in seen.items():
             if v not in (None, "", []):
                 cur[k] = norm_emp(v) if k == "employment" else v
         apply_posted(cur, s)
+        reopened = cur.get("status") == "closed"
         cur["lastSeen"] = TODAY
         cur["status"] = status
         cur.pop("closedAt", None)
+        if reopened:
+            # a closed job that was re-posted counts as new again
+            cur["firstSeen"] = TODAY
+            for k in ("fit", "fitNote", "unit"):
+                if s.get(k):
+                    cur[k] = s[k]
+            added.append(cur)
     else:
         fk = s.get("facility")
         f = fac_by.get(fk)

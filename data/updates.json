@@ -1279,5 +1279,94 @@
     "url": "https://www.indeed.com/jobs?q=endoscopy+nurse&l=San+Francisco+Bay+Area%2C+CA"
    }
   ]
+ },
+ {
+  "date": "2026-10-27",
+  "ranAt": "2026-10-27T13:11:11+00:00",
+  "summary": "4 new openings, 2 of them strong or worth applying. 2 closed. 2 closed Kaiser jobs were re-posted and count as new. Most employer job sites still refused checks.",
+  "addedCount": 4,
+  "closedCount": 2,
+  "added": [
+   {
+    "id": "MH-GD1010296428412",
+    "title": "Clinical RN II, Neonatal Intensive Care, Part-Time, (24 Hour Week), Variable Shifts",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1449054",
+    "title": "Staff Nurse II (Neo-Natal ICU)",
+    "facilityName": "Kaiser Oakland",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1451103",
+    "title": "Staff Nurse II (Temporary) - General Surgery Outpatient",
+    "facilityName": "Kaiser San Rafael",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-RNJ-781535807",
+    "title": "Staff Nurse II, NICU",
+    "facilityName": "Alta Bates (Berkeley campus)",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "kp-1449050",
+    "title": "Staff Nurse II (Neo-Natal ICU)",
+    "facilityName": "Kaiser Oakland"
+   },
+   {
+    "id": "kp-1451117",
+    "title": "Staff Nurse II (Obstetrics/Gynecology Clinic, On-Call)",
+    "facilityName": "Kaiser Pleasanton Medical Offices"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "23 Sutter jobs couldn't be re-checked. Lead to check: SF 'Staff Nurse II, Gastrointestinal' (part-time)",
+    "why": "Sutter's job site refused the check for the 7th day; only one live board list could be read",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "19 UCSF jobs couldn't be re-checked",
+    "why": "UCSF's job feeds and job pages refused the check again",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Highland Hospital (Alameda Health System)",
+    "covers": "3 Highland jobs couldn't be re-checked",
+    "why": "The careers portal blocks automated reading and Glassdoor copies were refused",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "MarinHealth, Seton, John Muir, county hospitals",
+    "covers": "11 jobs couldn't be re-checked (4 MarinHealth LDRP, 3 Contra Costa, 2 Seton, San Mateo, John Muir Orinda). Leads: El Camino per diem NICU, John Muir pre-op part-time",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "Tri-Valley postpartum nights couldn't be confirmed; 2 CVOR jobs only from Glassdoor cards. Lead: 'Clinical Nurse (RN) - Pre-Post Care 500P'",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Fertility clinic job boards",
+    "covers": "Spring Danville and Sunnyvale, and US Fertility Menlo Park OR/PACU couldn't be confirmed. Lead: US Fertility 'IVF RN Case Manager' Menlo Park",
+    "why": "Their job boards refused the check",
+    "url": "https://www.usfertility.com/careers"
+   },
+   {
+    "name": "Surgery centers on Indeed",
+    "covers": "8 surgery-center jobs couldn't be re-checked (BASS, Callista, NorCal Ortho, NorthBay, Peninsula, Vista). Lead: Surgery Partners Pre-Op/PACU RN, Walnut Creek",
+    "why": "Indeed limited how many pages could be read",
+    "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
+   }
+  ]
  }
 ]
