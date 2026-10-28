@@ -1368,5 +1368,126 @@
     "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
    }
   ]
+ },
+ {
+  "date": "2026-10-28",
+  "ranAt": "2026-10-28T13:14:56+00:00",
+  "summary": "6 new openings, 3 of them strong or worth applying. 6 closed. Washington Hospital posted 2 full-time L&D night jobs (need ACLS). Most employer job sites still refused checks.",
+  "addedCount": 6,
+  "closedCount": 6,
+  "added": [
+   {
+    "id": "WHHS-orIBAfw4",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full time, 12-hr - Nights",
+    "facilityName": "Washington Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "WHHS-od0PAfwm",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "WHHS-ofAmAfwv",
+    "title": "Staff Nurse II - PACU - Full-Time, 8 hour - AM Variable",
+    "facilityName": "Washington Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1456564",
+    "title": "Staff Nurse II - CVOR Circulator",
+    "facilityName": "Kaiser San Francisco (Geary)",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-cz169829342",
+    "title": "Registered Nurse - OR (MB, FT, 12hr/8 hr, day shift)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)",
+    "fit": "stretch"
+   },
+   {
+    "id": "LPCH-LP_00023422-2660262",
+    "title": "Clinical Nurse II, Neonatal Float Team",
+    "facilityName": "Lucile Packard Children's Stanford",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "SPRING-4736090005",
+    "title": "Registered Nurse (Outpatient Surgery Center)",
+    "facilityName": "Spring Fertility Silicon Valley"
+   },
+   {
+    "id": "SPRING-4742101005",
+    "title": "Registered Nurse (RN)",
+    "facilityName": "Spring Fertility Danville"
+   },
+   {
+    "id": "WHHS-oq8MzfwD",
+    "title": "OR/Endo Staff RN II - Operating Room/Endoscopy - Full Time 8 hr - Variable",
+    "facilityName": "Washington Hospital"
+   },
+   {
+    "id": "kp-1443210",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser Richmond"
+   },
+   {
+    "id": "kp-1445987",
+    "title": "Staff Nurse II - Labor & Delivery",
+    "facilityName": "Kaiser San Leandro"
+   },
+   {
+    "id": "kp-1451103",
+    "title": "Staff Nurse II (Temporary) - General Surgery Outpatient",
+    "facilityName": "Kaiser San Rafael"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "22 Sutter jobs couldn't be re-checked. Leads: SF 'Registered Nurse II, Surgery' (about 3 days old), plus pre-op/PACU and periop jobs in Fremont, Summit, San Leandro and Palo Alto",
+    "why": "Sutter's job site refused the check for the 8th day; job boards only had old copies",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "20 UCSF jobs couldn't be re-checked",
+    "why": "UCSF's job feeds and job pages refused the check again",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Highland Hospital (Alameda Health System)",
+    "covers": "3 Highland jobs couldn't be re-checked (L&D part-time, OB per diem, pre/post cath)",
+    "why": "The careers site blocks automated reading",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "County hospitals and Seton",
+    "covers": "6 jobs couldn't be re-checked (3 Contra Costa, 2 Seton, San Mateo). MarinHealth LDRP jobs only seen on Credenza",
+    "why": "County job sites and Seton's careers site refused the check",
+    "url": "https://www.governmentjobs.com/careers/contracosta"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "Tri-Valley postpartum nights couldn't be confirmed; other Stanford jobs only from Glassdoor",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Fertility clinic job boards",
+    "covers": "US Fertility Menlo Park OR/PACU couldn't be confirmed. Leads: US Fertility IVF RN Case Manager (Menlo Park), SF 'OB/Gyn IVF Nurse II' (possibly Kaiser)",
+    "why": "Their job boards refused the check",
+    "url": "https://www.usfertility.com/careers"
+   },
+   {
+    "name": "Surgery centers on Indeed",
+    "covers": "9 surgery-center jobs couldn't be re-checked (BASS, Callista, NorCal Ortho, Vista, WOSC, NorthBay)",
+    "why": "Indeed and Glassdoor limited how many pages could be read",
+    "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
+   }
+  ]
  }
 ]
