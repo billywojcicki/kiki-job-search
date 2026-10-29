@@ -1489,5 +1489,121 @@
     "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
    }
   ]
+ },
+ {
+  "date": "2026-10-29",
+  "ranAt": "2026-10-29T13:17:20+00:00",
+  "summary": "6 new openings, 4 of them strong or worth applying. 5 closed. John Muir Walnut Creek posted a Mom/Baby nights job that fits well. Most employer job sites still refused checks.",
+  "addedCount": 6,
+  "closedCount": 5,
+  "added": [
+   {
+    "id": "kp-1453188",
+    "title": "Staff Nurse II - OB/GYN Clinic (On-Call)",
+    "facilityName": "Kaiser San Mateo Medical Offices",
+    "fit": "strong"
+   },
+   {
+    "id": "JMH-JR0018022",
+    "title": "RN - WCMC Mom/Baby - Part Time - 8 Hour - Nights",
+    "facilityName": "John Muir Walnut Creek",
+    "fit": "strong"
+   },
+   {
+    "id": "MH-CZ-169837361",
+    "title": "Clinical RN II, NICU, Part Time (36 Hour Week), Days",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "MH-CZ-169837362",
+    "title": "Clinical RN II, NICU, Part Time (36 hour week), Nights",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1456929",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser San Leandro",
+    "fit": "stretch"
+   },
+   {
+    "id": "kp-1456913",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser San Leandro",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "BASS-IN-e90692167fe6c463",
+    "title": "PRE-OP/PACU RN (per diem) (BASS Surgery Center)",
+    "facilityName": "BASS Surgery Center"
+   },
+   {
+    "id": "JMH-CZ-169811646",
+    "title": "Temporary - RN - Ambulatory Clinic - Specialty - Per Diem - 8 Hour - Days",
+    "facilityName": "John Muir Health Orinda clinic"
+   },
+   {
+    "id": "LPCH-LP_00019799-2660218",
+    "title": "Clinical Nurse II, Labor and Delivery",
+    "facilityName": "Lucile Packard Children's Stanford"
+   },
+   {
+    "id": "kp-1445010",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser Richmond"
+   },
+   {
+    "id": "kp-1449481",
+    "title": "Staff Nurse II - CVOR Circulator",
+    "facilityName": "Kaiser San Francisco (Geary)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "21 Sutter jobs couldn't be re-checked. Lead: a new SF 'Staff Nurse II, Surgery' listing (likely the Van Ness per diem job re-listed)",
+    "why": "Sutter's job site refused the check for the 9th day; job boards only had old copies",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "About 21 UCSF jobs couldn't be re-checked",
+    "why": "UCSF's job feeds, job pages and Oracle search refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Highland Hospital (Alameda Health System)",
+    "covers": "4 of 5 Highland jobs couldn't be re-checked",
+    "why": "The careers site blocks automated reading",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "MarinHealth, Seton, Contra Costa",
+    "covers": "4 MarinHealth LDRP part-time jobs (only on Credenza), Seton PACU and OR, and Contra Costa L&D/Nursery/Postpartum couldn't be confirmed",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "Tri-Valley postpartum nights couldn't be confirmed; other Stanford jobs only from job boards",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Fertility clinic job boards",
+    "covers": "US Fertility Menlo Park OR/PACU couldn't be confirmed",
+    "why": "Their job boards refused the check",
+    "url": "https://www.usfertility.com/careers"
+   },
+   {
+    "name": "Surgery centers on Indeed",
+    "covers": "7 surgery-center jobs couldn't be re-checked (Callista, NorCal Ortho, Peninsula, Vista, NorthBay)",
+    "why": "Indeed and Glassdoor limited how many pages could be read",
+    "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
+   }
+  ]
  }
 ]
