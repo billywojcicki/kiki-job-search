@@ -1605,5 +1605,99 @@
     "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
    }
   ]
+ },
+ {
+  "date": "2026-10-30",
+  "ranAt": "2026-10-30T13:14:00+00:00",
+  "summary": "4 new openings, 2 of them strong or worth applying. 3 closed. CPMC Van Ness posted a part-time L&D nights job (needs ACLS); Kaiser re-posted its Pleasanton OB/GYN clinic job.",
+  "addedCount": 4,
+  "closedCount": 3,
+  "added": [
+   {
+    "id": "kp-1451117",
+    "title": "Staff Nurse II (Obstetrics/Gynecology Clinic, On-Call)",
+    "facilityName": "Kaiser Pleasanton Medical Offices",
+    "fit": "strong"
+   },
+   {
+    "id": "sutter-RNJ-785880714",
+    "title": "Staff Nurse II, Labor and Delivery",
+    "facilityName": "CPMC Van Ness",
+    "fit": "possible"
+   },
+   {
+    "id": "JMH-CZ-169840310",
+    "title": "RN - CMC Endoscopy - Per Diem - 8 Hour - Days - CNA",
+    "facilityName": "John Muir Concord Medical Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "LPCH-LP_00025726-2661198",
+    "title": "Clinical Nurse II, Neonatal Float Team (Nights)",
+    "facilityName": "Lucile Packard Children's Stanford",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "AHS-GD1009945710895",
+    "title": "CN II - Ambulatory Procedural Nurse (MCH/OB Clinic K6, Per Diem)",
+    "facilityName": "Highland Hospital"
+   },
+   {
+    "id": "SHCTV-IN-98312518a575432e",
+    "title": "Registered Nurse Postpartum Full Time Nights",
+    "facilityName": "Stanford Health Care Tri-Valley"
+   },
+   {
+    "id": "WHHS-ofAmAfwv",
+    "title": "Staff Nurse II - PACU - Full-Time, 8 hour - AM Variable",
+    "facilityName": "Washington Hospital"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "23 Sutter jobs couldn't be re-checked; some will drop off soon after 14 days unseen",
+    "why": "Sutter's job site refused the check for the 10th day; job boards only had copies from Oct 21 or older",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "18 UCSF jobs couldn't be re-checked",
+    "why": "UCSF's job feed and job pages refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Highland Hospital (Alameda Health System)",
+    "covers": "3 Highland jobs couldn't be re-checked (L&D part-time nights, OB per diem, pre/post cath)",
+    "why": "The careers site blocks automated reading",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "MarinHealth and Contra Costa",
+    "covers": "4 MarinHealth LDRP part-time jobs (only on Credenza) and Contra Costa L&D/Nursery/Postpartum couldn't be confirmed",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "Stanford Health Care and Tri-Valley jobs only confirmed through job boards",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Kaiser (smaller sites)",
+    "covers": "Oakland list page 2 and the Daly City, Berkeley, Martinez, Petaluma, Mountain View, San Bruno and Novato lists couldn't be read",
+    "why": "Those Kaiser list pages refused the check",
+    "url": "https://www.kaiserpermanentejobs.org"
+   },
+   {
+    "name": "Fertility clinic job boards",
+    "covers": "US Fertility Menlo Park OR/PACU couldn't be confirmed",
+    "why": "Their job boards refused the check",
+    "url": "https://www.usfertility.com/careers"
+   }
+  ]
  }
 ]
