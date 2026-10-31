@@ -1699,5 +1699,112 @@
     "url": "https://www.usfertility.com/careers"
    }
   ]
+ },
+ {
+  "date": "2026-10-31",
+  "ranAt": "2026-10-31T13:15:52+00:00",
+  "summary": "7 new openings, 4 of them strong or worth applying. 2 closed. Alta Bates posted a part-time postpartum job that fits well; Kaiser Oakland posted a part-time L&D job.",
+  "addedCount": 7,
+  "closedCount": 2,
+  "added": [
+   {
+    "id": "sutter-RNJ-787083223",
+    "title": "Staff Nurse II, Family Care Center Postpartum Limited Term Position",
+    "facilityName": "Alta Bates (Berkeley campus)",
+    "fit": "strong"
+   },
+   {
+    "id": "CHINESE-12775",
+    "title": "Registered Nurse - Same Day Surgery (GI/Endoscopy)",
+    "facilityName": "Chinese Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1441857",
+    "title": "Staff Nurse II - L&D",
+    "facilityName": "Kaiser Oakland",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-RNJ-787083211",
+    "title": "Ambulatory Services Nurse II, PreOp/PACU",
+    "facilityName": "Sutter Health Pleasanton (PAMF ambulatory surgery)",
+    "fit": "possible"
+   },
+   {
+    "id": "ucsf-cz169841705",
+    "title": "Registered Nurse - OR Mt Zion",
+    "facilityName": "UCSF Mount Zion",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-cz169838470",
+    "title": "Registered Nurse - OR",
+    "facilityName": "UCSF Parnassus",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-RNJ-787083214",
+    "title": "Ambulatory Services Nurse II, Operating Room",
+    "facilityName": "Sutter Fremont ambulatory surgery",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "LPCH-LP_00023422-2660262",
+    "title": "Clinical Nurse II, Neonatal Float Team",
+    "facilityName": "Lucile Packard Children's Stanford"
+   },
+   {
+    "id": "kp-1451117",
+    "title": "Staff Nurse II (Obstetrics/Gynecology Clinic, On-Call)",
+    "facilityName": "Kaiser Pleasanton Medical Offices"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "17 Sutter jobs couldn't be re-checked; the oldest will drop off after 14 days unseen",
+    "why": "Sutter's job site refused the check for the 11th day; new Sutter jobs were found through registerednurse.jobs",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "22 UCSF jobs couldn't be re-checked",
+    "why": "UCSF's job feed, Oracle search and job pages refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Highland Hospital (Alameda Health System)",
+    "covers": "3 Highland jobs couldn't be re-checked",
+    "why": "The careers site blocks automated reading",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "MarinHealth, Seton, Contra Costa",
+    "covers": "6 MarinHealth jobs (LDRP and NICU 36-hr) only seen on Credenza; Seton OR/GI and 3 Contra Costa jobs couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care and Packard",
+    "covers": "4 Stanford jobs only seen on job boards; Packard CVOR and SHC CVOR 300P couldn't be checked",
+    "why": "Stanford's job site and some Packard pages refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Kaiser (some sites)",
+    "covers": "Oakland list page 2 and the Martinez, Mountain View, San Ramon, Union City, Hayward and Livermore lists couldn't be read; Pleasanton OB/GYN clinic job may come back",
+    "why": "Those Kaiser list pages refused the check",
+    "url": "https://www.kaiserpermanentejobs.org"
+   },
+   {
+    "name": "Fertility clinic job boards",
+    "covers": "Spring Oakland IVF nurse coordinator and RSC Menlo Park OR/PACU couldn't be confirmed",
+    "why": "Their job boards refused the check",
+    "url": "https://www.springfertility.com/careers"
+   }
+  ]
  }
 ]
