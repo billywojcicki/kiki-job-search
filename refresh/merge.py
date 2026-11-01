@@ -90,7 +90,8 @@ for jid, s in seen.items():
             if v not in (None, "", []):
                 cur[k] = norm_emp(v) if k == "employment" else v
         apply_posted(cur, s)
-        reopened = cur.get("status") == "closed"
+        # a job closed for 3+ days that comes back counts as re-posted; a shorter gap is just a flaky check
+        reopened = cur.get("status") == "closed" and days(cur.get("closedAt", TODAY), TODAY) >= 3
         cur["lastSeen"] = TODAY
         cur["status"] = status
         cur.pop("closedAt", None)

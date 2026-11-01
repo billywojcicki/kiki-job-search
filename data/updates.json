@@ -1806,5 +1806,81 @@
     "url": "https://www.springfertility.com/careers"
    }
   ]
+ },
+ {
+  "date": "2026-11-01",
+  "ranAt": "2026-11-01T14:13:51+00:00",
+  "summary": "1 new openings, 0 of them strong or worth applying. 3 closed. Quiet day; most employer job sites still refused checks.",
+  "addedCount": 1,
+  "closedCount": 3,
+  "added": [
+   {
+    "id": "SHC-R2661077",
+    "title": "Clinical Nurse (RN) - Operating Room (1.0 FTE/Full-Time, 10-Hour Rotating Shifts, Scrub & Circulate/Call Required)",
+    "facilityName": "Stanford Hospital",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "NORTHBAY-IN-045245f40cada945",
+    "title": "Clinical Nurse II - Endoscopy (Part Time, Day)",
+    "facilityName": "NorthBay Medical Center"
+   },
+   {
+    "id": "NORTHBAY-IN-377c16884a043e30",
+    "title": "Clinical Nurse II - NBMC Operating Room (Part Time, Day)",
+    "facilityName": "NorthBay Medical Center"
+   },
+   {
+    "id": "kp-1453188",
+    "title": "Staff Nurse II - OB/GYN Clinic (On-Call)",
+    "facilityName": "Kaiser San Mateo Medical Offices"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "21 Sutter jobs couldn't be re-checked; the oldest will drop off after 14 days unseen. Leads: Summit PrePost FLEX, Fremont Periop, Palo Alto PreOp PACU",
+    "why": "Sutter's job site refused the check for the 12th day, and the job board that found new Sutter jobs was refused today",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "20 UCSF jobs couldn't be re-checked, incl. UCSF Ambulatory OB",
+    "why": "UCSF's job pages refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Highland Hospital (Alameda Health System)",
+    "covers": "3 Highland jobs couldn't be re-checked, incl. part-time L&D nights and per diem OB",
+    "why": "The careers site blocks automated reading",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "MarinHealth, Seton, county hospitals",
+    "covers": "7 MarinHealth jobs (LDRP and NICU) only seen on Credenza or old copies; Seton, Contra Costa and San Mateo jobs couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "5 Stanford jobs only confirmed through job boards",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Kaiser Oakland",
+    "covers": "Oakland list page 2 couldn't be read; L&D float pool job page wouldn't open",
+    "why": "Those Kaiser pages refused the check",
+    "url": "https://www.kaiserpermanentejobs.org"
+   },
+   {
+    "name": "Fertility clinic job boards",
+    "covers": "US Fertility Menlo Park OR/PACU couldn't be confirmed",
+    "why": "Their job boards refused the check",
+    "url": "https://www.usfertility.com/careers"
+   }
+  ]
  }
 ]
