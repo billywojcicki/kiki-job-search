@@ -1882,5 +1882,82 @@
     "url": "https://www.usfertility.com/careers"
    }
   ]
+ },
+ {
+  "date": "2026-11-02",
+  "ranAt": "2026-11-02T14:49:09+00:00",
+  "summary": "3 new openings, 2 of them strong or worth applying. 2 closed. Quiet day; Sutter posted pre-op/PACU jobs at Summit and Palo Alto (unconfirmed).",
+  "addedCount": 3,
+  "closedCount": 2,
+  "added": [
+   {
+    "id": "sutter-IND-b1224b4f072cbb2c",
+    "title": "Staff Nurse II, PrePost FLEX Position",
+    "facilityName": "Alta Bates Summit (Summit campus)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-IND-2114454afd8a9c01",
+    "title": "Ambulatory Services Nurse II, PreOp PACU",
+    "facilityName": "Sutter PAMF Palo Alto (ambulatory surgery)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-RNJ-790770620",
+    "title": "Registered Nurse II, Surgery",
+    "facilityName": "CPMC Davies",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "LPCH-LP_00025726-2661198",
+    "title": "Clinical Nurse II, Neonatal Float Team (Nights)",
+    "facilityName": "Lucile Packard Children's Stanford"
+   },
+   {
+    "id": "WHHS-ofAmAfwv",
+    "title": "Staff Nurse II - PACU - Full-Time, 8 hour - AM Variable",
+    "facilityName": "Washington Hospital"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "20 Sutter jobs couldn't be re-checked; 2 new pre-op/PACU jobs (Summit, Palo Alto) are Indeed-only",
+    "why": "Sutter's job site refused the check for the 13th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "21 UCSF jobs couldn't be re-checked, incl. Ambulatory OB",
+    "why": "UCSF's job feed refused the check; only pages found by search opened",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "MarinHealth, Seton, county hospitals",
+    "covers": "11 jobs couldn't be checked (MarinHealth LDRP x4, Contra Costa x3, Seton x2, San Mateo, Chinese Hospital)",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "6 Stanford jobs only seen on job boards. Leads: Tri-Valley full-time L&D days, pre/post care R2660231",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "NorthBay and surgery centers",
+    "covers": "4 NorthBay jobs (incl. L&D and NICU) and several Indeed-only surgery-center jobs couldn't be checked",
+    "why": "Glassdoor and Indeed cut off after a few pages",
+    "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Jobs-E121907.htm"
+   },
+   {
+    "name": "Fertility clinic job boards",
+    "covers": "US Fertility Menlo Park OR/PACU couldn't be confirmed",
+    "why": "Their job boards refused the check",
+    "url": "https://www.usfertility.com/careers"
+   }
+  ]
  }
 ]
