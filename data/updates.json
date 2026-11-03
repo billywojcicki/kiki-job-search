@@ -1959,5 +1959,207 @@
     "url": "https://www.usfertility.com/careers"
    }
   ]
+ },
+ {
+  "date": "2026-11-03",
+  "ranAt": "2026-11-03T14:15:31+00:00",
+  "summary": "8 new openings, 3 of them strong or worth applying. 21 closed. US Fertility posted OR/PACU jobs at its Menlo Park egg-retrieval center (need ACLS).",
+  "addedCount": 8,
+  "closedCount": 21,
+  "added": [
+   {
+    "id": "USF-26f77302",
+    "title": "OR/PACU RN",
+    "facilityName": "Reproductive Science Center Menlo Park",
+    "fit": "possible"
+   },
+   {
+    "id": "USF-9d72090e",
+    "title": "RN OR/PACU (Alternating Weekends)",
+    "facilityName": "Reproductive Science Center Menlo Park",
+    "fit": "possible"
+   },
+   {
+    "id": "TENET-2603013680",
+    "title": "RN Recovery (per diem, rotating)",
+    "facilityName": "San Ramon Regional Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1456562",
+    "title": "Staff Nurse II - CVOR Circulator",
+    "facilityName": "Kaiser San Francisco (Geary)",
+    "fit": "stretch"
+   },
+   {
+    "id": "kp-1456550",
+    "title": "Staff Nurse II - CVOR Circulator",
+    "facilityName": "Kaiser San Francisco (Geary)",
+    "fit": "stretch"
+   },
+   {
+    "id": "kp-1456456",
+    "title": "Staff Nurse II - CVOR Circulator",
+    "facilityName": "Kaiser San Francisco (Geary)",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-ora11079",
+    "title": "Registered Nurse - NICU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "USPI-97285",
+    "title": "PRE-OP/PACU RN (PRN) - BASS Surgery Center",
+    "facilityName": "BASS Surgery Center",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "kp-1449054",
+    "title": "Staff Nurse II (Neo-Natal ICU)",
+    "facilityName": "Kaiser Oakland"
+   },
+   {
+    "id": "sutter-R-135641",
+    "title": "Staff Nurse II, Operating Room Float Pool",
+    "facilityName": "CPMC Mission Bernal"
+   },
+   {
+    "id": "sutter-R-138205",
+    "title": "Staff Nurse II, OR Circulator",
+    "facilityName": "Novato Community Hospital"
+   },
+   {
+    "id": "sutter-R-143226",
+    "title": "Charge Nurse, Surgery",
+    "facilityName": "Sutter Eden Medical Center"
+   },
+   {
+    "id": "ucsf-3901",
+    "title": "Registered Nurse PD - PACU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-3908",
+    "title": "Registered Nurse - PACU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4070",
+    "title": "Registered Nurse - Pediatric OR (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4393",
+    "title": "Registered Nurse - UCSF Pediatric Perioperative Resource Team",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4398",
+    "title": "Registered Nurse - NICU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4413",
+    "title": "Registered Nurse - Intensive Care Nursery (BCH-Mission Bay)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)"
+   },
+   {
+    "id": "ucsf-4434",
+    "title": "Registered Nurse - Pediatric OR (BCH-Mission Bay)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)"
+   },
+   {
+    "id": "ucsf-4461",
+    "title": "Registered Nurse - NICU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4471",
+    "title": "Registered Nurse - Pediatric OR (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4496",
+    "title": "Registered Nurse - NICU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4714",
+    "title": "Registered Nurse - Intensive Care Nursery (BCH-Mission Bay)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)"
+   },
+   {
+    "id": "ucsf-4832",
+    "title": "Registered Nurse - PACU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4835",
+    "title": "Registered Nurse - Pediatric OR (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4859",
+    "title": "Registered Nurse - NICU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4863",
+    "title": "Registered Nurse - Intensive Care Nursery (BCH-Mission Bay)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)"
+   },
+   {
+    "id": "ucsf-4864",
+    "title": "Registered Nurse PD - Pediatric Perioperative Resource Team",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4887",
+    "title": "Registered Nurse - Preop/PACU",
+    "facilityName": "UCSF Peninsula Outpatient Surgery"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "25 Sutter jobs couldn't be re-checked; Summit PrePost FLEX and Palo Alto PreOp PACU have no real job page yet. A CPMC Davies RN job with no unit named needs a hand check",
+    "why": "Sutter's job site refused the check for the 14th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "13 UCSF jobs couldn't be re-checked",
+    "why": "UCSF's job feed refused the check; a copy site (freehire.me) showed 6 UCSF jobs closed Oct 23",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Highland Hospital (Alameda Health System)",
+    "covers": "Two Oakland and San Leandro 'Clinical Nurse II' postings with no unit named couldn't be opened",
+    "why": "The careers site blocks automated reading",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "MarinHealth, El Camino, Seton, San Mateo",
+    "covers": "10 jobs couldn't be checked (4 MarinHealth LDRP, 3 El Camino NICU, 2 Seton, San Mateo). Lead: El Camino L&D (Mountain View)",
+    "why": "Their job sites refused the check",
+    "url": "https://www.elcaminohealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "3 Stanford jobs only seen on job-board copies. Leads not confirmed: Tri-Valley full-time L&D days, pre/post care R2660231",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Surgery centers",
+    "covers": "6 surgery-center jobs couldn't be re-checked (Atherton, San Leandro vascular, East Bay Endosurgery, Golden State Dermatology x2, Peninsula)",
+    "why": "Indeed and Glassdoor rate-limited",
+    "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
+   }
+  ]
  }
 ]
