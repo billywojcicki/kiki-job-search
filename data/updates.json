@@ -2161,5 +2161,114 @@
     "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
    }
   ]
+ },
+ {
+  "date": "2026-11-04",
+  "ranAt": "2026-11-04T14:14:26+00:00",
+  "summary": "5 new openings, 4 of them strong or worth applying. 6 closed. CPMC Van Ness posted a part-time pre-registration RN job that fits well (unconfirmed); Kaiser SF posted a part-time NICU nights job.",
+  "addedCount": 5,
+  "closedCount": 6,
+  "added": [
+   {
+    "id": "sutter-GD-1010286041639",
+    "title": "Staff Nurse II, Pre-Registration and Learning Center",
+    "facilityName": "CPMC Van Ness",
+    "fit": "strong"
+   },
+   {
+    "id": "sutter-GD-1010291370844",
+    "title": "Ambulatory Services Nurse II, Gastroenterology",
+    "facilityName": "Golden Gate Endoscopy Center",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1456483",
+    "title": "Staff Nurse II - NICU",
+    "facilityName": "Kaiser San Francisco (Geary)",
+    "fit": "possible"
+   },
+   {
+    "id": "USPI-97303",
+    "title": "Registered Nurse - Full Time PreOp/PACU (Bay Area Endoscopy Center)",
+    "facilityName": "Bay Area Endoscopy Center",
+    "fit": "possible"
+   },
+   {
+    "id": "ucsf-ora11295",
+    "title": "Registered Nurse - Intensive Care Nursery (BCH-Mission Bay)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "AHS-GD1009899129582",
+    "title": "Clinical Nurse II - Labor and Delivery (Part-time, Nights)",
+    "facilityName": "Highland Hospital"
+   },
+   {
+    "id": "AHS-GD1009899129583",
+    "title": "CN II - Ambulatory Procedural Nurse (MCH/OB Clinic K6)",
+    "facilityName": "Highland Hospital"
+   },
+   {
+    "id": "ATHERTON-IN-RN-PRN",
+    "title": "Registered Nurse (PRN)",
+    "facilityName": "Atherton Endoscopy Center"
+   },
+   {
+    "id": "TENET-2603013680",
+    "title": "RN Recovery (per diem, rotating)",
+    "facilityName": "San Ramon Regional Medical Center"
+   },
+   {
+    "id": "ucsf-4974",
+    "title": "Registered Nurse - Operating Room",
+    "facilityName": "UCSF Stanyan (former St. Mary's)"
+   },
+   {
+    "id": "ucsf-cz169829342",
+    "title": "Registered Nurse - OR (MB, FT, 12hr/8 hr, day shift)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "8 Sutter jobs couldn't be checked and 12 rest only on Glassdoor lists. A CPMC Davies RN job with no unit named and a pre-op phone-call job need a hand check",
+    "why": "Sutter's job site refused the check for the 15th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Kaiser Fremont",
+    "covers": "Lead: 'Staff Nurse II - IVF Clinic' at Kaiser Fremont (fertility RN), not checked",
+    "why": "Spotted on a job board after the Kaiser check had run",
+    "url": "https://www.kaiserpermanentejobs.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "5 UCSF and Highland jobs couldn't be checked, incl. UCSF Ambulatory OB (strong) and Highland OB per diem",
+    "why": "UCSF's job pages and Alameda Health's portal refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "El Camino, Seton, San Mateo, Contra Costa",
+    "covers": "8 jobs couldn't be checked (El Camino NICU x3, Seton x2, San Mateo, Contra Costa L&D/postpartum, MarinHealth NICU 24-hr). Lead: El Camino L&D (Mountain View)",
+    "why": "Their job sites refused the check",
+    "url": "https://www.elcaminohealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "3 Stanford jobs only on old board copies. Lead not confirmed: Tri-Valley full-time L&D days",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Surgery centers",
+    "covers": "8 surgery-center jobs couldn't be re-checked",
+    "why": "Indeed, Glassdoor and ZipRecruiter rate-limited",
+    "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
+   }
+  ]
  }
 ]
