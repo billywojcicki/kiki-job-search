@@ -2270,5 +2270,106 @@
     "url": "https://www.indeed.com/jobs?q=pacu+nurse&l=San+Francisco+Bay+Area%2C+CA"
    }
   ]
+ },
+ {
+  "date": "2026-11-05",
+  "ranAt": "2026-11-05T14:13:06+00:00",
+  "summary": "8 new openings, 4 of them strong or worth applying. 2 closed. New OB/GYN clinic jobs at Sutter SF (full-time weekdays) and Stanford; Kaiser re-posted its San Mateo OB/GYN clinic job.",
+  "addedCount": 8,
+  "closedCount": 2,
+  "added": [
+   {
+    "id": "sutter-RNJ-795180313",
+    "title": "Clinical Nurse II, OBGYN",
+    "facilityName": "Sutter Pacific Medical Foundation OB/GYN (SF)",
+    "fit": "strong"
+   },
+   {
+    "id": "kp-1453188",
+    "title": "Staff Nurse II - OB/GYN Clinic (On-Call)",
+    "facilityName": "Kaiser San Mateo Medical Offices",
+    "fit": "strong"
+   },
+   {
+    "id": "kp-1457212",
+    "title": "Staff Nurse II (Temporary) - General Surgery Outpatient Procedure Room",
+    "facilityName": "Kaiser Redwood City",
+    "fit": "possible"
+   },
+   {
+    "id": "SHC-JS-95dcee0b70c9",
+    "title": "Clinical Nurse II (RN) - OBGYN Gynecology Multi-Site - Full Time",
+    "facilityName": "Stanford Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "ucsf-cz169850641",
+    "title": "Registered Nurse - Operating Room",
+    "facilityName": "UCSF Stanyan (former St. Mary's)",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-cz169861784",
+    "title": "Registered Nurse - Pediatric OR (BCH-Mission Bay)",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-RNJ-795180301",
+    "title": "Staff Nurse II, OR Circulator",
+    "facilityName": "Novato Community Hospital",
+    "fit": "stretch"
+   },
+   {
+    "id": "SHC-CB-c3e1c7ec9566",
+    "title": "Clinical Nurse II (RN) - Interventional Endoscopy (1.0 FTE, 10-Hour Day Shifts, Call Required)",
+    "facilityName": "Stanford Hospital",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "kp-1445742",
+    "title": "Staff Nurse II - Labor & Delivery",
+    "facilityName": "Kaiser San Leandro"
+   },
+   {
+    "id": "ucsf-3502",
+    "title": "Registered Nurse - PACU",
+    "facilityName": "UCSF Stanyan (former St. Mary's)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "8 Sutter jobs couldn't be checked and 15 rest only on Glassdoor or Credenza lists; the CPMC part-time Pre-Registration job couldn't be confirmed",
+    "why": "Sutter's job site refused the check for the 16th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health and Highland",
+    "covers": "6 jobs couldn't be checked, incl. UCSF Ambulatory OB (strong) and Highland per diem Obstetrics",
+    "why": "UCSF's job pages and Alameda Health's portal refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "New OB/GYN gynecology clinic RN job (full-time) couldn't be opened; check its requirements by hand",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "John Muir, Seton, Contra Costa, MarinHealth",
+    "covers": "6 jobs couldn't be checked, incl. John Muir Walnut Creek Mom/Baby nights (strong). Leads: John Muir pre-op and L&D per diem",
+    "why": "Their job sites refused the check",
+    "url": "https://careers.johnmuirhealth.com"
+   },
+   {
+    "name": "Surgery centers and NorthBay",
+    "covers": "7 jobs couldn't be checked (incl. NorthBay per diem L&D and NICU, both Tenet San Ramon OR jobs)",
+    "why": "Rate limits on Glassdoor, Indeed and ZipRecruiter; Tenet's page 2 wouldn't load",
+    "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Jobs-E121907.htm"
+   }
+  ]
  }
 ]
