@@ -2371,5 +2371,136 @@
     "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Jobs-E121907.htm"
    }
   ]
+ },
+ {
+  "date": "2026-11-06",
+  "ranAt": "2026-11-06T14:23:37+00:00",
+  "summary": "7 new openings, 6 of them strong or worth applying. 8 closed. Sutter posted part-time NICU jobs at Alta Bates and part-time/per diem surgery jobs at CPMC Van Ness that ask only 1 year of acute care. John Muir Mom/Baby nights closed.",
+  "addedCount": 7,
+  "closedCount": 8,
+  "added": [
+   {
+    "id": "sutter-R-144119",
+    "title": "Staff Nurse II, Surgery",
+    "facilityName": "CPMC Van Ness",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-143940",
+    "title": "Staff Nurse II, Surgery",
+    "facilityName": "CPMC Van Ness",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-142484",
+    "title": "Staff Nurse II, NICU",
+    "facilityName": "Alta Bates (Berkeley campus)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-142483",
+    "title": "Staff Nurse II, NICU",
+    "facilityName": "Alta Bates (Berkeley campus)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-142487",
+    "title": "Staff Nurse II, NICU",
+    "facilityName": "Alta Bates (Berkeley campus)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-GD-1010294715086",
+    "title": "Ambulatory Services Nurse II, Endoscopy, Per Diem",
+    "facilityName": "Sutter Fremont ambulatory surgery",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-143319",
+    "title": "Staff Nurse II, Neonatal ICU",
+    "facilityName": "CPMC Van Ness",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "GSD-GD1010265665956",
+    "title": "PACU / OR Circulating Nurse (RN) (Callista Surgery Center)",
+    "facilityName": "Callista Surgery Center (Golden State Dermatology)"
+   },
+   {
+    "id": "JMH-JR0018022",
+    "title": "RN - WCMC Mom/Baby - Part Time - 8 Hour - Nights",
+    "facilityName": "John Muir Walnut Creek"
+   },
+   {
+    "id": "MH-GD1010296428412",
+    "title": "Clinical RN II, Neonatal Intensive Care, Part-Time, (24 Hour Week), Variable Shifts",
+    "facilityName": "MarinHealth Medical Center"
+   },
+   {
+    "id": "WHHS-oIqYAfwq",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital"
+   },
+   {
+    "id": "WHHS-oJqYAfwr",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital"
+   },
+   {
+    "id": "kp-1443543",
+    "title": "Staff Nurse II Short Hour - Operating Room",
+    "facilityName": "Kaiser Walnut Creek"
+   },
+   {
+    "id": "kp-1447223",
+    "title": "Staff Nurse II - Labor and Delivery",
+    "facilityName": "Kaiser Walnut Creek"
+   },
+   {
+    "id": "kp-1456929",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser San Leandro"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "11 Sutter jobs couldn't be checked. Lead: Sutter Eden 'Staff Nurse II, Labor & Delivery' full-time days, seen only on an Indeed card",
+    "why": "Sutter's job site refused the check for the 17th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "UCSF Ambulatory OB (strong) couldn't be checked for over a week. Lead: UCSF 'Registered Nurse - Birth Center' full-time, seen only on an Indeed card",
+    "why": "UCSF's job feed and job pages refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "The OB/GYN gynecology clinic RN job (full-time) still couldn't be opened; check its requirements by hand",
+    "why": "Stanford's job site and copies refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Kaiser Fremont",
+    "covers": "Lead: 'Staff Nurse II - IVF Clinic' part-time, on Indeed again but not on Kaiser's own lists",
+    "why": "Kaiser's Fremont list and job pages refused the check",
+    "url": "https://www.kaiserpermanentejobs.org"
+   },
+   {
+    "name": "El Camino, Seton, county hospitals, MarinHealth",
+    "covers": "11 jobs couldn't be checked (El Camino x3, Contra Costa x3, Seton x2, San Mateo, Chinese Hospital, MarinHealth PACU)",
+    "why": "Their job sites refused the check",
+    "url": "https://www.elcaminohealth.org/careers"
+   },
+   {
+    "name": "NorthBay and surgery centers",
+    "covers": "6 jobs couldn't be checked (4 NorthBay incl. L&D and NICU per diem, NorCal Ortho, Vista)",
+    "why": "Rate limits on Glassdoor, Indeed and ZipRecruiter",
+    "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Jobs-E121907.htm"
+   }
+  ]
  }
 ]
