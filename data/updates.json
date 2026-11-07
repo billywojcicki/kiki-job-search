@@ -2502,5 +2502,130 @@
     "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Jobs-E121907.htm"
    }
   ]
+ },
+ {
+  "date": "2026-11-07",
+  "ranAt": "2026-11-07T14:19:39+00:00",
+  "summary": "11 new openings, 7 of them strong or worth applying. 2 closed. Stanford Tri-Valley (Pleasanton) has several pre-op/PACU openings that ask only 1-2 years of acute care. Stanford Palo Alto's new hospital has a 300P Pre/Post job too.",
+  "addedCount": 11,
+  "closedCount": 2,
+  "added": [
+   {
+    "id": "SHC-R2661394",
+    "title": "Clinical Nurse (RN) - 300P Pre/Post (0.9 FTE, 12-Hour Rotating Shifts, On-Call Required)",
+    "facilityName": "Stanford Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "SHCTV-R2659853",
+    "title": "Registered Nurse (RN) Pre-Op/PACU Full Time Days",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "strong"
+   },
+   {
+    "id": "SHCTV-R2659831",
+    "title": "Registered Nurse (RN) Pre-Op/PACU Full Time",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "strong"
+   },
+   {
+    "id": "SHCTV-R2659854",
+    "title": "Registered Nurse (RN) PreOp/PACU Full Time Days",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "strong"
+   },
+   {
+    "id": "SHCTV-R2659859",
+    "title": "Registered Nurse (RN) PreOp/PACU Part Time Days",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "strong"
+   },
+   {
+    "id": "kp-1457718",
+    "title": "Staff Nurse II - General Surgery Outpatient",
+    "facilityName": "Kaiser Redwood City",
+    "fit": "possible"
+   },
+   {
+    "id": "SHCTV-R2660970",
+    "title": "Registered Nurse II, NICU FT Days",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1457856",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser San Rafael",
+    "fit": "stretch"
+   },
+   {
+    "id": "SHCTV-R2659829",
+    "title": "Registered Nurse (RN) PreOp/PACU Full Time",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "stretch"
+   },
+   {
+    "id": "SHCTV-R2659828",
+    "title": "Registered Nurse (RN) PreOp/PACU",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "stretch"
+   },
+   {
+    "id": "SHCTV-R2660778",
+    "title": "Special Procedure Nurse",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "TENET-2603025251",
+    "title": "Registered Nurse (RN) - Ambulatory Surgery (per diem, days)",
+    "facilityName": "San Ramon Regional Medical Center"
+   },
+   {
+    "id": "kp-1439244",
+    "title": "Staff Nurse II SH Operating Room",
+    "facilityName": "Kaiser San Rafael"
+   }
+  ],
+  "issues": [
+   {
+    "name": "John Muir and El Camino L&D",
+    "covers": "Leads to check by hand: John Muir Walnut Creek 'RN - Labor & Delivery Services - Per Diem - 8 Hour - Days' and El Camino Mountain View 'Clinical Nurse II - 0.8 - Labor & Delivery' (days and nights). Both are on job boards but couldn't be confirmed",
+    "why": "John Muir's and El Camino's job sites refused the check",
+    "url": "https://careers.johnmuirhealth.com"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "7 Sutter jobs couldn't be checked and 17 rest only on board lists. Lead: Sutter Eden 'Staff Nurse II, Nursery' part-time 16 h/wk",
+    "why": "Sutter's job site refused the check for the 18th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "UCSF Health and Highland",
+    "covers": "9 jobs couldn't be checked, incl. UCSF Ambulatory OB (strong). Lead: UCSF 'Registered Nurse PD - PACU (BCH-Walnut Creek)'",
+    "why": "UCSF's job pages and Alameda Health's portal refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "OB/GYN gynecology clinic RN and Interventional Endoscopy jobs couldn't be found again",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "MarinHealth, Seton, county hospitals",
+    "covers": "15 jobs couldn't be checked (MarinHealth x6, Contra Costa x3, El Camino NICU x3, Seton x2, San Mateo)",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "NorthBay and surgery centers",
+    "covers": "9 jobs couldn't be checked (4 NorthBay, East Bay Endosurgery, Fremont Surgery Center x2, NorCal Ortho, Vista)",
+    "why": "Rate limits on Glassdoor, Indeed and ZipRecruiter",
+    "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Jobs-E121907.htm"
+   }
+  ]
  }
 ]
