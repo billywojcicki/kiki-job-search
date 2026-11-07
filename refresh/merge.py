@@ -57,7 +57,7 @@ def days(a, b):
     return (datetime.date.fromisoformat(b) - datetime.date.fromisoformat(a)).days
 
 added, closed = [], []
-REFRESH = ["title", "url", "pay", "shift", "fte", "needs", "employment"]
+REFRESH = ["title", "url", "pay", "shift", "fte", "needs", "employment", "fit", "fitNote"]
 
 def posted_quality(rec):
     """3 = exact date, 2 = approximate, 1 = only a 'before' bound, 0 = none."""
