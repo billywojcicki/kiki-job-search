@@ -2627,5 +2627,87 @@
     "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Jobs-E121907.htm"
    }
   ]
+ },
+ {
+  "date": "2026-11-08",
+  "ranAt": "2026-11-08T14:15:00+00:00",
+  "summary": "4 new openings, 1 of them strong or worth applying. 3 closed. Quiet day; most employer job sites still refused checks.",
+  "addedCount": 4,
+  "closedCount": 3,
+  "added": [
+   {
+    "id": "sutter-IND-c6479d88685777d7",
+    "title": "Staff Nurse II, Nursery",
+    "facilityName": "Sutter Eden Medical Center",
+    "fit": "strong"
+   },
+   {
+    "id": "sutter-R-141174",
+    "title": "Staff Nurse II, Gastrointestinal",
+    "facilityName": "CPMC Van Ness",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-R-145842",
+    "title": "Ambulatory Services Nurse II, Operating Room, Gastroenterology",
+    "facilityName": "Sutter Outpatient Services Novato (GI procedures)",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-IN-738afe115b309564",
+    "title": "Registered Nurse PD - PACU (BCH-Walnut Creek)",
+    "facilityName": "UCSF Benioff Children's Walnut Creek",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "MH-JR102300",
+    "title": "Clinical RN II, Post Anesthesia Care Unit, Full-Time, Days",
+    "facilityName": "MarinHealth Medical Center"
+   },
+   {
+    "id": "ucsf-cz169838470",
+    "title": "Registered Nurse - OR",
+    "facilityName": "UCSF Parnassus"
+   },
+   {
+    "id": "ucsf-cz169841705",
+    "title": "Registered Nurse - OR Mt Zion",
+    "facilityName": "UCSF Mount Zion"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "9 Sutter jobs couldn't be checked. Leads to check by hand: 'Ambulatory Services Nurse II, PreOp & PACU' SF full-time 32 h (likely R-137001) and Alta Bates Summit 'Staff Nurse II, Surgical Pre/Post Op' part-time Mon-Fri. Eden Nursery 16 h is only on Indeed",
+    "why": "Sutter's job site refused the check for the 19th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "John Muir and El Camino L&D",
+    "covers": "Leads still unconfirmed: John Muir Walnut Creek L&D per diem days and El Camino Mountain View L&D 0.8 (days and nights)",
+    "why": "Their job sites refused the check; the postings show only on TealHQ and ZipRecruiter",
+    "url": "https://careers.johnmuirhealth.com"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "Lead: Tri-Valley 'PreOp/PACU Part Time Varied (Alternating Weekends)', not among the tracked reqs. The OB/GYN gynecology clinic job still can't be found",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "UCSF Health and Highland",
+    "covers": "4 jobs couldn't be checked, incl. UCSF Ambulatory OB (strong) and both Highland per diem jobs",
+    "why": "UCSF's job pages and Alameda Health's portal refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Seton, county hospitals, NorthBay, surgery centers",
+    "covers": "About 19 jobs couldn't be checked (Contra Costa, Seton, San Mateo, El Camino NICU, NorthBay, East Bay Endosurgery, NorCal Ortho, Vista)",
+    "why": "Their job sites refused the check and Indeed/Glassdoor rate-limited",
+    "url": "https://www.governmentjobs.com/careers/contracosta"
+   }
+  ]
  }
 ]
