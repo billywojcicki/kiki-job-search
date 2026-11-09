@@ -2709,5 +2709,59 @@
     "url": "https://www.governmentjobs.com/careers/contracosta"
    }
   ]
+ },
+ {
+  "date": "2026-11-09",
+  "ranAt": "2026-11-09T14:20:17+00:00",
+  "summary": "1 new openings, 0 of them strong or worth applying. 1 closed. Quiet day; Stanford Tri-Valley jobs couldn't be re-checked today but stay listed.",
+  "addedCount": 1,
+  "closedCount": 1,
+  "added": [
+   {
+    "id": "ucsf-3112",
+    "title": "Registered Nurse - NICU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "ECH-CZ-169790557",
+    "title": "Clinical Nurse II - 0.8 - Days - Nursery - Intensive Care @ MV",
+    "facilityName": "El Camino Hospital"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "5 Sutter jobs couldn't be checked. Lead to check by hand: 'Ambulatory Services Nurse II, PreOp & PACU', SF, full-time 32 h (R-137001)",
+    "why": "Sutter's job site refused the check for the 20th day",
+    "url": "https://jobs.sutterhealth.org/us/en/job/R-137001/Ambulatory-Services-Nurse-II-PreOp-PACU"
+   },
+   {
+    "name": "Stanford Health Care Tri-Valley",
+    "covers": "The 6 Tri-Valley pre-op/PACU jobs, the NICU job and the 300P Pre/Post job couldn't be re-checked today (still listed). Lead: Tri-Valley 'PreOp/PACU Part Time Varied (Alternating Weekends)'",
+    "why": "Stanford's job site and the mirror that found these jobs refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "John Muir and El Camino L&D",
+    "covers": "Leads still unconfirmed: John Muir Walnut Creek L&D per diem days and El Camino Mountain View L&D 0.8",
+    "why": "Their job sites refused the check",
+    "url": "https://careers.johnmuirhealth.com"
+   },
+   {
+    "name": "UCSF Health",
+    "covers": "9 UCSF and Highland jobs couldn't be checked, incl. UCSF Ambulatory OB (strong). Lead: UCSF 'Registered Nurse - Preop/PACU' Burlingame (possible new posting)",
+    "why": "UCSF's job pages, Credenza and Alameda Health's portal refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Seton, county hospitals, surgery centers",
+    "covers": "About 20 jobs couldn't be checked (Seton, Chinese Hospital, San Mateo, Contra Costa, El Camino NICU, many surgery centers)",
+    "why": "Their job sites refused the check and Indeed/Glassdoor rate-limited",
+    "url": "https://www.governmentjobs.com/careers/contracosta"
+   }
+  ]
  }
 ]
