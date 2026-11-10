@@ -2763,5 +2763,72 @@
     "url": "https://www.governmentjobs.com/careers/contracosta"
    }
   ]
+ },
+ {
+  "date": "2026-11-10",
+  "ranAt": "2026-11-10T14:10:48+00:00",
+  "summary": "0 new openings, 0 of them strong or worth applying. 5 closed. No new postings found. UCSF Ambulatory OB dropped off after 14 days unseen; check it by hand.",
+  "addedCount": 0,
+  "closedCount": 5,
+  "added": [],
+  "closed": [
+   {
+    "id": "EBES-GD1010301650194",
+    "title": "Registered Nurse - Per Diem, Pre, Intra and Post Procedure Care Endoscopy (East Bay Endosurgery Center)",
+    "facilityName": "East Bay Endosurgery Center"
+   },
+   {
+    "id": "kp-1453188",
+    "title": "Staff Nurse II - OB/GYN Clinic (On-Call)",
+    "facilityName": "Kaiser San Mateo Medical Offices"
+   },
+   {
+    "id": "kp-1457212",
+    "title": "Staff Nurse II (Temporary) - General Surgery Outpatient Procedure Room",
+    "facilityName": "Kaiser Redwood City"
+   },
+   {
+    "id": "ucsf-3112",
+    "title": "Registered Nurse - NICU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   },
+   {
+    "id": "ucsf-4587",
+    "title": "Registered Nurse - Ambulatory OB",
+    "facilityName": "UCSF Mission Bay (Betty Irene Moore Women's + Benioff Children's)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "UCSF Ambulatory OB (strong fit)",
+    "covers": "UCSF 'Registered Nurse - Ambulatory OB' (req 4587) dropped off today after 14 days unseen, but nothing shows it closed. Check it by hand",
+    "why": "UCSF's job feed and job pages have refused the check since Oct 27",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "5 Sutter jobs couldn't be checked. Lead: 'Ambulatory Services Nurse II, PreOp & PACU', SF, full-time 32 h (R-137001)",
+    "why": "Sutter's job site refused the check for the 21st day",
+    "url": "https://jobs.sutterhealth.org/us/en/job/R-137001/Ambulatory-Services-Nurse-II-PreOp-PACU"
+   },
+   {
+    "name": "Stanford Health Care Tri-Valley",
+    "covers": "The 6 Tri-Valley pre-op/PACU jobs, NICU and 300P Pre/Post jobs rest on a mirror copy from about Nov 7",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "John Muir and El Camino L&D",
+    "covers": "Leads still unconfirmed: John Muir Walnut Creek L&D per diem days and El Camino Mountain View L&D 0.8",
+    "why": "Their job sites refused the check",
+    "url": "https://careers.johnmuirhealth.com"
+   },
+   {
+    "name": "Seton, county hospitals, MarinHealth, NorthBay, surgery centers",
+    "covers": "About 25 jobs couldn't be checked (Contra Costa, Seton, Chinese Hospital, San Mateo, El Camino NICU, MarinHealth days, NorthBay, several surgery centers)",
+    "why": "Their job sites refused the check and Indeed/Glassdoor rate-limited",
+    "url": "https://www.governmentjobs.com/careers/contracosta"
+   }
+  ]
  }
 ]

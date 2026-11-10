@@ -181,7 +181,7 @@
   "url": "https://www.simplyhired.com/job/i_3rsyUrL6cChP1tEBQdjdjtbv91SFO8_KbiKWOp-Jn--M4nDM0Mfg",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": true,
   "postedBefore": true
  },
@@ -207,7 +207,7 @@
   "url": "https://www.glassdoor.com/job-listing/or-registered-nurse-multispecialty-bay-area-surgical-management-JV_KO0,34_KE35,63.htm?jl=1010211257834",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -260,7 +260,7 @@
   "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&jobId=9201240650469_1&lang=en_US",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -286,7 +286,7 @@
   "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&jobId=9201315399176_1&lang=en_US",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -388,7 +388,7 @@
   "fit": "possible",
   "fitNote": "It asks only for an RN license, BLS and ACLS (a year of GI, same-day surgery, PACU or sedation-recovery work is preferred), so your C-section and gyn surgery recovery work is a fair argument, but you would need ACLS first and it may be per diem rather than full-time.",
   "url": "https://credenzahealth.com/jobs/169840184-registered-nurse",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-10-31",
   "lastSeen": "2026-11-07",
   "postedApprox": false,
@@ -443,7 +443,7 @@
   "url": "https://www.indeed.com/viewjob?jk=7b610adcfaa9169a",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -469,7 +469,7 @@
   "url": "https://www.commonspirit.careers/job/redwood-city/rn-labor-and-delivery-experienced/35300/97928963264",
   "status": "open",
   "firstSeen": "2026-10-24",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -493,11 +493,12 @@
   "fit": "possible",
   "fitNote": "This per diem endoscopy job asks for only 1 year of nursing experience, which you easily have, but it lists ACLS, which you would need to get first.",
   "url": "https://www.simplyhired.com/job/yXlEyv6jaA0vZ9_91yR5BjhkJXj60YlD-451O5prHURAPRCKH9QLmA",
-  "status": "unconfirmed",
+  "status": "closed",
   "firstSeen": "2026-10-21",
   "lastSeen": "2026-11-06",
   "postedApprox": false,
-  "postedBefore": false
+  "postedBefore": false,
+  "closedAt": "2026-11-10"
  },
  {
   "id": "ECH-CZ-169790557",
@@ -600,7 +601,7 @@
   "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8802c141-7774-4099-8662-5e95ce71ab54&ccId=19000101_000001&jobId=9201582378771_1&lang=en_US",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -653,7 +654,7 @@
   "url": "https://www.fremontsurgerycenter.com/job-opportunities",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -679,7 +680,7 @@
   "url": "https://www.fremontsurgerycenter.com/job-opportunities",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -705,7 +706,7 @@
   "url": "https://www.fremontsurgerycenter.com/job-opportunities",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -838,7 +839,7 @@
   "url": "https://careers.johnmuirhealth.com/job/concord/rn-cmc-endoscopy-per-diem-8-hour-days-cna/14695/102605433616",
   "status": "open",
   "firstSeen": "2026-10-30",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1080,7 +1081,7 @@
   "url": "https://careers.stanfordchildrens.org/job/palo-alto/clinical-nurse-ii-cvor/47520/92094535424",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": true,
   "postedBefore": false
  },
@@ -1160,9 +1161,9 @@
   "url": "https://www.glassdoor.com/job-listing/oak-pre-op-pacu-rn-per-diem-medbridge-JV_IC1147380_KO0,27_KE28,37.htm?jl=1009718126609",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
-  "postedApprox": true,
-  "postedBefore": true
+  "lastSeen": "2026-11-10",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "MEDBRIDGE-1010070878474",
@@ -1179,14 +1180,14 @@
   "fte": null,
   "shift": "Not stated",
   "pay": "$48-$58/hr",
-  "posted": "2026-10-02",
-  "needs": "1 yr experience in specialty nursing; ASC experience preferred; BSN preferred; BLS; ACLS and PALS within 30 days of hire",
+  "posted": "2026-06-24",
+  "needs": "1 yr specialty nursing; ASC experience and BSN preferred; CA RN; BLS, ACLS and PALS within 30 days of hire; reviews histories, labs, chest X-rays and EKGs for anesthesia risk",
   "fit": "possible",
   "fitNote": "Pre-admission testing nurse who reviews histories, labs and anesthesia risk; it asks for 1 year of specialty nursing, and it's unclear whether OB counts.",
   "url": "https://www.ziprecruiter.com/c/medbridge/Job/PT-OAK-PAT-RN/-in-Oakland,CA?jid=7fad0eb78b0c47e9",
-  "status": "unconfirmed",
+  "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1205,14 +1206,14 @@
   "fte": null,
   "shift": "Per surgical schedule (outpatient)",
   "pay": "$58.35-$84.18/hr",
-  "posted": "2026-09-02",
+  "posted": "2026-06-24",
   "needs": "1 yr perioperative nursing preferred (not required); surgical and aseptic technique; CA RN; BLS; ACLS and PALS if applicable",
   "fit": "stretch",
   "fitNote": "Per diem OR circulator at the Pacific Heights surgery center; OR experience is only preferred, but circulating is a skill you don't have yet.",
   "url": "https://www.glassdoor.com/job-listing/mbv-phsc-or-circulator-rn-per-diem-medbridge-JV_IC1147401_KO0,34_KE35,44.htm?jl=1010102027603",
-  "status": "unconfirmed",
+  "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1238,9 +1239,9 @@
   "url": "https://www.glassdoor.com/job-listing/mbv-phsc-pre-op-pacu-rn-per-diem-medbridge-JV_IC1147401_KO0,32_KE33,42.htm?jl=1010102027604",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
-  "postedApprox": true,
-  "postedBefore": true
+  "lastSeen": "2026-11-10",
+  "postedApprox": false,
+  "postedBefore": false
  },
  {
   "id": "MEDBRIDGE-1010277326930",
@@ -1264,7 +1265,7 @@
   "url": "https://www.glassdoor.com/job-listing/oak-ft-or-circulator-rn-medbridge-JV_IC1147380_KO0,23_KE24,33.htm?jl=1010277326930",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1290,7 +1291,7 @@
   "url": "https://www.glassdoor.com/job-listing/oak-ft-preop-pacu-rn-medbridge-JV_IC1147380_KO0,20_KE21,30.htm?jl=1010277326932",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1342,7 +1343,7 @@
   "url": "https://credenzahealth.com/jobs/169815142-clinical-rn-ii-ldrp-part-time-36-hour-week-nights",
   "status": "open",
   "firstSeen": "2026-10-23",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1368,7 +1369,7 @@
   "url": "https://credenzahealth.com/jobs/169815143-clinical-rn-ii-ldrp-part-time-36-hour-week-nights",
   "status": "open",
   "firstSeen": "2026-10-23",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1394,7 +1395,7 @@
   "url": "https://credenzahealth.com/jobs/169815144-clinical-rn-ii-ldrp-part-time-36-hour-week-nights",
   "status": "open",
   "firstSeen": "2026-10-23",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1444,9 +1445,9 @@
   "fit": "possible",
   "fitNote": "It wants 6-12 months of RN experience or the NICU's own criteria plus NRP at hire, so your 20+ Level III NICU float shifts and current NRP make a fair case for this 36-hour night job, though you have not been a full-time NICU nurse.",
   "url": "https://credenzahealth.com/jobs/169837362-clinical-rn-ii-nicu-part-time-36-hour-week-nights",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-10-29",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1551,9 +1552,9 @@
   "fit": "strong",
   "fitNote": "It asks only for 6-12 months of RN experience (or the unit's own criteria) plus CA RN and BLS at hire, so your pre-op prep for tubal ligations and C-sections makes you a strong fit for this full-time 10-hour day pre-op job.",
   "url": "https://mymarinhealth.wd5.myworkdayjobs.com/en-US/MHCareers/job/Greenbrae-CA/Clinical-RN-II--Surgery-and-Procedures-Pre-Op--Full-Time--Days_JR102324",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1606,7 +1607,7 @@
   "url": "https://www.simplyhired.com/job/GMgW2j5zEJMoHBUJxAZajj6jN5-YDd32FV1RaK-Rzb0f1yRoJJT8PA",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1632,7 +1633,7 @@
   "url": "https://www.glassdoor.com/job-listing/registered-nurse-or-full-time-marin-specialty-surgery-center-JV_KO0,29_KE30,60.htm?jl=1010177443937",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1658,7 +1659,7 @@
   "url": "https://www.indeed.com/viewjob?jk=cef4b82500dc6f97",
   "status": "open",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -1868,7 +1869,7 @@
   "url": "https://www.indeed.com/viewjob?jk=9e35615038181e00",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": true,
   "postedBefore": false
  },
@@ -2048,9 +2049,9 @@
   "fit": "stretch",
   "fitNote": "This adult cardiovascular OR job lists no minimum years, but it is a scrub-and-circulate role and you have no OR experience, so it is a long shot.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Clinical-Nurse--RN----Cardiovascular-Operating-Room--09-FTE--12-Hour-Rotating-Shifts--Call-Required-_R2331249",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2074,9 +2075,9 @@
   "fit": "stretch",
   "fitNote": "This full-time Redwood City outpatient OR job lists no minimum years, but it is a circulating role and you have no OR scrub or circulate experience, so it is a long shot.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_External_Career_Site/job/450-Broadway-Bldg-A---REDWOOD-CITY/Clinical-Nurse--RN----RWC-Operating-Room--Full-Time--10-Hour-Rotating-Shifts-_R2660285",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2127,9 +2128,9 @@
   "fit": "possible",
   "fitNote": "This 0.9 FTE pre- and post-procedure job for Stanford's interventional procedure areas lists no minimum years, so your surgical prep and C-section and gyn recovery work fit, but it requires ACLS, which you would need to get first.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Clinical-Nurse-II---500p-Pre-Post-Care-Intervention--09-FTE-Full-Time--12-Hour-Rotating-Shifts--On-Call-Required-_R2660498",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2155,7 +2156,7 @@
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Clinical-Nurse-Scrub-Nurse--RN----CVOR--090-FTE--12-Hour-Rotating-Shifts--On-Call-Required----300P-Activation_R2661056",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2179,9 +2180,9 @@
   "fit": "stretch",
   "fitNote": "This main OR job at Stanford's 300 Pasteur hospital lists no minimum years, but it is a scrub-and-circulate role in general, GU/GYN and transplant surgery, so without OR experience you would be a long shot.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_External_Career_Site/job/Palo-Alto/Clinical-Nurse--RN----Operating-Room--10-FTE-Full-Time--10-Hour-Rotating-Shifts--Scrub---Circulate-Call-Required-_R2661077",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-01",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2205,9 +2206,9 @@
   "fit": "strong",
   "fitNote": "This 0.9 FTE pre/post-procedure job at Stanford's new 300 Pasteur hospital lists no minimum experience, so your surgical prep and C-section and gyn recovery work should qualify you, though you may need ACLS depending on the cost center.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_External_Career_Site/job/300-Pasteur-Dr-E-Pod-Roof--Site---PALO-ALTO/Clinical-Nurse--RN----300P-Pre-Post--09-FTE--12-Hour-Rotating-Shifts--On-Call-Required-_R2661394",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2393,9 +2394,9 @@
   "fit": "stretch",
   "fitNote": "This Tri-Valley pre-op/PACU job (hours not stated) wants 2 years of recent hospital PACU or 1-2 years of critical care, so your postpartum and surgical recovery experience is related but short of their minimum.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5575-W-Las-Positas-Blvd---PLEASANTON/Registered-Nurse--RN--PreOp-PACU_R2659828-1",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2419,9 +2420,9 @@
   "fit": "stretch",
   "fitNote": "This full-time Tri-Valley pre-op/PACU job wants 2 years of recent hospital PACU or 1-2 years of critical care, which you don't have, so it is a long shot even though you recover C-section and gyn surgery patients.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5575-W-Las-Positas-Blvd---PLEASANTON/Registered-Nurse--RN--PreOp-PACU-Full-Time_R2659829",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2445,9 +2446,9 @@
   "fit": "strong",
   "fitNote": "This full-time pre-op/PACU job at Tri-Valley asks only for 1-2 years of acute care RN experience, which your four years of postpartum and surgical recovery work cover.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5575-W-Las-Positas-Blvd---PLEASANTON/Registered-Nurse--RN--Pre-Op-PACU-Full-Time_R2659831",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2471,9 +2472,9 @@
   "fit": "strong",
   "fitNote": "This full-time day pre-op/PACU job at Tri-Valley asks only for 1-2 years of acute care RN experience, which your four years on a high-risk postpartum unit clear.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5575-W-Las-Positas-Blvd---PLEASANTON/Registered-Nurse--RN--Pre-Op-PACU-Full-Time-Days_R2659853",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2497,9 +2498,9 @@
   "fit": "strong",
   "fitNote": "This full-time day pre-op/PACU job at Tri-Valley only asks for 1-2 years of acute care experience, so you qualify, and your post-op C-section and gyn recovery work is directly relevant.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5575-W-Las-Positas-Blvd---PLEASANTON/Registered-Nurse--RN--PreOp-PACU-Full-Time-Days_R2659854",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2523,9 +2524,9 @@
   "fit": "strong",
   "fitNote": "This part-time day pre-op/PACU job at Tri-Valley asks only for 1-2 years of acute care RN experience, which you clear, if you want fewer hours.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5575-W-Las-Positas-Blvd---PLEASANTON/Registered-Nurse--RN--PreOp-PACU-Part-Time-Days_R2659859",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2603,9 +2604,9 @@
   "fit": "stretch",
   "fitNote": "This Tri-Valley special procedures job giving moderate sedation for TEEs, cardioversions, GI and pulmonary procedures and placing PICC lines wants 2-3 years of critical care or sedation experience plus ACLS, so you would be a long shot.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5575-W-Las-Positas-Blvd---PLEASANTON/Special-Procedure-Nurse_R2660778",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2629,9 +2630,9 @@
   "fit": "strong",
   "fitNote": "This full-time night L&D job at Tri-Valley asks only for 1-2 years of acute care RN experience, which your four years of high-risk postpartum work plus L&D float shifts clear.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5555-W-Las-Positas-Blvd---PLEASANTON/Registered-Nurse--RN--Labor-and-Delivery-Full-Time-Nights_R2660812",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2655,9 +2656,9 @@
   "fit": "possible",
   "fitNote": "This full-time day NICU job at Tri-Valley asks for a year of NICU on top of a year of acute care, so your 20-plus Level III feeder-grower float shifts with NRP and S.T.A.B.L.E. make a fair case even though they fall short of a full NICU year.",
   "url": "https://stanfordmedicine.wd115.myworkdayjobs.com/SHC_Tri-Valley_External_Careers/job/5555-W-Las-Positas-Blvd---PLEASANTON/Registered-Nurse-II--NICU-FT-Days_R2660970",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2763,7 +2764,7 @@
   "url": "https://job-boards.greenhouse.io/springfertility/jobs/4745714005",
   "status": "open",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": true,
   "postedBefore": true
  },
@@ -2816,7 +2817,7 @@
   "url": "https://jobs.tenethealth.com/job/san-ramon/ambulatory-or-rn/1127/97770889200",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": true,
   "postedBefore": false
  },
@@ -2869,7 +2870,7 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=26f77302-f884-4c3a-94dc-67ebabc7d6a4",
   "status": "open",
   "firstSeen": "2026-11-03",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2895,7 +2896,7 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=45c45edd-9a66-4014-ad34-6a2935d1766d",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2921,7 +2922,7 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=9d72090e-1c99-41d3-8e4d-7d5c9c78c948",
   "status": "open",
   "firstSeen": "2026-11-03",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -2947,7 +2948,7 @@
   "url": "https://www.glassdoor.com/job-listing/ivf-rn-case-manager-us-fertility-JV_IC1147406_KO0,19_KE20,32.htm?jl=1010294403366",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": true,
   "postedBefore": false
  },
@@ -2973,7 +2974,7 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=abf101f3-b421-4866-be00-f8e0c62a334d",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": true,
   "postedBefore": false
  },
@@ -2999,7 +3000,7 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=afdd1ccd-645e-47a9-b5a5-1d91dfab6fd2",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3025,7 +3026,7 @@
   "url": "https://recruiting.ultipro.com/SGF1000SGFS/JobBoard/8daa09e3-0c07-4497-8d06-48273e07968f/OpportunityDetail?opportunityId=f5da8c9b-9cf0-4796-95f8-d885e1b0bd35",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3132,7 +3133,7 @@
   "url": "https://careers.uspi.com/job/san-ramon/pre-anesthesia-testing-rn/35934/100363516496",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3158,7 +3159,7 @@
   "url": "https://careers.uspi.com/job/walnut-creek/pre-op-pacu-rn/35934/102783059504",
   "status": "open",
   "firstSeen": "2026-11-03",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3184,7 +3185,7 @@
   "url": "https://careers.uspi.com/job/castro-valley/registered-nurse/35934/102783059712",
   "status": "open",
   "firstSeen": "2026-11-04",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3208,9 +3209,9 @@
   "fit": "possible",
   "fitNote": "This per diem weekday PACU job at an outpatient vascular surgery center in San Leandro didn't show its requirements, and recovery jobs like this usually want PACU or critical care experience plus ACLS, so your C-section and gyn recovery work would be your argument.",
   "url": "https://www.indeed.com/q-endoscopy-nurse-l-san-francisco-bay-area,-ca-jobs.html",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-10-26",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3262,7 +3263,7 @@
   "url": "https://jobs.jobvite.com/washingtonhospital/job/oIqYAfwq",
   "status": "open",
   "firstSeen": "2026-10-24",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3288,7 +3289,7 @@
   "url": "https://jobs.jobvite.com/washingtonhospital/job/oJqYAfwr",
   "status": "open",
   "firstSeen": "2026-10-24",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3314,7 +3315,7 @@
   "url": "https://jobs.jobvite.com/washingtonhospital/job/od0PAfwm",
   "status": "open",
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3367,7 +3368,7 @@
   "url": "https://jobs.jobvite.com/washingtonhospital/job/ohvnAfwt",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": true,
   "postedBefore": true
  },
@@ -3420,7 +3421,7 @@
   "url": "https://jobs.jobvite.com/washingtonhospital/job/orIBAfw4",
   "status": "open",
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3446,7 +3447,7 @@
   "url": "https://www.glassdoor.com/job-listing/endoscopy-charge-nurse-washington-outpatient-surgery-center-JV_KO0,22_KE23,59.htm?jl=1010297313064",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3472,7 +3473,7 @@
   "url": "https://www.indeed.com/viewjob?jk=2192a23d2e7384b2",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3498,7 +3499,7 @@
   "url": "https://www.indeed.com/viewjob?jk=f3a80095c29c8279",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3551,7 +3552,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/oakland/staff-nurse-ii-l-and-d/641/102658431104",
   "status": "open",
   "firstSeen": "2026-10-31",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3604,7 +3605,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/oakland/staff-nurse-ii-labor-and-delivery-float-pool/641/100190896832",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3738,7 +3739,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/walnut-creek/staff-nurse-ii-operating-room/641/101870859072",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3791,7 +3792,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/walnut-creek/staff-nurse-ii-operating-room/641/101585176064",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3817,7 +3818,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-cvor-circulator/641/101460434112",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3843,7 +3844,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-cvor-circulator/641/101460434352",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3869,7 +3870,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/redwood-city/staff-nurse-ii-main-operating-room/641/102356354832",
   "status": "open",
   "firstSeen": "2026-10-24",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -3895,7 +3896,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/oakland/staff-nurse-ii-l-and-d/641/101589124000",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4081,11 +4082,12 @@
   "fit": "strong",
   "fitNote": "Re-posted on Nov 4, this on-call day RN job in Kaiser's San Mateo OB/GYN clinic asks for a year of recent perinatal or gynecology experience, which your four years on a high-risk postpartum unit clearly meet, though it is outpatient clinic work that also covers Family Medicine.",
   "url": "https://www.kaiserpermanentejobs.org/job/san-mateo/staff-nurse-ii-sh/641/102558567376",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-11-05",
   "lastSeen": "2026-11-09",
   "postedApprox": false,
-  "postedBefore": false
+  "postedBefore": false,
+  "closedAt": "2026-11-10"
  },
  {
   "id": "kp-1456456",
@@ -4109,7 +4111,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-cvor-circulator/641/102786867568",
   "status": "open",
   "firstSeen": "2026-11-03",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4135,7 +4137,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-nicu-level-iii/641/102829152592",
   "status": "open",
   "firstSeen": "2026-11-04",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4161,7 +4163,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-cvor-circulator/641/102786867904",
   "status": "open",
   "firstSeen": "2026-11-03",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4187,7 +4189,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-cvor-circulator/641/102786867984",
   "status": "open",
   "firstSeen": "2026-11-03",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4213,7 +4215,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-francisco/staff-nurse-ii-cvor-circulator/641/102529318944",
   "status": "open",
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4239,7 +4241,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-leandro/staff-nurse-ii-operating-room/641/102568241904",
   "status": "open",
   "firstSeen": "2026-10-29",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4290,11 +4292,12 @@
   "fit": "possible",
   "fitNote": "This temporary (up to 90 days), full-time weekday day job in Redwood City's outpatient general surgery procedure room asks for a year of recent surgical services experience, so you would need to argue that prepping patients for tubal ligations, recovering C-section and gyn surgery patients and handling emergent OR transfers counts.",
   "url": "https://www.kaiserpermanentejobs.org/job/redwood-city/staff-nurse-ii/641/102876924240",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-11-05",
   "lastSeen": "2026-11-09",
   "postedApprox": false,
-  "postedBefore": false
+  "postedBefore": false,
+  "closedAt": "2026-11-10"
  },
  {
   "id": "kp-1457718",
@@ -4318,7 +4321,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/redwood-city/staff-nurse-ii/641/102969628752",
   "status": "open",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4344,7 +4347,7 @@
   "url": "https://www.kaiserpermanentejobs.org/job/san-rafael/staff-nurse-ii-operating-room/641/102964282704",
   "status": "open",
   "firstSeen": "2026-11-07",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4370,7 +4373,7 @@
   "url": "https://www.glassdoor.com/job-listing/staff-nurse-ii-pre-registration-and-learning-center-sutter-health-JV_IC1147401_KO0,51_KE52,65.htm?jl=1010286041639",
   "status": "unconfirmed",
   "firstSeen": "2026-11-04",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4394,9 +4397,9 @@
   "fit": "possible",
   "fitNote": "This per diem weekday endoscopy-center job in San Francisco asks for 2 years of recent relevant experience plus ACLS and PALS, so your 4 years of acute OB and surgical-recovery nursing clears the experience bar but you would need both certifications first.",
   "url": "https://www.glassdoor.com/job-listing/ambulatory-services-nurse-ii-gastroenterology-sutter-health-JV_IC1147401_KO0,45_KE46,59.htm?jl=1010291370844",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-04",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4448,7 +4451,7 @@
   "url": "https://www.indeed.com/q-sutter-nurse-l-san-francisco-bay-area,-ca-jobs.html",
   "status": "unconfirmed",
   "firstSeen": "2026-11-02",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4474,7 +4477,7 @@
   "url": "https://www.indeed.com/q-sutter-nurse-l-san-francisco-bay-area,-ca-jobs.html",
   "status": "unconfirmed",
   "firstSeen": "2026-11-02",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": true,
   "postedBefore": true
  },
@@ -4500,7 +4503,7 @@
   "url": "https://www.indeed.com/viewjob?jk=c6479d88685777d7",
   "status": "unconfirmed",
   "firstSeen": "2026-11-08",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4552,7 +4555,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Operating-Room-Float-Pool_R-135639-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4578,7 +4581,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Operating-Room-Float-Pool_R-135641-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4604,7 +4607,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Castro-Valley/Staff-Nurse-II--Nursery_R-135662-1",
   "status": "unconfirmed",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4630,7 +4633,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Castro-Valley/Staff-Nurse-II--Nursery_R-135664-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4656,7 +4659,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Oakland/Pre-Op---PACU-RN---Oakland-Oncology-Surgery-Center_R-136806",
   "status": "unconfirmed",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4709,7 +4712,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Pre-Registration---Learning-Center_R-137822-1",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4735,7 +4738,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Novato/Staff-Nurse-II--OR-Circulator_R-138190-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4761,7 +4764,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Novato/Staff-Nurse-II--OR-Circulator_R-138205-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4787,7 +4790,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--ASU-PACU_R-138990-1",
   "status": "unconfirmed",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4813,7 +4816,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Castro-Valley/Staff-Nurse-II--Nursery_R-139683-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4839,7 +4842,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Castro-Valley/Staff-Nurse-II--Nursery_R-140111-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4865,7 +4868,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Oakland/Staff-Nurse-II--Surgery-Operating-Room_R-140312-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4891,7 +4894,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Burlingame/Staff-Nurse-II--PACU_R-140975-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4944,7 +4947,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Gastrointestinal_R-141174-1",
   "status": "open",
   "firstSeen": "2026-11-08",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -4970,7 +4973,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Mom-and-Baby_R-141188-1",
   "status": "open",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5050,7 +5053,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Neonatal-ICU_R-141527-1",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5076,7 +5079,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Neonatal-ICU_R-141529-1",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5126,9 +5129,9 @@
   "fit": "stretch",
   "fitNote": "Hospital GI/endoscopy lab wanting 2 yrs GI, endoscopy or motility experience plus ACLS and PALS; you have no GI or procedural-sedation experience yet.",
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Gastrointestinal_R-141714-1",
-  "status": "unconfirmed",
+  "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5154,7 +5157,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Clinic-Nurse-II--Maternal-Fetal-Medicine_R-142119",
   "status": "unconfirmed",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5178,9 +5181,9 @@
   "fit": "stretch",
   "fitNote": "This full-time weekday OR job at Sutter's Oakland oncology surgery center asks for 2 years of recent relevant experience, and since you haven't circulated or scrubbed, it is a stretch for you.",
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Oakland/Operating-Room-RN---Oakland-Oncology-Surgery-Center_R-142219",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5233,7 +5236,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Berkeley/Staff-Nurse-II--NICU_R-142483-1",
   "status": "open",
   "firstSeen": "2026-11-06",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5257,9 +5260,9 @@
   "fit": "possible",
   "fitNote": "This Alta Bates Level III NICU evening job asks for one year of current NICU experience, so your 20-plus NICU float shifts, NRP and S.T.A.B.L.E. make a reasonable but not automatic case.",
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Berkeley/Staff-Nurse-II--NICU_R-142484-1",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-06",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5285,7 +5288,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Berkeley/Staff-Nurse-II--NICU_R-142487-1",
   "status": "open",
   "firstSeen": "2026-11-06",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5338,7 +5341,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Oakland/Clinic-Nurse-II--Maternal-Fetal-Medicine_R-143296",
   "status": "unconfirmed",
   "firstSeen": "2026-10-19",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5364,7 +5367,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Neonatal-ICU_R-143319-1",
   "status": "open",
   "firstSeen": "2026-11-06",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5390,7 +5393,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Surgery_R-143940-1",
   "status": "open",
   "firstSeen": "2026-11-06",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5416,7 +5419,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Surgery_R-144119-1",
   "status": "open",
   "firstSeen": "2026-11-06",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5442,7 +5445,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Novato/Ambulatory-Services-Nurse-II--Operating-Room--Gastroenterology_R-145842-1",
   "status": "open",
   "firstSeen": "2026-11-08",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5468,7 +5471,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Berkeley/Staff-Nurse-II--NICU_R-142486-1",
   "status": "open",
   "firstSeen": "2026-10-27",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5494,7 +5497,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Berkeley/ALS-Neonatal-Transport-Nurse-Specialist_R-140428-1",
   "status": "open",
   "firstSeen": "2026-10-26",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5520,7 +5523,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Staff-Nurse-II--Labor-and-Delivery_R-142937-1",
   "status": "open",
   "firstSeen": "2026-10-30",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5572,7 +5575,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Fremont/Ambulatory-Services-Nurse-II--Operating-Room_R-144259-1",
   "status": "open",
   "firstSeen": "2026-10-31",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5598,7 +5601,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/Berkeley/Staff-Nurse-II--Family-Care-Center-Postpartum-Limited-Term-Position_R-142253-1",
   "status": "open",
   "firstSeen": "2026-10-31",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5624,7 +5627,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Registered-Nurse-II--Surgery_R-144862",
   "status": "open",
   "firstSeen": "2026-11-02",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5648,7 +5651,7 @@
   "fit": "stretch",
   "fitNote": "This part-time (32 h/wk) Novato OR circulator job asks 2 years of recent relevant experience plus ACLS, and since you have not circulated or scrubbed and don't hold ACLS yet, it is a stretch for you.",
   "url": "https://www.registerednurse.jobs/jobs/795180301-staff-nurse-ii-or-circulator",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-05",
   "lastSeen": "2026-11-07",
   "postedApprox": false,
@@ -5676,7 +5679,7 @@
   "url": "https://sutterhealth.wd1.myworkdayjobs.com/en-US/SH/job/San-Francisco/Clinical-Nurse-II--OBGYN_R-144709-1",
   "status": "open",
   "firstSeen": "2026-11-05",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5702,7 +5705,7 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/2976",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-08",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5726,11 +5729,12 @@
   "fit": "stretch",
   "fitNote": "This full-time (0.9) night NICU job in Oakland wants 2 recent years in a Level III ICN with surgical babies, and your feeder-grower float shifts won't cover that, so it's a stretch for you.",
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/3112",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-11-09",
   "lastSeen": "2026-11-09",
   "postedApprox": false,
-  "postedBefore": false
+  "postedBefore": false,
+  "closedAt": "2026-11-10"
  },
  {
   "id": "ucsf-3500",
@@ -5834,7 +5838,7 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/3901",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -5860,7 +5864,7 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/3908",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6100,11 +6104,12 @@
   "fit": "strong",
   "fitNote": "Outpatient OB / maternal medicine clinic RN role asking for 2 yrs L&D or OB; your 4 yrs on a high-risk postpartum unit clearly meets it.",
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4587",
-  "status": "unconfirmed",
+  "status": "closed",
   "firstSeen": "2026-10-15",
   "lastSeen": "2026-10-27",
   "postedApprox": false,
-  "postedBefore": false
+  "postedBefore": false,
+  "closedAt": "2026-11-10"
  },
  {
   "id": "ucsf-4656",
@@ -6128,7 +6133,7 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4656",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6206,7 +6211,7 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4691",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6367,7 +6372,7 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/Oakland-CA-United-States/4862",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6474,7 +6479,7 @@
   "url": "https://careers.ucsf.edu/careers/JobDetail/United-States/4888",
   "status": "open",
   "firstSeen": "2026-10-15",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6660,7 +6665,7 @@
   "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11306",
   "status": "open",
   "firstSeen": "2026-11-05",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6684,9 +6689,9 @@
   "fit": "stretch",
   "fitNote": "This full-time pediatric OR job at Mission Bay asks for 1 recent year of inpatient OR work with laparoscopic circulating, which you don't have, so it's a stretch for you.",
   "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11270",
-  "status": "open",
+  "status": "unconfirmed",
   "firstSeen": "2026-11-05",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6712,7 +6717,7 @@
   "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11079",
   "status": "open",
   "firstSeen": "2026-11-03",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6738,7 +6743,7 @@
   "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11295",
   "status": "open",
   "firstSeen": "2026-11-04",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6764,7 +6769,7 @@
   "url": "https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990015109685-per-diem-registered-nurse-all-specialties-dph-p103-",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  },
@@ -6790,7 +6795,7 @@
   "url": "https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990015109716-registered-nurse-experienced-nurses-2320-citywide-h00083",
   "status": "open",
   "firstSeen": "2026-10-13",
-  "lastSeen": "2026-11-09",
+  "lastSeen": "2026-11-10",
   "postedApprox": false,
   "postedBefore": false
  }
