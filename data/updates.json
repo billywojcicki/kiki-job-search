@@ -2830,5 +2830,82 @@
     "url": "https://www.governmentjobs.com/careers/contracosta"
    }
   ]
+ },
+ {
+  "date": "2026-11-11",
+  "ranAt": "2026-11-11T14:15:55+00:00",
+  "summary": "3 new openings, 1 of them strong or worth applying. 2 closed. Packard posted a full-time L&D nights job (asks 18 months of L&D plus ACLS).",
+  "addedCount": 3,
+  "closedCount": 2,
+  "added": [
+   {
+    "id": "LPCH-LP_00027282-2661510",
+    "title": "Clinical Nurse II, Labor and Delivery",
+    "facilityName": "Lucile Packard Children's Stanford",
+    "fit": "possible"
+   },
+   {
+    "id": "TENET-2603025805",
+    "title": "Registered Nurse (RN) - Ambulatory Surgery",
+    "facilityName": "San Ramon Regional Medical Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "TENET-2603025923",
+    "title": "Registered Nurse (RN) - Operating Room",
+    "facilityName": "San Ramon Regional Medical Center",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "MH-CZ-169815141",
+    "title": "Clinical RN II, LDRP, Part-Time, (36 Hour Week), Days",
+    "facilityName": "MarinHealth Medical Center"
+   },
+   {
+    "id": "kp-1457718",
+    "title": "Staff Nurse II - General Surgery Outpatient",
+    "facilityName": "Kaiser Redwood City"
+   }
+  ],
+  "issues": [
+   {
+    "name": "UCSF Ambulatory OB (strong fit)",
+    "covers": "UCSF 'Registered Nurse - Ambulatory OB' (req 4587) still can't be found anywhere; check UCSF's site by hand",
+    "why": "UCSF's job feed and job pages refuse the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Stanford Health Care Tri-Valley",
+    "covers": "The 6 Tri-Valley pre-op/PACU jobs (strong fits) couldn't be re-checked for several days; they drop off on Nov 21 if still unseen. Check them by hand",
+    "why": "Stanford's job site and the mirror that found them refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "10 Sutter jobs couldn't be checked. Lead: 'Ambulatory Services Nurse II, PreOp & PACU', SF (R-137001), not on any mirror",
+    "why": "Sutter's job site refused the check for the 22nd day",
+    "url": "https://jobs.sutterhealth.org/us/en/job/R-137001/Ambulatory-Services-Nurse-II-PreOp-PACU"
+   },
+   {
+    "name": "San Ramon Regional (Tenet)",
+    "covers": "Lead: 'RN PreOp/GI' posting couldn't be opened; check it by hand",
+    "why": "Tenet's job page and list page 2 refused the check",
+    "url": "https://www.tenethealth.com/careers"
+   },
+   {
+    "name": "John Muir and El Camino L&D",
+    "covers": "Leads still unconfirmed: John Muir Walnut Creek L&D per diem days and El Camino Mountain View L&D 0.8",
+    "why": "Their job sites refused the check",
+    "url": "https://careers.johnmuirhealth.com"
+   },
+   {
+    "name": "Seton, county hospitals, NorthBay, surgery centers",
+    "covers": "About 30 jobs couldn't be checked (Contra Costa, Seton, Chinese Hospital, San Mateo, El Camino NICU, Washington, NorthBay, several surgery centers)",
+    "why": "Their job sites refused the check and Indeed/Glassdoor rate-limited",
+    "url": "https://www.governmentjobs.com/careers/contracosta"
+   }
+  ]
  }
 ]
