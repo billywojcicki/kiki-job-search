@@ -2907,5 +2907,71 @@
     "url": "https://www.governmentjobs.com/careers/contracosta"
    }
   ]
+ },
+ {
+  "date": "2026-11-12",
+  "ranAt": "2026-11-12T14:18:29+00:00",
+  "summary": "3 new openings, 3 of them strong or worth applying. 0 closed. El Camino Mountain View has L&D openings (unconfirmed; need ACLS). CPMC Van Ness posted a part-time NICU days job.",
+  "addedCount": 3,
+  "closedCount": 0,
+  "added": [
+   {
+    "id": "sutter-RNJ-803221825",
+    "title": "Staff Nurse II, NICU",
+    "facilityName": "CPMC Van Ness",
+    "fit": "possible"
+   },
+   {
+    "id": "ECH-R00017889",
+    "title": "Clinical Nurse II - 0.8 - Days - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "ECH-R00017994",
+    "title": "Clinical Nurse II - PD - Nights - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "possible"
+   }
+  ],
+  "closed": [],
+  "issues": [
+   {
+    "name": "Stanford Health Care Tri-Valley",
+    "covers": "The 6 Tri-Valley pre-op/PACU jobs (strong fits) are only on a mirror copy from about Nov 5-6; check them on Stanford's site by hand",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "El Camino Mountain View L&D",
+    "covers": "2 new L&D jobs (0.8 days, per diem nights) seen only on mirror sites; confirm on El Camino's site",
+    "why": "El Camino's job site refused the check",
+    "url": "https://www.elcaminohealth.org/careers"
+   },
+   {
+    "name": "UCSF Ambulatory OB (strong fit)",
+    "covers": "UCSF 'Registered Nurse - Ambulatory OB' (req 4587) still can't be found; check UCSF's site by hand",
+    "why": "UCSF's job feed and job pages refuse the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "21 Sutter jobs couldn't be checked today",
+    "why": "Sutter's job site refused the check for the 23rd day; the mirror sites also refused many pages",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "MarinHealth, John Muir, Seton, county hospitals",
+    "covers": "16 jobs couldn't be checked (MarinHealth x6, Contra Costa, San Mateo, Seton, Chinese Hospital, El Camino NICU)",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "NorthBay and surgery centers",
+    "covers": "13 surgery-center and NorthBay jobs couldn't be checked",
+    "why": "Indeed, Glassdoor and ZipRecruiter rate-limited",
+    "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Jobs-E121907.htm"
+   }
+  ]
  }
 ]
