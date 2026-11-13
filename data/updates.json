@@ -2973,5 +2973,200 @@
     "url": "https://www.glassdoor.com/Jobs/NorthBay-Health-Jobs-E121907.htm"
    }
   ]
+ },
+ {
+  "date": "2026-11-13",
+  "ranAt": "2026-11-13T14:20:13+00:00",
+  "summary": "17 new openings, 8 of them strong or worth applying. 10 closed. Stanford posted a 500P Pre-Post Care job with no minimum years (strong fit). Sutter posted several outpatient surgery and pre-op/PACU jobs.",
+  "addedCount": 17,
+  "closedCount": 10,
+  "added": [
+   {
+    "id": "sutter-R-144749",
+    "title": "Registered Nurse II, Gastroenterology",
+    "facilityName": "Sutter PAMF San Carlos (Gastroenterology)",
+    "fit": "strong"
+   },
+   {
+    "id": "SHC-R2660231",
+    "title": "Clinical Nurse (RN) - Pre-Post Care 500P (0.9 FTE/Full-Time, 12-Hour Rotating Shifts, On-Call Required)",
+    "facilityName": "Stanford Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "sutter-R-145384",
+    "title": "Staff Nurse II, Surgery",
+    "facilityName": "CPMC Van Ness",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-CRZ-169897623",
+    "title": "Ambulatory Services Nurse II, PreOp & PACU",
+    "facilityName": "Sutter Outpatient Surgery SF (1635 Divisadero)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-RNJ-800139641",
+    "title": "Ambulatory Services Nurse II, PACU",
+    "facilityName": "Sutter Outpatient Services Novato (GI procedures)",
+    "fit": "possible"
+   },
+   {
+    "id": "SHC-R2659675",
+    "title": "Clinical Nurse II (RN) - ObGyn Pelvic Health - (1.0FTE) Days",
+    "facilityName": "Stanford Redwood City Outpatient Center",
+    "fit": "possible"
+   },
+   {
+    "id": "ECH-R00017891",
+    "title": "Clinical Nurse II - PD - Days - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "ECH-R00017892",
+    "title": "Clinical Nurse II - PD - Nights - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-146362",
+    "title": "Ambulatory Services Nurse II",
+    "facilityName": "Sutter Outpatient Surgery SF (1635 Divisadero)",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-R-145571",
+    "title": "Staff Nurse II, OR",
+    "facilityName": "CPMC Mission Bernal",
+    "fit": "stretch"
+   },
+   {
+    "id": "kp-1456357",
+    "title": "Staff Nurse II - Main Operating Room",
+    "facilityName": "Kaiser South San Francisco",
+    "fit": "stretch"
+   },
+   {
+    "id": "kp-1450822",
+    "title": "Staff Nurse - Main Operating Room",
+    "facilityName": "Kaiser South San Francisco",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-ora11089",
+    "title": "Registered Nurse - NICU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-ora11492",
+    "title": "Registered Nurse PD - Pediatric Perioperative Resource Team",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "SHCTV-R2661424",
+    "title": "Registered Nurse - PACU Per-Diem",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "stretch"
+   },
+   {
+    "id": "USPI-97706",
+    "title": "Operating Room Nurse - Hacienda Surgery Center",
+    "facilityName": "Hacienda Surgery Center",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-CRZ-169894567",
+    "title": "Ambulatory Services Nurse II, Operating Room",
+    "facilityName": "Sutter PAMF Mountain View (ambulatory surgery)",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "LPCH-P141712-1950",
+    "title": "Clinical Nurse II, CVOR",
+    "facilityName": "Lucile Packard Children's Stanford"
+   },
+   {
+    "id": "SETON-28385",
+    "title": "Staff Nurse II - Surgery (OR/GI Lab)",
+    "facilityName": "Seton Medical Center"
+   },
+   {
+    "id": "USF-GD1010294403366",
+    "title": "IVF RN Case Manager",
+    "facilityName": "Reproductive Science Center San Mateo"
+   },
+   {
+    "id": "USF-afdd1ccd",
+    "title": "OR/PACU RN Part-Time",
+    "facilityName": "Reproductive Science Center San Ramon"
+   },
+   {
+    "id": "USPI-97285",
+    "title": "PRE-OP/PACU RN (PRN) - BASS Surgery Center",
+    "facilityName": "BASS Surgery Center"
+   },
+   {
+    "id": "WHHS-orIBAfw4",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full time, 12-hr - Nights",
+    "facilityName": "Washington Hospital"
+   },
+   {
+    "id": "kp-1446846",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser Walnut Creek"
+   },
+   {
+    "id": "kp-1456456",
+    "title": "Staff Nurse II - CVOR Circulator",
+    "facilityName": "Kaiser San Francisco (Geary)"
+   },
+   {
+    "id": "kp-1456913",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser San Leandro"
+   },
+   {
+    "id": "sutter-IND-c6479d88685777d7",
+    "title": "Staff Nurse II, Nursery",
+    "facilityName": "Sutter Eden Medical Center"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "29 Sutter jobs couldn't be checked today; new Sutter jobs were found through mirror sites only",
+    "why": "Sutter's job site refused the check for the 24th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Stanford Health Care Tri-Valley",
+    "covers": "The 6 Tri-Valley pre-op/PACU jobs (strong fits) rest on a mirror copy from about Nov 10. Lead: Tri-Valley L&D full-time days (unconfirmed)",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "El Camino Mountain View L&D",
+    "covers": "4 L&D jobs (0.8 days, per diem days, two per diem nights) seen only on a mirror; confirm on El Camino's site",
+    "why": "El Camino's job site refused the check",
+    "url": "https://www.elcaminohealth.org/careers"
+   },
+   {
+    "name": "UCSF Ambulatory OB (strong fit)",
+    "covers": "UCSF 'Registered Nurse - Ambulatory OB' (req 4587) still can't be found; check UCSF's site by hand",
+    "why": "UCSF's job feed and job pages refuse the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Seton, county hospitals, El Camino NICU, NorthBay",
+    "covers": "About 10 jobs couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://www.governmentjobs.com/careers/contracosta"
+   }
+  ]
  }
 ]
