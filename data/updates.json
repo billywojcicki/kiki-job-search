@@ -3168,5 +3168,91 @@
     "url": "https://www.governmentjobs.com/careers/contracosta"
    }
   ]
+ },
+ {
+  "date": "2026-11-14",
+  "ranAt": "2026-11-14T14:15:14+00:00",
+  "summary": "3 new openings, 1 of them strong or worth applying. 5 closed. Quiet day; a few unconfirmed Sutter pre-op postings.",
+  "addedCount": 3,
+  "closedCount": 5,
+  "added": [
+   {
+    "id": "sutter-IND-8335fb64d15a9f11",
+    "title": "Ambulatory Services RN II, Periop",
+    "facilityName": "Sutter Fremont ambulatory surgery",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1456354",
+    "title": "Staff Nurse II - Main Operating Room",
+    "facilityName": "Kaiser South San Francisco",
+    "fit": "stretch"
+   },
+   {
+    "id": "VASCSL-IN-OR-SEDATION-PD",
+    "title": "OR Sedation Nurse (per diem)",
+    "facilityName": "Vascular surgery center (San Leandro)",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "JMH-CZ-169840310",
+    "title": "RN - CMC Endoscopy - Per Diem - 8 Hour - Days - CNA",
+    "facilityName": "John Muir Concord Medical Center"
+   },
+   {
+    "id": "MH-CZ-169815144",
+    "title": "Clinical RN II, LDRP, Part-Time, (36 Hour Week), Nights",
+    "facilityName": "MarinHealth Medical Center"
+   },
+   {
+    "id": "SETON-27566",
+    "title": "Staff Nurse II - Recovery Room Services (PACU)",
+    "facilityName": "Seton Medical Center"
+   },
+   {
+    "id": "kp-1447519",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser Walnut Creek"
+   },
+   {
+    "id": "kp-1457718",
+    "title": "Staff Nurse II - General Surgery Outpatient",
+    "facilityName": "Kaiser Redwood City"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "27 Sutter jobs couldn't be checked today; 2 new pre-op/periop jobs (SF pre-admission calls, Fremont periop) seen only on board cards",
+    "why": "Sutter's job site refused the check for the 25th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "5 Stanford jobs couldn't be checked (incl. 500P Pre-Post Care, strong). Lead: Tri-Valley L&D full-time days (Indeed only)",
+    "why": "Stanford's job site and the mirror's newest pages refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "El Camino Mountain View L&D",
+    "covers": "4 L&D jobs confirmed only on a mirror; confirm on El Camino's site",
+    "why": "El Camino's job site refused the check",
+    "url": "https://www.elcaminohealth.org/careers"
+   },
+   {
+    "name": "UCSF Ambulatory OB (strong fit)",
+    "covers": "UCSF 'Registered Nurse - Ambulatory OB' (req 4587) still can't be found; check UCSF's site by hand",
+    "why": "UCSF's job feed and job pages refuse the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Highland, Seton, county hospitals, NorthBay",
+    "covers": "About 12 jobs couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://www.governmentjobs.com/careers/contracosta"
+   }
+  ]
  }
 ]
