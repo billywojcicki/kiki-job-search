@@ -3254,5 +3254,59 @@
     "url": "https://www.governmentjobs.com/careers/contracosta"
    }
   ]
+ },
+ {
+  "date": "2026-11-15",
+  "ranAt": "2026-11-15T14:14:06+00:00",
+  "summary": "1 new openings, 1 of them strong or worth applying. 1 closed. Quiet day; Sequoia posted a per diem surgery RN job.",
+  "addedCount": 1,
+  "closedCount": 1,
+  "added": [
+   {
+    "id": "DIG-2026-508580",
+    "title": "RN Surgery",
+    "facilityName": "Sequoia Hospital",
+    "fit": "possible"
+   }
+  ],
+  "closed": [
+   {
+    "id": "sutter-RNJ-785880714",
+    "title": "Staff Nurse II, Labor and Delivery",
+    "facilityName": "CPMC Van Ness"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "19 Sutter jobs couldn't be checked, incl. Pleasanton pre-op/PACU, both maternal-fetal medicine clinic jobs and two Eden nursery jobs",
+    "why": "Sutter's job site refused the check for the 26th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "500P Pre-Post Care (strong), ObGyn Pelvic Health and Tri-Valley PACU per diem couldn't be checked",
+    "why": "Stanford's job site refused the check; mirrors show nothing posted after about Nov 1",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "UCSF Ambulatory OB (strong fit)",
+    "covers": "Indeed still shows a card for UCSF 'Registered Nurse - Ambulatory OB'; it closed here after 14 days unseen. Check UCSF's site by hand",
+    "why": "UCSF's job feed and job pages refuse the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "John Muir L&D",
+    "covers": "Lead: John Muir Walnut Creek 'RN - Labor & Delivery Services - Per Diem - 8 Hour - Days' (TealHQ only)",
+    "why": "John Muir's job site refused the check",
+    "url": "https://careers.johnmuirhealth.com"
+   },
+   {
+    "name": "Highland, Seton, county hospitals",
+    "covers": "About 6 jobs couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://www.governmentjobs.com/careers/contracosta"
+   }
+  ]
  }
 ]

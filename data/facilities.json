@@ -18,7 +18,7 @@
   "area": "SF",
   "drive": 8,
   "toll": "",
-  "units": "No maternity. PACU, Same Day Surgery Unit (SDSU), endoscopy, OR. 11/13: the hospital's Apply Now page lists one Registered Nurse requisition (#12775, the Same Day Surgery GI/Endoscopy RN) among 21 openings; Credenza's Chinese Hospital list (3 jobs) also shows it; job-opportunities page not on the fetch allowlist",
+  "units": "No maternity. PACU, Same Day Surgery Unit (SDSU), endoscopy, OR. 11/15: the hospital's Apply Now page lists one Registered Nurse requisition (#12775, the per diem Same Day Surgery GI/Endoscopy RN) among 22 openings; Credenza's Chinese Hospital page (3 jobs) also shows it",
   "careers": "https://chinesehospital-sf.org/job-opportunities/"
  },
  {
@@ -51,7 +51,7 @@
   "area": "SF",
   "drive": 12,
   "toll": "",
-  "units": "L&D, Mother-Baby, Level III NICU, Pre-op/PACU, OR, GI lab, fertility clinic. 11/14: fresh SF nursing list (11/14 8:54 AM) = 9: NICU Level III nights (1456483), 5 CVOR circulator jobs (1448685, 1448729, 1456550, 1456562, 1456564), lactation SH (IBCLC), ANM Med/Tele and a new Assistant Nurse Manager - L&D (part-time days, management); no L&D, mother-baby, PACU, GI, OB/GYN clinic or In-Vitro staff RN posting",
+  "units": "L&D, Mother-Baby, Level III NICU, Pre-op/PACU, OR, GI lab, fertility clinic. 11/15: fresh SF nursing list (11/15 8:54 AM) = 9, unchanged: NICU Level III nights (1456483), 5 CVOR circulator jobs (1448685, 1448729, 1456550, 1456562, 1456564), lactation SH (IBCLC), ANM L&D and ANM Med/Tele (management); fresh SF all-jobs list page 1 (11/15 8:59 AM, 67 jobs) adds only an Assistant Nurse Manager ASU/PACU/GI (management) and a gender-clinic Clinical Practice Nurse; no L&D, mother-baby, PACU, GI, OB/GYN clinic or In-Vitro staff RN posting (old In-Vitro and mother-baby postings from search now fail at the site)",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -117,7 +117,7 @@
   "area": "SF",
   "drive": 18,
   "toll": "",
-  "units": "Birth Center (L&D/antepartum/postpartum/well baby), Ambulatory OB clinic, ICN (Level IV), adult and pediatric OR, EMBRACE perinatal navigator. 11/14: Birth Center night Oracle 9796 (JobDetail 4691) open; Birth Center Lactation PT day (Credenza 169904199) requires IBCLC plus 1 yr as a lactation consultant (not tracked); ICN Oracle 11295 and pediatric OR Oracle 11270 open; older Birth Center night JobDetail 3418 (Oracle 7071) has no Apply link (closed); NP Antepartum-Birth Center posting is NP-only; no Mother-Baby, Antepartum staff RN, Ambulatory OB, PACU, endoscopy or fertility RN posting seen",
+  "units": "Birth Center (L&D/antepartum/postpartum/well baby), Ambulatory OB clinic, ICN (Level IV), adult and pediatric OR, EMBRACE perinatal navigator. 11/15: Birth Center night Oracle 9796 (JobDetail 4691) open; ICN Oracle 11295 open (fresh Credenza copy 169890908); pediatric OR Oracle 11270 open; Birth Center Lactation PT day needs IBCLC (not tracked); RNFA (Credenza 169896854) is a first-assist role (not tracked); no Mother-Baby, Antepartum staff RN, Ambulatory OB, PACU, endoscopy or fertility RN posting on freehire's two UCSF lists or Credenza's live UCSF list",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -139,7 +139,7 @@
   "area": "SF",
   "drive": 18,
   "toll": "",
-  "units": "All units via 2320 citywide list (H00083) and P103 per diem; unit-specific 2320 Perinatal, Perinatal Training Program, NICU and Periop OR postings are expired. 11/14: live SmartRecruiters list page 1 shows H00083 and P103 as the only staff RN postings; the newer 2320 Training Program (H00206, published Sep 18) is for psych and jail health and is not on the live list",
+  "units": "All units via 2320 citywide list (H00083) and P103 per diem. 11/15: the live SmartRecruiters list (3 pages, 105 postings) shows H00083 and P103 as the only staff RN postings; no unit-specific 2320 Perinatal/Birth Center/NICU/PACU posting",
   "careers": "https://careers.sf.gov"
  },
  {
@@ -161,7 +161,7 @@
   "area": "Peninsula",
   "drive": 22,
   "toll": "",
-  "units": "Pre-op/PACU, OR. 11/14: South San Francisco = 3 on the fresh US nursing list, all full-time Main OR jobs posted 11/12 (1456357 days 11-7:30, 1456354 evenings 12-8:30, 1450822 evenings 2-10:30); no pre-op or PACU RN posting",
+  "units": "Pre-op/PACU, OR. 11/15: fresh SSF job page 1450822 (7:49 AM) and its Jobs For You panel show the same 3 full-time Main OR jobs posted 11/12 (1450822, 1456354, 1456357); no pre-op or PACU RN posting",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -183,7 +183,7 @@
   "area": "Marin",
   "drive": 25,
   "toll": "Golden Gate",
-  "units": "LDRP Birth Center, NICU, Pre-op/PACU, OR, GI lab. 11/13: Workday not on the fetch allowlist; Credenza's live MarinHealth employer list (credenzahealth.com/jobs/s?employer_id=1186762, 2 pages, newest posts 2 days old) shows the 3 LDRP PT nights, NICU PT days and nights, and Surgery & Procedures Pre-Op FT days, and no longer shows the closed LDRP days, PACU FT days or NICU 24-hr variable jobs; new MarinHealth posts are ED, med-surg, cardiac, PCU and infusion only. Indeed and an old Glassdoor snapshot still show the closed PACU job",
+  "units": "LDRP Birth Center, NICU, Pre-op/PACU, OR, GI lab. 11/15: Workday not on the fetch allowlist; Credenza's live MarinHealth employer list (credenzahealth.com/jobs/s?employer_id=1186762, 2 pages, 32 jobs, newest 4 days old) shows the 2 LDRP PT nights, NICU PT days and nights, and Surgery & Procedures Pre-Op FT days; no PACU, mother-baby or OB clinic RN; new MarinHealth posts are ED, med-surg, cardiac, PCU and infusion only (plus an ObGyn CNM and MAs)",
   "careers": "https://mymarinhealth.wd5.myworkdayjobs.com/MHCareers"
  },
  {
@@ -216,7 +216,7 @@
   "area": "Marin",
   "drive": 28,
   "toll": "Golden Gate",
-  "units": "Pre-op/PACU, OR. 11/14: fresh San Rafael nursing list (9:02 AM) = 4: on-call day OR 1457856, Med/Surg Float 1457821, Staff Nurse II PT evenings, on-call IV LVN; no pre-op or PACU RN posting",
+  "units": "Pre-op/PACU, OR. 11/15: San Rafael nursing list (copy 11/14 9:02 AM) = 4: on-call day OR 1457856, Med/Surg Float 1457821, Med/Surg Unit 2 PT evenings 1453055, on-call IV LVN; no pre-op or PACU RN posting",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -227,7 +227,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "L&D, Mother-Baby, Level III NICU, Pre-op/PACU, OR, GI lab. 11/14: fresh US nursing list Oakland = 18, unchanged; Oakland nursing list (copy 11/13 11:47 AM) page 1 of 2: L&D-General x2 (1441857, 1449046), L&D Float Pool (1443455), PICU x5 (incl. generic-titled 1447915), PICU transport 1445030, Pediatrics on-call nights 1446646 (generic title, posted 11/10), lactation per diem (IBCLC), CNMs x2, CRNA, ED NP; page 2 (3 older jobs, posted before 9/04) could not be opened; no mother-baby, NICU staff, PACU or GI posting seen",
+  "units": "L&D, Mother-Baby, Level III NICU, Pre-op/PACU, OR, GI lab. 11/15: Oakland nursing list (copy 11/14 8:42 PM) = 18, page 1 unchanged: L&D-General x2 (1441857, 1449046), L&D Float Pool (1443455), PICU x5 (incl. generic-titled 101585177296), PICU transport, Pediatrics on-call nights 1446646, lactation per diem 1451236 (IBCLC), CNMs x2, CRNA, ED NP; page 2 (3 older jobs) still unreachable; an older L&D-General night posting 1418991 (posted 5/19) loads from search but is unconfirmed; fresh Oakland Hospital location list page 1 (11/15 9:01 AM, 43 jobs) adds nothing relevant; no mother-baby, NICU staff, PACU or GI posting seen",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -238,7 +238,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "Level III NICU (11/14: day Oracle 6009/JobDetail 2976 shows Apply; Oracle 11089 open on freehire; 11079 only on a lagging freehire copy), pediatric PACU (FT Oracle 7600/JobDetail 3908 and PD Oracle 7563/JobDetail 3901 show Apply; Walnut Creek is their campus 2; PACU Oracle 10205 closed Oct 23), pediatric OR (Oracle 10217 open), Pediatric Perioperative Resource Team PD OR float (Oracle 11492), pediatric critical care float pool (Oracle 9743 open); PREPARE pre-anesthesia testing clinic hiring NPs only; Fetal Treatment Center Perinatal Nurse Navigator (Credenza 169893897, posted ~Nov 13, Oakland/SF) needs a master's plus CNS/NP credential (not tracked)",
+  "units": "Level III NICU, pediatric PACU, pediatric OR, PICU/NICU float pool. 11/15: NICU day JobDetail 2976 (Oracle 6009) and PACU FT 3908 (Oracle 7600) / PD 3901 (Oracle 7563) show Apply; Ped OR Oracle 10217 and float pool Oracle 9743 on freehire plus Glassdoor/Indeed cards; new float pool req Oracle 11106 (posted Oct 27); older night float pool JobDetail 3338 (Oracle 6826) has no Apply link; NICU 11079/11089 and PD Perioperative Resource Team 11492 could not be checked; PREPARE pre-anesthesia clinic hiring NPs only; Perinatal Nurse Navigator (Credenza 169893897) needs CNS/NP (not tracked)",
   "careers": "https://careers.ucsf.edu"
  },
  {
@@ -271,7 +271,7 @@
   "area": "East Bay",
   "drive": 28,
   "toll": "Bay Bridge",
-  "units": "Obstetrics/L&D, MCH/OB clinic procedural RN, pre/post cath lab; endoscopy openings are techs only. 11/14: Glassdoor AHS Oakland list shows both CN II Ambulatory Procedural Nurse postings refreshed (24h); Obstetrics PD and Pre/Post Cath PD not among its 40 visible cards (24 hidden); Indeed's AHS hospital-nurse search shows a Director, Nursing - Maternal Child Health (excluded) but no OB staff RN; jobs.yourcbhn.org AHS list (33) shows ICU, IR invasive specialist, psych, Eastmont clinic and case-management RN roles only",
+  "units": "Obstetrics/L&D, NICU, MCH/OB clinic procedural RN, pre/post cath lab; endoscopy openings are techs only. 11/15: Glassdoor AHS 'rn Oakland' list (39) shows Highland ICU nights CN II, CN V, educator, director and San Leandro roles only; NICU per diem night (jl 1009899129582) says no longer available; yourcbhn AHS list is down to 11 jobs (CNM, CNA, PA/NP, IR invasive specialist, CRNA); ZipRecruiter shows a 'CN II - Ambulatory Clinic Nurse' with the procedural nurse pay scales (page unreadable)",
   "careers": "https://www.alamedahealthsystem.org/careers/"
  },
  {
@@ -293,7 +293,7 @@
   "area": "East Bay",
   "drive": 32,
   "toll": "Bay Bridge",
-  "units": "OR, Pre-op/PACU. 11/14: fresh US nursing list Richmond = 2, unchanged (NP II on-call, Med/Surg PT evenings per the 11/5 Richmond list copy); no OR, pre-op or PACU RN posting",
+  "units": "OR, Pre-op/PACU. 11/15: Richmond = 2 on the US nursing list (copy 11/14 8:58 AM); fresh Richmond location list page 2 (11/15 8:59 AM, 18 jobs) shows no nursing job; page 1 unreachable; no OR, pre-op or PACU RN posting seen",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -304,7 +304,7 @@
   "area": "Peninsula",
   "drive": 35,
   "toll": "",
-  "units": "L&D, Mother-Baby, Level II NICU, PACU, OR. 11/14: fresh Redwood City nursing list (9:00 AM) = 5: temporary O/P procedure room RN 1457212, main OR PT evenings 1448948, NP II, home health on-call, new on-call LVN (injection clinic); outpatient general surgery FT 1457718 gone again (page errors); no L&D, mother-baby, NICU or PACU posting",
+  "units": "L&D, Mother-Baby, Level II NICU, PACU, OR. 11/15: fresh RWC all-jobs location list (11/15 8:58 AM, 46 jobs) page 1 and RWC nursing list (copy 11/14 9:00 AM) = 5: temporary O/P procedure room RN 1457212, main OR PT evenings 1448948, NP II, home health on-call, on-call LVN; no L&D, mother-baby, NICU or PACU posting",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -315,7 +315,7 @@
   "area": "Peninsula",
   "drive": 35,
   "toll": "",
-  "units": "Family Birth Center (LDRP), Level II NICU, PACU, OR. 11/13: Redwood City staff-nurse list (still the 11/12 8:59 AM copy) shows only RN Labor and Delivery EXPERIENCED and an RN Cath Lab Quality Coordinator; the L&D detail page (stamped 11/13 12:55 AM) shows Apply; Sequoia facility list and SF staff-nurse list not on the fetch allowlist",
+  "units": "Family Birth Center (LDRP), Level II NICU, PACU, OR. 11/15: Redwood City staff-nurse list (stamped 11/15 8:55 AM) shows RN Labor and Delivery EXPERIENCED, RN Surgery (PRN PACU, req 2026-508580, new 11/13) and an RN Cath Lab Quality Coordinator; Sequoia facility list = 30 jobs (Labor And Delivery Services 2, Surgery 3); its pages 2-3 and the SF staff-nurse list are not reachable",
   "careers": "https://www.commonspirit.careers"
  },
  {
@@ -337,7 +337,7 @@
   "area": "East Bay",
   "drive": 35,
   "toll": "Bay Bridge",
-  "units": "L&D, Mother-Baby, NICU, PACU, OR. 11/14: fresh US nursing list San Leandro = 8 (was 9); SL location list (copy 11/13 9:04 AM) shows weekend infusion 1454951, CNMs x3, ANM Main OR, ED manager; night Staff Nurse II 102516054176 page now errors; no L&D, mother-baby or NICU staff RN posting",
+  "units": "L&D, Mother-Baby, NICU, PACU, OR. 11/15: fresh San Leandro nursing list (11/15 8:57 AM) = 8: weekend infusion, CNMs x3, ICU x4; no L&D, mother-baby, NICU or OR staff RN posting",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -359,7 +359,7 @@
   "area": "East Bay",
   "drive": 40,
   "toll": "Bay Bridge",
-  "units": "L&D, Mother-Baby, Level III NICU, OR. 11/14: fresh Walnut Creek nursing list (8:57 AM) = 4 (was 14): 3 CRNA and on-call wound care; OR 1447519 gone; no L&D, mother-baby, NICU or OR RN posting",
+  "units": "L&D, Mother-Baby, Level III NICU, OR. 11/15: Walnut Creek nursing list (copy 11/14 8:57 AM) = 4 (3 CRNA, on-call wound care); fresh wound-care job page (11/15 8:00 AM) Jobs For You panel shows only CRNAs; no L&D, mother-baby, NICU or OR RN posting",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -370,7 +370,7 @@
   "area": "East Bay",
   "drive": 40,
   "toll": "Bay Bridge",
-  "units": "L&D, Mother-Baby, Level III NICU, PACU, pre-op. 11/13: John Muir's own sites and Workday sitemap not on the fetch allowlist; Credenza's John Muir list (9 jobs, a few days behind) and ZipRecruiter's John Muir L&D list show no Walnut Creek L&D, mother-baby, NICU or PACU RN job; TealHQ's 'RN - WCMC Labor & Delivery Services - Per Diem - 8 Hour - Days' copy still says '1d' (unchanged since 11/1, unverified)",
+  "units": "L&D, Mother-Baby, Level III NICU, PACU, pre-op. 11/15: John Muir's Workday sitemap and Walnut Creek nursing list not on the fetch allowlist; careers.johnmuirhealth.com search (11/14 9:02 AM copy, 39 jobs, Nursing 7) page 1 has no target-unit RN; ZipRecruiter's John Muir Mother/Baby PT nights says expired; TealHQ's per diem WCMC L&D days copy still says '1d' (unverified)",
   "careers": "https://careers.johnmuirhealth.com"
  },
  {
@@ -381,7 +381,7 @@
   "area": "East Bay",
   "drive": 42,
   "toll": "Bay Bridge",
-  "units": "L&D, Nursery, Postpartum, PACU, GI lab, OR. 11/13: governmentjobs.com robots-blocked; Indeed's Contra Costa County Nurse (Martinez) search shows the Perianesthesia/GI and OR RN postings (no dates) but not the L&D/Nursery/Postpartum one (status unknown); Credenza's new county 'Registered Nurse' card is an ICU transfer/bid post for current county employees only",
+  "units": "L&D, Nursery, Postpartum, PACU, GI lab, OR. 11/15: governmentjobs.com robots-blocked; Indeed's Contra Costa County Nurse (Martinez) search shows the Perianesthesia/GI, OR, Public Health/Ambulatory and Psych RN postings (no dates) but not the L&D/Nursery/Postpartum one (missing since 11/13, status unknown); Glassdoor shows no county jobs",
   "careers": "https://www.governmentjobs.com/careers/contracosta"
  },
  {
@@ -425,7 +425,7 @@
   "area": "East Bay",
   "drive": 50,
   "toll": "San Mateo Bridge",
-  "units": "Birthing Center (L&D), OR/Endoscopy, PACU, endoscopy, short stay, cath lab, ICU/IMC, med-onc. 11/13: Jobvite 'Nursing - Registered Nurse' list (25 of 25) shows 4 Birthing Center L&D night jobs (orIBAfw4 dropped off); search-result links for a per diem Endoscopy RN (oV3eAfww) and a Short Stay Unit RN (opzdAfwv) say 'The job listing no longer exists'; no PACU, OR/Endo or pre-op RN posting",
+  "units": "Birthing Center (L&D), OR/Endoscopy, PACU, endoscopy, short stay, cath lab, ICU/IMC, med-onc. 11/15: Jobvite lists (70-job and 47-job copies) show the 4 Birthing Center L&D night jobs, all with Apply; staff RN posts otherwise are 5 West, cath lab, ED, ICU, IMC, infusion and med-onc; no PACU, OR/Endo, short stay or pre-op RN posting",
   "careers": "https://jobs.jobvite.com/washingtonhospital/jobs"
  },
  {
@@ -436,7 +436,7 @@
   "area": "South Bay",
   "drive": 55,
   "toll": "",
-  "units": "L&D, Mother-Baby, Level III NICU, Pre-admission, Pre-op/PACU, OR. 11/13: Workday and elcaminohealth.org not on the fetch allowlist; Dreamwork's El Camino list (10 newest jobs, generated today) shows 4 Mountain View L&D jobs (0.8 Days R00017889, PD Nights R00017994, PD Nights 12-hr R00017892, PD Days 12-hr R00017891); the PD Pre Admission Services RN copies on Glassdoor and Indeed say expired; the 2 NICU jobs could not be checked",
+  "units": "L&D, Mother-Baby, Level III NICU, Pre-admission, Pre-op/PACU, OR. 11/15: Workday not on the fetch allowlist; Dreamwork's El Camino list (10 newest) shows the 4 Mountain View L&D jobs (R00017889, R00017891, R00017892, R00017994); Glassdoor's El Camino nursing/Mountain View list shows 3 Nursery - Intensive Care jobs refreshed 24h (0.8 days, 0.7 days, 0.8 nights); PD Pre Admission Services RN expired on Indeed; PACU openings are CNA/admin/manager only",
   "careers": "https://www.elcaminohealth.org/careers"
  },
  {
@@ -458,7 +458,7 @@
   "area": "Peninsula",
   "drive": 27,
   "toll": "",
-  "units": "County hospital. OR, PACU, Endoscopy (no L&D postings seen). 11/13: governmentjobs.com robots-blocked; not checked",
+  "units": "County hospital. OR, PACU, Endoscopy (no L&D postings seen). 11/15: governmentjobs.com robots-blocked; Indeed's PACU search still lists the Perioperative Relief Nurse (Open), no date; a 'Perioperative Nurse - Operating Room (Open & Promotional)' print page (4864597) appears in search results but could not be read",
   "careers": "https://www.governmentjobs.com/careers/sanmateo"
  },
  {
@@ -491,7 +491,7 @@
   "area": "East Bay",
   "drive": 45,
   "toll": "Bay Bridge",
-  "units": "Pre-op/PACU and Phase II recovery, endoscopy, ambulatory surgery, OR; L&D and NICU (birth center; no open posting). 11/14: Tenet's San Ramon Regional list (26 jobs, newest first, stamped 11/14 9:01 AM) page 1 shows RN posts for ER, ICU (2 PRN), Observation, FT Operating Room and FT Ambulatory Surgery; page 2 could not be paged to. Indeed's per diem 'RN - Ambulatory Surgery' and 'RN Recovery' cards and ZipRecruiter's 'PreOp/GI' and Indeed's 'PreOp/PACU ASC' results are old posts not on Tenet's list",
+  "units": "Pre-op/PACU and Phase II recovery, endoscopy, ambulatory surgery, OR; L&D and NICU (birth center; no open posting). 11/15: Tenet's San Ramon 'Registered Nurses' list (10 jobs, stamped 11/15 9:00 AM) = ER, ICU (2 PRN), Observation PRN, FT Operating Room, FT Ambulatory Surgery, FT Ambulatory OR RN, Employee Health and two supervisor posts; no PACU, recovery, pre-op or GI RN. Indeed's per diem 'RN - Ambulatory Surgery' (jk d143652d833d8342) and 'RN Recovery' (jk 3ad71eba9a460eca; Glassdoor jl=1010179347619) cards are old posts not on Tenet's list, and their Tenet pages return errors",
   "careers": "https://jobs.tenethealth.com/location/san-ramon-jobs/30315/6252001-5332921-5392593/4"
  },
  {
@@ -502,7 +502,7 @@
   "area": "Peninsula",
   "drive": 40,
   "toll": "",
-  "units": "GI lab / endoscopy (outpatient). 11/14: USPI's all-jobs facets (11/14) list no Atherton jobs; Indeed's Bay Area 'endoscopy nurse' search still shows the link-less, undated 'Registered Nurse' PRN $68-$72 card (tracked as closed 11/04)",
+  "units": "GI lab / endoscopy (outpatient). 11/15: USPI's all-jobs and nursing facets list no Atherton jobs; Indeed's Bay Area 'endoscopy nurse' search still shows the link-less, undated 'Registered Nurse' PRN $68-$72 card (tracked as closed 11/04)",
   "careers": "https://careers.uspi.com"
  },
  {
@@ -557,7 +557,7 @@
   "area": "SF",
   "drive": 8,
   "toll": "",
-  "units": "Fertility / IVF clinic. 11/13: Spring's Greenhouse board lists an ASC Nurse Manager and an IVF Nurse Manager in SF (management, excluded); no SF staff RN posting",
+  "units": "Fertility / IVF clinic. 11/15: Spring's newest Greenhouse copy lists ASC Nurse Manager and IVF Nurse Manager in SF (management, excluded) plus MA, patient navigator, HR and IT roles; no SF staff RN posting",
   "careers": "https://job-boards.greenhouse.io/springfertility"
  },
  {
@@ -601,7 +601,7 @@
   "area": "East Bay",
   "drive": 25,
   "toll": "Bay Bridge",
-  "units": "Fertility / IVF clinic. 11/14: IVF Nurse Coordinator/ASC Nurse (RN) 4745714005 detail page live with Apply form; other Oakland postings are MA and Patient Navigator (not RN)",
+  "units": "Fertility / IVF clinic. 11/15: IVF Nurse Coordinator/ASC Nurse (RN) 4745714005 on the newest Spring Greenhouse board copy (highest id 4754196005); other Oakland postings are MA and Patient Navigator (not RN)",
   "careers": "https://job-boards.greenhouse.io/springfertility"
  },
  {
@@ -623,7 +623,7 @@
   "area": "SF",
   "drive": 12,
   "toll": "",
-  "units": "Fertility / IVF clinic. 11/14: Glassdoor shows no open Kindbody SF jobs; Indeed lists only a Clinical Manager (RN) - East Bay & SF (management, excluded)",
+  "units": "Fertility / IVF clinic. 11/15: Glassdoor Kindbody SF page says 'No open roles posted here'",
   "careers": "https://boards.greenhouse.io/kindbody"
  },
  {
@@ -645,7 +645,7 @@
   "area": "SF",
   "drive": 8,
   "toll": "",
-  "units": "Fertility / IVF clinic. 11/14: Prelude's own career page lists only a Patient Concierge PRN in SF; a Fertility Clinic Manager (excluded) is on Indeed/Glassdoor; no RN posting",
+  "units": "Fertility / IVF clinic. 11/15: only a Fertility Clinic Manager (Prelude/PFC, management) on Glassdoor, Indeed and ZipRecruiter; no RN posting",
   "careers": "https://www.preludefertility.com/about-us/careers/opportunities"
  },
  {
@@ -733,7 +733,7 @@
   "area": "SF",
   "drive": 12,
   "toll": "",
-  "units": "Fertility / IVF clinic with surgery center. 11/14: Glassdoor/Indeed show the Temporary Surgical Center Nurse and an Embryology Lab Assistant; no permanent RN posting seen",
+  "units": "Fertility / IVF clinic with surgery center. 11/15: Indeed and ZipRecruiter show only the Temporary Surgical Center Nurse as an RN role; no permanent RN posting seen",
   "careers": "https://www.ziprecruiter.com/co/Ivi-Rma-North-America/Jobs/-in-San-Francisco,CA"
  },
  {
@@ -744,7 +744,7 @@
   "area": "Peninsula",
   "drive": 40,
   "toll": "",
-  "units": "Fertility / IVF clinic",
+  "units": "Fertility / IVF clinic. 11/15: Glassdoor shows only an Advanced Practice Provider - NP or PA (excluded); no RN posting",
   "careers": "https://www.ziprecruiter.com/co/Ivi-Rma-North-America/Jobs/-in-San-Francisco,CA"
  },
  {
@@ -766,7 +766,7 @@
   "area": "Peninsula",
   "drive": 38,
   "toll": "",
-  "units": "Fertility / IVF clinic with surgery center. 11/14: Glassdoor lists Surgery Center Staff Nurse (per diem) and IVF Nurse Coordinator plus scrub tech, MA and patient access roles (not tracked)",
+  "units": "Fertility / IVF clinic with surgery center. 11/15: Glassdoor, Indeed and ZipRecruiter list Surgery Center Staff Nurse (per diem) and IVF Nurse Coordinator; no other RN posting seen",
   "careers": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbe7daa8-84e2-4a18-b126-7b6b376c7982&ccId=19000101_000001&lang=en_US"
  },
  {
@@ -777,7 +777,7 @@
   "area": "East Bay",
   "drive": 45,
   "toll": "Bay Bridge",
-  "units": "Fertility / IVF clinic with surgery center. 11/14: freehire US Fertility list shows IVF RN Case Manager and OR/PACU RN Per Diem (Float) open, plus LVN IVF Case Manager, MA, Clinical Manager and lab supervisor (not tracked)",
+  "units": "Fertility / IVF clinic with surgery center. 11/15: freehire US Fertility list shows IVF RN Case Manager and OR/PACU RN Per Diem (Float) open, plus LVN IVF Case Manager, MA, Clinical Manager and lab supervisor (not tracked)",
   "careers": "https://www.usfertility.com/careers"
  },
  {
@@ -788,7 +788,7 @@
   "area": "Peninsula",
   "drive": 28,
   "toll": "",
-  "units": "Fertility / IVF clinic. 11/14: no San Mateo RN on freehire's US Fertility list (only MA/Patient Services Specialist); Indeed still carries a stale copy of the closed IVF RN Case Manager",
+  "units": "Fertility / IVF clinic. 11/15: no San Mateo RN on freehire's full US Fertility list (only MA/Patient Services Specialist); ZipRecruiter still shows stale IVF RN Case Manager copies",
   "careers": "https://www.usfertility.com/careers"
  },
  {
@@ -810,7 +810,7 @@
   "area": "Peninsula",
   "drive": 38,
   "toll": "",
-  "units": "Fertility / IVF clinic with surgery center. 11/14: freehire US Fertility list shows full-time, part-time and alternating-weekend OR/PACU RN open; OR/PACU LVN and Clinical Manager not tracked",
+  "units": "Fertility / IVF clinic with surgery center. 11/15: freehire US Fertility list shows full-time, part-time and alternating-weekend OR/PACU RN open; Clinical Manager (Menlo Park/San Mateo) not tracked",
   "careers": "https://www.usfertility.com/careers"
  },
  {
@@ -854,7 +854,7 @@
   "area": "South Bay",
   "drive": 55,
   "toll": "",
-  "units": "Fertility / IVF clinic. 11/14: Stanford Children's Sunnyvale list (8 jobs) has only Patient Care Manager REI Clinic (management), NP/PA/CNM OBG Fertility Services, REI Sonographer and IVF Lab Supervisor; no staff RN posting",
+  "units": "Fertility / IVF clinic. 11/15: Glassdoor shows only NP/PA/CNM OBG Fertility Services (Sunnyvale); no staff RN posting",
   "careers": "https://careers.stanfordchildrens.org/location/sunnyvale-jobs/47520/6252001-5332921-5400075/4"
  },
  {
@@ -865,7 +865,7 @@
   "area": "East Bay",
   "drive": 45,
   "toll": "Bay Bridge",
-  "units": "Fertility / IVF clinic. 11/14: no San Ramon city in the fresh US nursing list facets",
+  "units": "Fertility / IVF clinic. 11/15: no San Ramon city in the US nursing list or California all-jobs facets",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -876,7 +876,7 @@
   "area": "East Bay",
   "drive": 50,
   "toll": "San Mateo Bridge",
-  "units": "Fertility / IVF clinic. 11/14: fresh Fremont nursing list (8:59 AM) = 2: NP II and per diem Nursing House Supervisor; Fremont all-jobs location list (copy 11/12 9:00 PM, 15 jobs) has no IVF/fertility posting; the 'Staff Nurse II - IVF Clinic' lead was not found on any Kaiser list, Glassdoor or Indeed page read today",
+  "units": "Fertility / IVF clinic. 11/15: Fremont = 2 on the US nursing list (NP II, per diem house supervisor); Fremont location list copy (11/7, 15 jobs) has no IVF/fertility posting; an old SF In-Vitro on-call posting from search fails at the site",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -909,7 +909,7 @@
   "area": "East Bay",
   "drive": 50,
   "toll": "Bay Bridge",
-  "units": "Outpatient OB/GYN clinic. 11/14: no Pleasanton or Dublin city in the fresh US nursing list facets (Dublin nursing list shows 0)",
+  "units": "Outpatient OB/GYN clinic. 11/15: no Pleasanton city in the US nursing list facets (Pleasanton has 54 jobs in other categories on the California all-jobs list; its location list was refused)",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -975,7 +975,7 @@
   "area": "East Bay",
   "drive": 55,
   "toll": "Bay Bridge",
-  "units": "L&D, NICU, OR, endoscopy (inpatient hospital). 11/12: no NorthBay list or job page readable (Glassdoor job pages not allowed; ZipRecruiter NorthBay company pages, Glassdoor and Indeed NorthBay searches gave client_error)",
+  "units": "L&D, NICU, OR, endoscopy (inpatient hospital). 11/15: Glassdoor's NorthBay list (35 jobs) shows per diem L&D and NICU day jobs (4d) and part-time day and night OR jobs (30d+); no PACU, endoscopy, mother-baby or pre-op RN; NorthBay's jobs.net site robots-blocked, ZipRecruiter errored",
   "careers": "https://www.glassdoor.com/Jobs/NorthBay-Health-Clinical-nurse-ii-Jobs-EI_IE121907.0,15_KO16,33.htm"
  },
  {
@@ -1008,7 +1008,7 @@
   "area": "East Bay",
   "drive": 25,
   "toll": "Bay Bridge",
-  "units": "GI lab / endoscopy (outpatient ASC, 300 Frank Ogawa Plaza). 11/14: a per diem pre/intra/post-procedure endoscopy RN card is back on Indeed under the employer name 'Oakland CA Endoscopy ASC LP' (jk 0c0bb846266f719d, from $55/hr); its page could not be opened",
+  "units": "GI lab / endoscopy (outpatient ASC, 300 Frank Ogawa Plaza). 11/15: the per diem pre/intra/post-procedure endoscopy RN is on Indeed's East Bay 'endoscopy RN' search under 'Oakland CA Endoscopy ASC LP' (jk 0c0bb846266f719d, from $55/hr) and on talents.vaia.com (AmSurg) with Apply Now",
   "careers": "https://www.simplyhired.com/job/yXlEyv6jaA0vZ9_91yR5BjhkJXj60YlD-451O5prHURAPRCKH9QLmA"
  },
  {
@@ -1063,7 +1063,7 @@
   "area": "East Bay",
   "drive": 40,
   "toll": "Bay Bridge",
-  "units": "Pre-op/PACU, OR (outpatient multi-specialty ASC). 11/14: USPI facets show Bass = 3 and Walnut Creek = 3, none in the nursing category; the PRE-OP/PACU RN (req 97285) is gone, though an undated Indeed card (jk e90692167fe6c463) lingers",
+  "units": "Pre-op/PACU, OR (outpatient multi-specialty ASC). 11/15: USPI's Walnut Creek list (3 jobs, stamped 11/15) = Radiology Technologist, Surgical Scrub Tech PRN and Business Office Coordinator; no RN",
   "careers": "https://careers.uspi.com"
  },
  {
@@ -1085,7 +1085,7 @@
   "area": "East Bay",
   "drive": 35,
   "toll": "Bay Bridge",
-  "units": "Pre-op/PACU and OR sedation nursing (outpatient vascular surgery; Indeed employer name 'Vascular Surgery', San Leandro 94578). 11/14: Indeed 'endoscopy nurse' Bay Area search shows two link-less, undated cards: PACU RN (per diem, $55-$75/hr) and OR Sedation Nurse (per diem days, $65-$85/hr)",
+  "units": "Pre-op/PACU and OR sedation nursing (outpatient vascular surgery; Indeed employer name 'Vascular Surgery', San Leandro 94578). 11/15: Indeed 'endoscopy nurse' Bay Area search still shows link-less, undated cards: PACU RN (per diem, $55-$75/hr, two copies) and OR Sedation Nurse (per diem days, $65-$85/hr)",
   "careers": "https://www.indeed.com/q-endoscopy-nurse-l-san-francisco-bay-area,-ca-jobs.html"
  },
  {
@@ -1096,7 +1096,7 @@
   "area": "Peninsula",
   "drive": 25,
   "toll": "",
-  "units": "Outpatient OB/GYN clinic. 11/14: San Mateo not in the fresh US nursing list's City facet",
+  "units": "Outpatient OB/GYN clinic. 11/15: San Mateo not in the US nursing list facets (2 jobs in other categories on the California all-jobs list)",
   "careers": "https://www.kaiserpermanentejobs.org"
  },
  {
@@ -1140,7 +1140,7 @@
   "area": "East Bay",
   "drive": 40,
   "toll": "Bay Bridge",
-  "units": "GI lab / endoscopy, pre-op/PACU. 11/14: USPI job page for the FT Registered Nurse (PreOp/PACU, req 97303, posted 11/02) loads with Apply; facets show Bay Area Endoscopy Center = 1",
+  "units": "GI lab / endoscopy, pre-op/PACU. 11/15: USPI's Bay Area Endoscopy Center facility list (stamped 11/15 9:00 AM) shows one job, the FT Registered Nurse (PreOp/PACU, req 97303); an older 'GI Registered Nurse' page (87009-147, posted 4/02) still renders with Apply Now but is not on the list",
   "careers": "https://careers.uspi.com/search-jobs"
  },
  {
@@ -1173,7 +1173,7 @@
   "area": "East Bay",
   "drive": 40,
   "toll": "Bay Bridge",
-  "units": "Pediatric outpatient surgery: PACU",
+  "units": "Pediatric outpatient surgery: PACU. 11/15: Indeed still lists 'Registered Nurse PD - PACU (BCH-Walnut Creek)' (jk 738afe115b309564); Oakland PACU postings 3908/3901 list Walnut Creek as campus 2; Credenza's 'Multispecialty Ambulatory Clinic' RN (Walnut Creek) is a clinic role",
   "careers": "https://careers.ucsf.edu"
  },
  {
