@@ -3308,5 +3308,53 @@
     "url": "https://www.governmentjobs.com/careers/contracosta"
    }
   ]
+ },
+ {
+  "date": "2026-11-16",
+  "ranAt": "2026-11-16T14:15:18+00:00",
+  "summary": "1 new openings, 0 of them strong or worth applying. 0 closed. Quiet day; most employer job sites still refused checks.",
+  "addedCount": 1,
+  "closedCount": 0,
+  "added": [
+   {
+    "id": "TENET-2603028789",
+    "title": "Registered Nurse (RN) - Ambulatory Surgery (0.8 FTE)",
+    "facilityName": "San Ramon Regional Medical Center",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "21 Sutter jobs couldn't be checked, incl. Pleasanton pre-op/PACU, both maternal-fetal medicine clinic jobs and the Oakland oncology surgery center. Leads: Alta Bates Summit pre/post-op, a CPMC Davies RN job with no unit named",
+    "why": "Sutter's job site refused the check for the 27th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "500P Pre-Post Care (strong) and Tri-Valley PACU per diem couldn't be checked",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "UCSF Ambulatory OB (strong fit)",
+    "covers": "Indeed still shows a card for UCSF 'Registered Nurse - Ambulatory OB'; it couldn't be confirmed. Check UCSF's site by hand",
+    "why": "UCSF's job feed and job pages refuse the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "MarinHealth, John Muir, El Camino, county hospitals",
+    "covers": "Both MarinHealth LDRP nights jobs, Contra Costa L&D/nursery/postpartum and San Mateo perioperative relief couldn't be checked; El Camino NICU and Contra Costa jobs rest on old board copies",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Highland and UCSF Oakland",
+    "covers": "9 jobs couldn't be checked (Highland per diem OB and cath lab, several UCSF Oakland NICU/OR jobs)",
+    "why": "Alameda Health's portal and UCSF's job pages refused the check",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   }
+  ]
  }
 ]
