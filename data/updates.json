@@ -3356,5 +3356,89 @@
     "url": "https://www.alamedahealthsystem.org/careers/"
    }
   ]
+ },
+ {
+  "date": "2026-11-17",
+  "ranAt": "2026-11-17T14:18:11+00:00",
+  "summary": "6 new openings, 4 of them strong or worth applying. 1 closed. Sutter's job site refused the check again, so 19 Sutter jobs couldn't be re-checked; UCSF, Highland, MarinHealth and El Camino pages also refused.",
+  "addedCount": 6,
+  "closedCount": 1,
+  "added": [
+   {
+    "id": "SHCTV-R2659856",
+    "title": "Registered Nurse (RN) PreOp/PACU Full Time Days",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "strong"
+   },
+   {
+    "id": "LPCH-103401693856",
+    "title": "Relief Clinical Nurse II - ABL, REI Clinic",
+    "facilityName": "Stanford Fertility",
+    "fit": "strong"
+   },
+   {
+    "id": "sutter-RNJ-300227480",
+    "title": "Ambulatory Services RN II, Preop/PACU Per Diem",
+    "facilityName": "Sutter PAMF Los Altos (outpatient pre-op/PACU)",
+    "fit": "possible"
+   },
+   {
+    "id": "WHHS-oBR3AfwP",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1443287",
+    "title": "Staff Nurse II - Operating Room",
+    "facilityName": "Kaiser Richmond",
+    "fit": "stretch"
+   },
+   {
+    "id": "LPCH-P143856-1946",
+    "title": "Clinical Nurse II, Post Anesthesia Care Unit",
+    "facilityName": "Lucile Packard Children's Stanford",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "AHS-GD1010295994902",
+    "title": "Clinical Nurse II - Pre/Post Cath Lab (Per Diem, Nights)",
+    "facilityName": "Highland Hospital"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "19 Sutter jobs couldn't be checked, incl. CPMC pre-registration, Eden nursery, Oakland oncology pre-op/PACU and both maternal-fetal medicine clinic jobs. Four of them (CPMC surgery and NICU, Eden nursery, Novato OR) are missing from every copy of Sutter's list, so they may be gone",
+    "why": "Sutter's job site refused the check for the 28th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Highland and UCSF Oakland",
+    "covers": "8 jobs couldn't be checked, incl. Highland per diem OB (strong) and cath lab, and several UCSF Oakland, Walnut Creek and Mission Bay NICU/OR/PACU jobs. UCSF Ambulatory OB (strong) still shows on Indeed but not on any live page",
+    "why": "Alameda Health's portal and UCSF's job pages refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "MarinHealth, El Camino, Chinese Hospital, San Mateo",
+    "covers": "Both MarinHealth LDRP nights jobs, all three El Camino NICU jobs, Chinese Hospital same-day surgery (GI) and San Mateo perioperative relief couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "OBGYN Gynecology Multi-Site and Interventional Endoscopy weren't found anywhere today",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Spring Fertility, Vista and NorCal Ortho surgery centers",
+    "covers": "Spring Fertility Oakland IVF nurse and the Vista and NorCal Ortho pre-op/PACU jobs couldn't be re-checked",
+    "why": "Spring's site refused the check and the Indeed pages that carry the other two failed",
+    "url": "https://www.springfertility.com/careers"
+   }
+  ]
  }
 ]
