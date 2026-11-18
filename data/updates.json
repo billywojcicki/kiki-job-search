@@ -3440,5 +3440,87 @@
     "url": "https://www.springfertility.com/careers"
    }
   ]
+ },
+ {
+  "date": "2026-11-18",
+  "ranAt": "2026-11-18T14:26:53+00:00",
+  "summary": "4 new openings, 3 of them strong or worth applying. 3 closed. Sutter's job site refused the check for the 29th day, and job boards served only old copies, so many Sutter and surgery center jobs couldn't be re-checked.",
+  "addedCount": 4,
+  "closedCount": 3,
+  "added": [
+   {
+    "id": "JMH-JR0018065",
+    "title": "RN - Ambulatory Clinic - Specialty - Per Diem - 8 Hour - Days",
+    "facilityName": "John Muir Health Pleasant Hill clinic",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-145127",
+    "title": "Ambulatory Services Nurse II, PACU",
+    "facilityName": "Sutter PAMF Mountain View (ambulatory surgery)",
+    "fit": "possible"
+   },
+   {
+    "id": "ECH-CZ-169896079",
+    "title": "Clinical Nurse II - 0.9 - Nights - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "possible"
+   },
+   {
+    "id": "ECH-CZ-169911898",
+    "title": "Clinical Nurse II - FT - Days - Operating Room - 2A East @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "TENET-2603016285",
+    "title": "Ambulatory OR RN",
+    "facilityName": "San Ramon Regional Medical Center"
+   },
+   {
+    "id": "kp-1441857",
+    "title": "Staff Nurse II - L&D",
+    "facilityName": "Kaiser Oakland"
+   },
+   {
+    "id": "sutter-RNJ-787083211",
+    "title": "Ambulatory Services Nurse II, PreOp/PACU",
+    "facilityName": "Sutter Health Pleasanton (PAMF ambulatory surgery)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "24 Sutter jobs couldn't be checked, incl. CPMC Mom and Baby and pre-registration, Eden nursery, Oakland oncology pre-op/PACU and both maternal-fetal medicine clinic jobs (all strong). Four (CPMC surgery and NICU, Eden nursery, Novato OR) have been missing from every copy of Sutter's list for two days",
+    "why": "Sutter's job site refused the check for the 29th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "26 surgery and endoscopy center jobs couldn't be re-checked, incl. NorthBay per diem L&D and NICU (strong), Surgery Center of Oakland, Pacific Heights, Soar, East Bay Endosurgery and Vista",
+    "why": "Glassdoor, Indeed and ZipRecruiter only served copies from September and October",
+    "url": "https://www.glassdoor.com/Job/san-francisco-pre-op-pacu-nurse-jobs-SRCH_IL.0,13_IC1147401_KO14,33.htm"
+   },
+   {
+    "name": "MarinHealth, El Camino, Contra Costa, Washington",
+    "covers": "Both MarinHealth LDRP nights jobs, El Camino's three NICU jobs and per diem days L&D, all three Contra Costa jobs (incl. L&D/nursery/postpartum), San Mateo perioperative relief, and two Washington L&D nights jobs that dropped off its list",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Highland and UCSF Oakland",
+    "covers": "Highland per diem OB (strong) and three UCSF Oakland/Walnut Creek NICU and PACU jobs couldn't be checked. UCSF Ambulatory OB (strong) still shows on Indeed but not on any live page",
+    "why": "Alameda Health's portal and UCSF's job pages refused the check",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "OBGYN Gynecology Multi-Site and Interventional Endoscopy haven't been found for nearly two weeks",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   }
+  ]
  }
 ]
