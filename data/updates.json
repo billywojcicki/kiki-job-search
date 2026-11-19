@@ -3522,5 +3522,104 @@
     "url": "https://careers.stanfordhealthcare.org"
    }
   ]
+ },
+ {
+  "date": "2026-11-19",
+  "ranAt": "2026-11-19T14:16:45+00:00",
+  "summary": "6 new openings, 4 of them strong or worth applying. 4 closed. UCSF Ambulatory OB (strong, full-time) is open again on UCSF's site. Sutter's job site refused the check again and job boards served only old copies, so many Sutter and surgery center jobs couldn't be re-checked.",
+  "addedCount": 6,
+  "closedCount": 4,
+  "added": [
+   {
+    "id": "kp-1459612",
+    "title": "Staff Nurse II SH (In-Vitro Fertilization, On-Call)",
+    "facilityName": "Kaiser San Francisco (Geary)",
+    "fit": "possible"
+   },
+   {
+    "id": "kp-1459593",
+    "title": "Staff Nurse II (In-Vitro Fertilization, On-Call)",
+    "facilityName": "Kaiser San Francisco (Geary)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-RNJ-300385887",
+    "title": "Ambulatory Services Nurse II, PACU Admissions Per Diem",
+    "facilityName": "Sutter PAMF San Carlos (Gastroenterology)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-RNJ-300329351",
+    "title": "Ambulatory Services RN II, Preop/PACU Per Diem",
+    "facilityName": "Sutter PAMF Los Altos (outpatient pre-op/PACU)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-CRZ-169913432",
+    "title": "Staff Nurse II, PACU",
+    "facilityName": "CPMC Van Ness",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-RNJ-300385915",
+    "title": "Staff Nurse II, Operating Room",
+    "facilityName": "Mills-Peninsula Medical Center",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "SHC-JS-95dcee0b70c9",
+    "title": "Clinical Nurse II (RN) - OBGYN Gynecology Multi-Site - Full Time",
+    "facilityName": "Stanford Hospital"
+   },
+   {
+    "id": "WHHS-oIqYAfwq",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital"
+   },
+   {
+    "id": "WHHS-oJqYAfwr",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital"
+   },
+   {
+    "id": "sutter-R-132169",
+    "title": "Staff Nurse II, Surgery",
+    "facilityName": "CPMC Van Ness"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "21 Sutter jobs couldn't be checked, incl. San Carlos GI, CPMC pre-registration, Eden nursery, Oakland oncology pre-op/PACU and both maternal-fetal medicine clinic jobs (all strong)",
+    "why": "Sutter's job site refused the check for the 30th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "29 surgery and endoscopy center jobs couldn't be re-checked, incl. NorthBay per diem L&D and NICU (strong), Surgery Center of Oakland, Pacific Heights, Soar, East Bay Endosurgery, Vista and Fremont Surgery Center",
+    "why": "Glassdoor, Indeed and ZipRecruiter served only September and October copies for the second day, and the centers' own sites refused the check",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "MarinHealth, El Camino, Washington Hospital",
+    "covers": "Both MarinHealth LDRP nights jobs, El Camino's three NICU jobs and per diem days L&D, and two Washington L&D nights jobs couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "500P Pre-Post Care (strong), Tri-Valley NICU days and OBGYN Gynecology Multi-Site couldn't be checked",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Highland Hospital",
+    "covers": "Per diem Obstetrics (strong) couldn't be confirmed; it has been unseen on a live page since Nov 11",
+    "why": "Alameda Health's portal refused the check",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   }
+  ]
  }
 ]
