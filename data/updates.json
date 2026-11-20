@@ -3621,5 +3621,108 @@
     "url": "https://www.alamedahealthsystem.org/careers/"
    }
   ]
+ },
+ {
+  "date": "2026-11-20",
+  "ranAt": "2026-11-20T14:18:49+00:00",
+  "summary": "6 new openings, 4 of them strong or worth applying. 6 closed. Sutter's job site refused the check again and job boards served only old copies for the third day, so many Sutter and surgery center jobs couldn't be re-checked.",
+  "addedCount": 6,
+  "closedCount": 6,
+  "added": [
+   {
+    "id": "PFC-CZ-169916876",
+    "title": "PRN RN Registered Nurse, Women's Health",
+    "facilityName": "Pacific Fertility Center SF",
+    "fit": "strong"
+   },
+   {
+    "id": "kp-1459537",
+    "title": "Staff Nurse II SH (OB/GYN Clinic, On-Call)",
+    "facilityName": "Kaiser Redwood City",
+    "fit": "strong"
+   },
+   {
+    "id": "sutter-R-146322",
+    "title": "Staff Nurse II, NICU",
+    "facilityName": "Alta Bates (Berkeley campus)",
+    "fit": "possible"
+   },
+   {
+    "id": "SURGPART-4487547009",
+    "title": "RN (PreOp, OR, PACU) - Surgery Partners, Walnut Creek",
+    "facilityName": "Surgery Partners Walnut Creek (surgery center)",
+    "fit": "possible"
+   },
+   {
+    "id": "ucsf-ora11080",
+    "title": "Registered Nurse - NICU (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland",
+    "fit": "stretch"
+   },
+   {
+    "id": "SHC-R2661542",
+    "title": "Clinical Nurse (RN) - Operating Room: Ortho/Neuro (Full-Time/1.0 FTE, 10-Hour Rotating Shifts, Call/Scrub Required)",
+    "facilityName": "Stanford Hospital",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "AHS-GD1010295994903",
+    "title": "Clinical Nurse II - Obstetrics (Per Diem)",
+    "facilityName": "Highland Hospital"
+   },
+   {
+    "id": "ECH-CZ-169790557",
+    "title": "Clinical Nurse II - 0.8 - Days - Nursery - Intensive Care @ MV",
+    "facilityName": "El Camino Hospital"
+   },
+   {
+    "id": "SHC-CB-c3e1c7ec9566",
+    "title": "Clinical Nurse II (RN) - Interventional Endoscopy (1.0 FTE, 10-Hour Day Shifts, Call Required)",
+    "facilityName": "Stanford Hospital"
+   },
+   {
+    "id": "TENET-2603028789",
+    "title": "Registered Nurse (RN) - Ambulatory Surgery (0.8 FTE)",
+    "facilityName": "San Ramon Regional Medical Center"
+   },
+   {
+    "id": "WHHS-od0PAfwm",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital"
+   },
+   {
+    "id": "kp-1443455",
+    "title": "Staff Nurse II - Labor & Delivery Float Pool",
+    "facilityName": "Kaiser Oakland"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "19 Sutter jobs couldn't be checked, incl. San Carlos GI, CPMC pre-registration, Eden nursery, Oakland oncology pre-op/PACU and both maternal-fetal medicine clinic jobs (all strong)",
+    "why": "Sutter's job site refused the check for the 31st day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "26 surgery and endoscopy center jobs couldn't be re-checked, incl. NorthBay per diem L&D and NICU (strong), Surgery Center of Oakland, Pacific Heights, Soar, East Bay Endosurgery and Vista",
+    "why": "Glassdoor, Indeed and ZipRecruiter served only September and October copies for the third day, and the centers' own sites refused the check",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "MarinHealth, El Camino, Contra Costa, San Mateo",
+    "covers": "Both MarinHealth LDRP nights jobs, El Camino's per diem days L&D and two NICU jobs, Contra Costa's three jobs and San Mateo perioperative relief couldn't be checked. Three MarinHealth Indeed cards (PACU, surgery, OB/GYN lactation) couldn't be confirmed",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "500P Pre-Post Care (strong) couldn't be checked for the second day, plus four other Stanford jobs",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   }
+  ]
  }
 ]
