@@ -3724,5 +3724,120 @@
     "url": "https://careers.stanfordhealthcare.org"
    }
   ]
+ },
+ {
+  "date": "2026-11-21",
+  "ranAt": "2026-11-21T14:27:01+00:00",
+  "summary": "7 new openings, 3 of them strong or worth applying. 6 closed. El Camino pulled all five Mountain View L&D postings. Sutter's job site refused the check again and job boards served only old copies for the fourth day, so many Sutter and surgery center jobs couldn't be re-checked.",
+  "addedCount": 7,
+  "closedCount": 6,
+  "added": [
+   {
+    "id": "kp-1459578",
+    "title": "Staff Nurse II (Temporary) - General Surgery Outpatient",
+    "facilityName": "Kaiser Redwood City",
+    "fit": "possible"
+   },
+   {
+    "id": "TENET-2603028494",
+    "title": "Registered Nurse (RN) - L&D",
+    "facilityName": "San Ramon Regional Medical Center",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-R-146943",
+    "title": "Ambulatory Services Nurse I, PreOp & PACU",
+    "facilityName": "Sutter PAMF Mountain View (ambulatory surgery)",
+    "fit": "possible"
+   },
+   {
+    "id": "sutter-RNJ-300426645",
+    "title": "Staff Nurse II, OR",
+    "facilityName": "CPMC Mission Bernal",
+    "fit": "stretch"
+   },
+   {
+    "id": "ucsf-cz169788238",
+    "title": "Registered Nurse- Preop/PACU",
+    "facilityName": "UCSF Peninsula Outpatient Surgery",
+    "fit": "stretch"
+   },
+   {
+    "id": "sutter-R-146737",
+    "title": "Ambulatory Services Nurse II, Operating Room",
+    "facilityName": "Sutter PAMF Los Altos (outpatient pre-op/PACU)",
+    "fit": "stretch"
+   },
+   {
+    "id": "ECH-CZ-169920729",
+    "title": "Clinical Nurse II - FT - Days - Operating Room - 2A East @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "ECH-CZ-169896079",
+    "title": "Clinical Nurse II - 0.9 - Nights - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital"
+   },
+   {
+    "id": "ECH-R00017889",
+    "title": "Clinical Nurse II - 0.8 - Days - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital"
+   },
+   {
+    "id": "ECH-R00017891",
+    "title": "Clinical Nurse II - PD - Days - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital"
+   },
+   {
+    "id": "ECH-R00017892",
+    "title": "Clinical Nurse II - PD - Nights - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital"
+   },
+   {
+    "id": "ECH-R00017994",
+    "title": "Clinical Nurse II - PD - Nights - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital"
+   },
+   {
+    "id": "LPCH-P143856-1946",
+    "title": "Clinical Nurse II, Post Anesthesia Care Unit",
+    "facilityName": "Lucile Packard Children's Stanford"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "22 Sutter jobs couldn't be checked, incl. San Carlos GI, CPMC pre-registration, Eden nursery, Oakland oncology pre-op/PACU and both maternal-fetal medicine clinic jobs (all strong). CPMC Van Ness pre-op/PACU and the Novato 36-hr OR job dropped off registerednurse.jobs today",
+    "why": "Sutter's job site refused the check for the 32nd day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "26 surgery and endoscopy center jobs couldn't be re-checked, incl. NorthBay per diem L&D and NICU (strong), Surgery Center of Oakland, Pacific Heights, Soar, East Bay Endosurgery and Vista. They'll age off the list around Dec 1 unless a board shows them again",
+    "why": "Glassdoor, Indeed and ZipRecruiter served only old copies or errors for the fourth day, and the centers' own sites refused the check",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "UCSF and Highland",
+    "covers": "11 UCSF and Alameda Health jobs couldn't be re-checked today",
+    "why": "UCSF's job pages and feeds and Alameda Health's portal refused the check",
+    "url": "https://careers.ucsf.edu"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "500P Pre-Post Care (strong) couldn't be checked for the third day, plus five other Stanford jobs",
+    "why": "Stanford's job site refused the check",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "MarinHealth, El Camino, San Mateo",
+    "covers": "Both MarinHealth LDRP nights jobs, El Camino's two NICU jobs and San Mateo perioperative relief couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   }
+  ]
  }
 ]
