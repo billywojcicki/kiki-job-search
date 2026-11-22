@@ -3839,5 +3839,76 @@
     "url": "https://www.mymarinhealth.org/careers"
    }
   ]
+ },
+ {
+  "date": "2026-11-22",
+  "ranAt": "2026-11-22T14:10:14+00:00",
+  "summary": "3 new openings, 3 of them strong or worth applying. 2 closed. Sutter's and Stanford's job sites refused the check again and job boards served only old copies for the fifth day, so many jobs couldn't be re-checked.",
+  "addedCount": 3,
+  "closedCount": 2,
+  "added": [
+   {
+    "id": "EVERLEAP-ZR8aabf7a137a5a562",
+    "title": "Registered Nurse",
+    "facilityName": "Everleap Fertility SF (formerly RMA)",
+    "fit": "strong"
+   },
+   {
+    "id": "ucsf-ora12119",
+    "title": "Registered Nurse-OBGYN-Fertility-Center for Reproductive Health (Float)",
+    "facilityName": "UCSF Center for Reproductive Health",
+    "fit": "possible"
+   },
+   {
+    "id": "WHHS-oPO6Afw3",
+    "title": "Staff Nurse II - Short Stay Unit - Full Time - 8hr - 1100-1900 - AM Variable Shifts",
+    "facilityName": "Washington Hospital",
+    "fit": "possible"
+   }
+  ],
+  "closed": [
+   {
+    "id": "WHHS-oBR3AfwP",
+    "title": "Staff Nurse II - Birthing Center, Labor and Delivery - Full-Time Night Shift",
+    "facilityName": "Washington Hospital"
+   },
+   {
+    "id": "ucsf-4663",
+    "title": "Registered Nurse - Pediatric Critical Care Float Pool (BCH-Oakland)",
+    "facilityName": "UCSF Benioff Children's Oakland"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "27 Sutter jobs couldn't be checked, incl. San Carlos GI, CPMC pre-registration, Eden nursery, Oakland oncology pre-op/PACU and both maternal-fetal medicine clinic jobs (all strong), Fremont and Golden Gate endoscopy, CPMC Van Ness pre-op/PACU and the Novato 36-hr OR job",
+    "why": "Sutter's job site refused the check for the 33rd day, and the mirror sites only partly loaded",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "26 surgery and endoscopy center jobs couldn't be re-checked, incl. NorthBay per diem L&D and NICU (strong), Surgery Center of Oakland, Pacific Heights, Soar, East Bay Endosurgery and Vista. They'll age off the list around Dec 1 unless a board shows them again",
+    "why": "Glassdoor, Indeed and ZipRecruiter served only October copies or errors for the fifth day, and the centers' own sites refused the check",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "500P Pre-Post Care (strong) couldn't be checked for the fourth day; 15 other Stanford jobs rest only on old mirror copies",
+    "why": "Stanford's job site refused the check and the freehire.me mirror's Stanford lists stopped updating",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Packard REI clinic",
+    "covers": "The Sunnyvale REI relief job (strong) dropped off Packard's list and the mirror; it may have closed or moved to Packard's new SmartRecruiters board",
+    "why": "Packard's SmartRecruiters board refused the check",
+    "url": "https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth"
+   },
+   {
+    "name": "UCSF, MarinHealth, El Camino",
+    "covers": "7 UCSF jobs, both MarinHealth LDRP nights jobs and El Camino's two NICU jobs couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://careers.ucsf.edu"
+   }
+  ]
  }
 ]
