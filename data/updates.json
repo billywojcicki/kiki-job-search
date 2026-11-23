@@ -3910,5 +3910,78 @@
     "url": "https://careers.ucsf.edu"
    }
   ]
+ },
+ {
+  "date": "2026-11-23",
+  "ranAt": "2026-11-23T14:20:18+00:00",
+  "summary": "1 new openings, 1 of them strong or worth applying. 6 closed. NorthBay's L&D, NICU and OR jobs are gone from its full job lists. Stanford's and Sutter's job sites refused the check again.",
+  "addedCount": 1,
+  "closedCount": 6,
+  "added": [
+   {
+    "id": "AHS-CBHN9df17864",
+    "title": "Clinical Nurse II - Pre/Post Cath Lab (Per Diem, Nights)",
+    "facilityName": "Highland Hospital",
+    "fit": "possible"
+   }
+  ],
+  "closed": [
+   {
+    "id": "LPCH-103401693856",
+    "title": "Relief Clinical Nurse II - ABL, REI Clinic",
+    "facilityName": "Stanford Fertility"
+   },
+   {
+    "id": "NORTHBAY-GD1010105082225",
+    "title": "Clinical Nurse II - Operating Room (Part Time, Night)",
+    "facilityName": "NorthBay Medical Center"
+   },
+   {
+    "id": "NORTHBAY-GD1010121477426",
+    "title": "Clinical Nurse II - NBMC Operating Room (Part Time, Day 1100-1930)",
+    "facilityName": "NorthBay Medical Center"
+   },
+   {
+    "id": "NORTHBAY-GD1010297268891",
+    "title": "Clinical Nurse II - NBMC NICU (Per Diem, Day)",
+    "facilityName": "NorthBay Medical Center"
+   },
+   {
+    "id": "NORTHBAY-GD1010297268899",
+    "title": "Clinical Nurse II - NBMC L&D (Per Diem, Day)",
+    "facilityName": "NorthBay Medical Center"
+   },
+   {
+    "id": "sutter-RNJ-300227480",
+    "title": "Ambulatory Services RN II, Preop/PACU Per Diem",
+    "facilityName": "Sutter PAMF Los Altos (outpatient pre-op/PACU)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Stanford Health Care",
+    "covers": "16 Stanford jobs couldn't be checked, incl. 500P Pre-Post Care (strong, fifth day), Tri-Valley L&D and the seven Tri-Valley pre-op/PACU jobs (strong), last seen on a mirror around Nov 6",
+    "why": "Stanford's job site refused the check and the freehire.me mirror's Stanford lists stopped updating",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "12 Sutter jobs couldn't be checked, incl. CPMC pre-registration, Eden nursery and both maternal-fetal medicine clinic jobs (all strong), Golden Gate and Fremont endoscopy and Novato PACU",
+    "why": "Sutter's job site refused the check for the 34th day",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "22 board-only surgery and endoscopy center jobs couldn't be re-checked (Surgery Center of Oakland, Pacific Heights, Soar, East Bay Endosurgery, Vista and others). They'll age off the list around Dec 1 unless a board shows them again",
+    "why": "Glassdoor, Indeed and ZipRecruiter served only old copies or errors for the sixth day",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "MarinHealth, El Camino, Seton",
+    "covers": "Both MarinHealth LDRP nights jobs and El Camino's two NICU jobs couldn't be checked; El Camino's Mountain View L&D batch hasn't been re-posted anywhere readable",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   }
+  ]
  }
 ]
