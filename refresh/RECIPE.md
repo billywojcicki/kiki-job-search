@@ -88,7 +88,7 @@ B) KAISER
 - A job is open only if all three hold: its page loads; "Submit Interest" links to kp.taleo.net ... job=<number>; and https://www.kaiserpermanentejobs.org/business/custom_fields.reqid/<number>/641/5 shows "1 Job Results". A page that loads but shows 0 there is closed.
 - Backup: Glassdoor Kaiser pages and WebSearch site:kaiserpermanentejobs.org with unit words (results include many stale jobs; verify).
 - Note: Kaiser labels 36 h/wk (0.9) as part-time; record fte.
-- Add a cache-buster (?v=<today digits>) to every Kaiser list, job and reqid URL; without it, copies from earlier days come back.
+- Add a cache-buster (?v=<today digits>) to every Kaiser list, job and reqid URL; without it, copies from earlier days come back. If a cache-busted URL is refused or still stale, adding a second throwaway parameter after it (e.g. &p=1 or &r=2) has gotten today's copy through.
 - The statewide California nursing list (all pages) catches jobs the city lists miss, e.g. Pleasanton medical offices; scan it too. Exclude lactation-only roles that require IBCLC.
 
 C) UCSF + SF GENERAL + ALAMEDA HEALTH
@@ -96,7 +96,7 @@ C) UCSF + SF GENERAL + ALAMEDA HEALTH
 - Detail for unit, FTE, shift, requirements: https://careers.ucsf.edu/careers/JobDetail/x/<id>
 - UCSF campuses: Mission Bay Birth Center (Betty Irene Moore), ICN at Benioff Children's SF, Benioff Children's Oakland NICU and PACU, Bayfront ASC, Stanyan, Hyde, Parnassus, Mount Zion, Peninsula Outpatient Surgery (Burlingame).
 - SF General / SFDPH: https://careers.smartrecruiters.com/cityandcountyofsanfrancisco1/?search=2320 and ?search=registered%20nurse . Status: jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/<id> ("Sorry, this job has expired" = closed). careers.sf.gov role pages show expired jobs as open; don't use them for status. Known continuous postings: the 2320 citywide experienced RN list (H00083) and P103 per diem; also watch for unit-specific 2320 Perinatal / Birth Center / NICU / PACU postings.
-- Alameda Health System (Highland): its site and dejobs mirrors are blocked; check https://www.glassdoor.com/Jobs/Alameda-Health-System-Jobs-E844633.htm and open Oakland "Clinical Nurse" listings for unit and "Job expired". Its OB/NICU openings have mostly been new-grad only (exclude those).
+- Alameda Health System (Highland): its site and dejobs mirrors are blocked; check https://www.glassdoor.com/Jobs/Alameda-Health-System-Jobs-E844633.htm and open Oakland "Clinical Nurse" listings for unit and "Job expired". jobs.yourcbhn.org/companies/alameda-health-system mirrors AHS postings with unit, shift, posted date and an Apply button, and marks closed ones "Applications closed". Its OB/NICU openings have mostly been new-grad only (exclude those).
 - Backup: Credenza SF RN list, newest first: https://credenzahealth.com/jobs/rn/in-san-francisco-ca (and ?page=2, ?page=3; stop once listings are a week old).
 
 D) MARIN, DIGNITY, SETON, OTHERS
