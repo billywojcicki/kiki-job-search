@@ -3983,5 +3983,66 @@
     "url": "https://www.mymarinhealth.org/careers"
    }
   ]
+ },
+ {
+  "date": "2026-11-24",
+  "ranAt": "2026-11-24T14:10:19+00:00",
+  "summary": "0 new openings, 0 of them strong or worth applying. 5 closed. Kaiser Redwood City's OB/GYN clinic and outpatient surgery jobs and El Camino's last NICU jobs closed. Sutter's and Stanford's job sites refused the check again.",
+  "addedCount": 0,
+  "closedCount": 5,
+  "added": [],
+  "closed": [
+   {
+    "id": "ECH-IN-6fff46ae3ec8eb3b",
+    "title": "Clinical Nurse II - 0.8 - Nights - Nursery - Intensive Care @ MV",
+    "facilityName": "El Camino Hospital"
+   },
+   {
+    "id": "ECH-IN-768eed437a720bc8",
+    "title": "Clinical Nurse II - 0.7 - Days - Nursery - Intensive Care @ MV",
+    "facilityName": "El Camino Hospital"
+   },
+   {
+    "id": "kp-1459537",
+    "title": "Staff Nurse II SH (OB/GYN Clinic, On-Call)",
+    "facilityName": "Kaiser Redwood City"
+   },
+   {
+    "id": "kp-1459578",
+    "title": "Staff Nurse II (Temporary) - General Surgery Outpatient",
+    "facilityName": "Kaiser Redwood City"
+   },
+   {
+    "id": "sutter-R-135662",
+    "title": "Staff Nurse II, Nursery",
+    "facilityName": "Sutter Eden Medical Center"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "52 of 60 Sutter jobs couldn't be confirmed today, incl. both maternal-fetal medicine clinic jobs, CPMC Mom and Baby and Golden Gate and Fremont endoscopy. Most were last confirmed Nov 23",
+    "why": "Sutter's job site refused the check for the 35th day, and the registerednurse.jobs mirror refused after a few pages",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "16 Stanford jobs couldn't be checked, incl. 500P Pre-Post Care (strong, sixth day), Tri-Valley L&D and six Tri-Valley pre-op/PACU jobs (strong)",
+    "why": "Stanford's job site refused the check and the freehire.me mirror's Stanford lists stopped updating",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "22 board-only surgery and endoscopy center jobs couldn't be re-checked (Surgery Center of Oakland, Pacific Heights, Soar, East Bay Endosurgery, Vista and others). They'll age off the list around Dec 1 unless a board shows them again",
+    "why": "Glassdoor, Indeed and ZipRecruiter served only old copies or errors for the seventh day",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "MarinHealth, San Mateo",
+    "covers": "Both MarinHealth LDRP nights jobs (unseen since Nov 15) and San Mateo perioperative relief couldn't be checked",
+    "why": "Their job sites refused the check",
+    "url": "https://www.mymarinhealth.org/careers"
+   }
+  ]
  }
 ]
