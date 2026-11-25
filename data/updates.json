@@ -4044,5 +4044,46 @@
     "url": "https://www.mymarinhealth.org/careers"
    }
   ]
+ },
+ {
+  "date": "2026-11-25",
+  "ranAt": "2026-11-25T14:16:42+00:00",
+  "summary": "0 new openings, 0 of them strong or worth applying. 1 closed. Kaiser Redwood City's on-call OB/GYN clinic job is back. Sutter's and Stanford's job sites refused the check again and job boards served only old copies.",
+  "addedCount": 0,
+  "closedCount": 1,
+  "added": [],
+  "closed": [
+   {
+    "id": "sutter-GD-1010294715086",
+    "title": "Ambulatory Services Nurse II, Endoscopy, Per Diem",
+    "facilityName": "Sutter Fremont ambulatory surgery"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Stanford Health Care",
+    "covers": "17 Stanford jobs couldn't be checked, incl. 500P Pre-Post Care (strong, seventh day), Tri-Valley L&D and six Tri-Valley pre-op/PACU jobs (strong). With no copy seen since mid-November, they'll start aging off the list around Dec 1",
+    "why": "Stanford's job site refused the check and the freehire.me mirror's Stanford lists stopped updating",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Sutter Health",
+    "covers": "21 Sutter jobs couldn't be checked, incl. both maternal-fetal medicine clinic jobs, San Carlos GI, a second Eden nursery job and the part-time CPMC pre-registration job (all strong)",
+    "why": "Sutter's job site refused the check for the 36th day, and the registerednurse.jobs mirror refused too",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "22 board-only surgery and endoscopy center jobs couldn't be re-checked (Surgery Center of Oakland, Pacific Heights, Soar, East Bay Endosurgery, Vista and others). They'll age off the list around Dec 1 unless a board shows them again",
+    "why": "Glassdoor, Indeed and ZipRecruiter served only October copies or errors for the eighth day",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "MarinHealth, Contra Costa, Chinese Hospital",
+    "covers": "Five MarinHealth jobs (incl. both LDRP nights jobs), Contra Costa L&D and Chinese Hospital same-day surgery couldn't be checked",
+    "why": "Their job sites refused the check or are robots-blocked",
+    "url": "https://www.mymarinhealth.org/careers"
+   }
+  ]
  }
 ]
