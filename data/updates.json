@@ -4085,5 +4085,108 @@
     "url": "https://www.mymarinhealth.org/careers"
    }
   ]
+ },
+ {
+  "date": "2026-11-26",
+  "ranAt": "2026-11-26T14:28:06+00:00",
+  "summary": "6 new openings, 6 of them strong or worth applying. 6 closed. El Camino Mountain View posted three Mother Baby Unit jobs and re-posted an L&D job; MarinHealth posted two new LDRP jobs. Sutter's and Stanford's job sites refused the check again.",
+  "addedCount": 6,
+  "closedCount": 6,
+  "added": [
+   {
+    "id": "MH-CZ-169929022",
+    "title": "Clinical RN II, LDRP, Part Time (36hr week), Day",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "strong"
+   },
+   {
+    "id": "MH-CZ-169929021",
+    "title": "Clinical RN II, LDRP, Part Time (36hr week), Night",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "strong"
+   },
+   {
+    "id": "ECH-CZ-169929074",
+    "title": "Clinical Nurse II - 0.8 - Days - Mother Baby Unit @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "ECH-CZ-169929070",
+    "title": "Clinical Nurse II - 0.8 - Eves - Mother Baby Unit @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "ECH-CZ-169929069",
+    "title": "Clinical Nurse II - 0.8 - Nights - Mother Baby Unit @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "EVERLEAP-FHswpi6rdp",
+    "title": "Per Diem Surgical Center Nurse (RN)",
+    "facilityName": "Everleap Fertility SF (formerly RMA)",
+    "fit": "possible"
+   }
+  ],
+  "closed": [
+   {
+    "id": "JMH-JR0018065",
+    "title": "RN - Ambulatory Clinic - Specialty - Per Diem - 8 Hour - Days",
+    "facilityName": "John Muir Health Pleasant Hill clinic"
+   },
+   {
+    "id": "MH-CZ-169815142",
+    "title": "Clinical RN II, LDRP, Part-Time, (36 Hour Week), Nights",
+    "facilityName": "MarinHealth Medical Center"
+   },
+   {
+    "id": "MH-CZ-169815143",
+    "title": "Clinical RN II, LDRP, Part-Time, (36 Hour Week), Nights",
+    "facilityName": "MarinHealth Medical Center"
+   },
+   {
+    "id": "kp-1459537",
+    "title": "Staff Nurse II SH (OB/GYN Clinic, On-Call)",
+    "facilityName": "Kaiser Redwood City"
+   },
+   {
+    "id": "sutter-R-140312",
+    "title": "Staff Nurse II, Surgery/Operating Room",
+    "facilityName": "Alta Bates Summit (Summit campus)"
+   },
+   {
+    "id": "sutter-R-143296",
+    "title": "Clinic Nurse II, Maternal Fetal Medicine",
+    "facilityName": "Sutter Maternal-Fetal Medicine clinic (Oakland)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "34 Sutter jobs couldn't be checked, incl. CPMC Mom and Baby, all three Eden nursery jobs, both maternal-fetal medicine clinic jobs, San Carlos GI and both CPMC pre-registration jobs (all strong)",
+    "why": "Sutter's job site and the registerednurse.jobs mirror refused the check, and the other mirrors were stale",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "15 Stanford jobs couldn't be checked, incl. 500P Pre-Post Care (strong, eighth day) and the seven Tri-Valley pre-op/PACU jobs (strong)",
+    "why": "Stanford's job site refused the check and the freehire.me mirror's Stanford lists stopped updating",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "26 surgery and endoscopy center jobs couldn't be re-checked (MedBridge's six jobs, Soar, East Bay Endosurgery, Vista and others). Most will age off the list around Dec 1",
+    "why": "Glassdoor and Indeed served only October copies and the other boards errored, for the ninth day",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "Highland Hospital",
+    "covers": "The per diem cath lab pre/post job and both K6 OB clinic jobs couldn't be confirmed; two of them dropped off the Alameda Health mirror today",
+    "why": "Alameda Health's job pages refused the check",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   }
+  ]
  }
 ]
