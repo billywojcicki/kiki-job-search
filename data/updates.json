@@ -4089,8 +4089,8 @@
  {
   "date": "2026-11-26",
   "ranAt": "2026-11-26T14:28:06+00:00",
-  "summary": "6 new openings, 6 of them strong or worth applying. 6 closed. El Camino Mountain View posted three Mother Baby Unit jobs and re-posted an L&D job; MarinHealth posted two new LDRP jobs. Sutter's and Stanford's job sites refused the check again.",
-  "addedCount": 6,
+  "summary": "7 new openings, 7 of them strong or worth applying. 6 closed. El Camino Mountain View posted three Mother Baby Unit jobs and re-posted an L&D job; MarinHealth posted two new LDRP jobs. Sutter's and Stanford's job sites refused the check again.",
+  "addedCount": 7,
   "closedCount": 6,
   "added": [
    {
@@ -4127,6 +4127,12 @@
     "id": "EVERLEAP-FHswpi6rdp",
     "title": "Per Diem Surgical Center Nurse (RN)",
     "facilityName": "Everleap Fertility SF (formerly RMA)",
+    "fit": "possible"
+   },
+   {
+    "id": "ECH-R00017889",
+    "title": "Clinical Nurse II - 0.8 - Days - Labor & Delivery @ MV",
+    "facilityName": "El Camino Hospital",
     "fit": "possible"
    }
   ],
