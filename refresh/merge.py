@@ -89,12 +89,19 @@ for jid, s in seen.items():
             v = s.get(k)
             if v not in (None, "", []):
                 cur[k] = norm_emp(v) if k == "employment" else v
-        apply_posted(cur, s)
         # a closed job that comes back counts as re-posted (new again) when its posting date is after it closed;
         # with no usable date, a gap of 3+ days counts. Otherwise it was just missed for a while, so reopen quietly.
         reopened = False
         if cur.get("status") == "closed":
             closed_at = cur.get("closedAt", TODAY)
+            new_p = s.get("posted")
+            if new_p and not s.get("postedBefore") and min(new_p, TODAY) > closed_at:
+                # re-posted: the new (even approximate) date replaces the old one
+                reopened = True
+                for k in ("posted", "postedApprox", "postedBefore"):
+                    cur.pop(k, None)
+        apply_posted(cur, s)
+        if cur.get("status") == "closed" and not reopened:
             if cur.get("posted") and not cur.get("postedBefore"):
                 reopened = cur["posted"] > closed_at
             else:
