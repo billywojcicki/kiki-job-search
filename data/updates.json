@@ -4194,5 +4194,82 @@
     "url": "https://www.alamedahealthsystem.org/careers/"
    }
   ]
+ },
+ {
+  "date": "2026-11-27",
+  "ranAt": "2026-11-27T14:12:20+00:00",
+  "summary": "5 new openings, 4 of them strong or worth applying. 2 closed. El Camino Mountain View has two openings per Mother Baby shift; Alta Bates posted a part-time postpartum job. Sutter's and Stanford's job sites refused the check again.",
+  "addedCount": 5,
+  "closedCount": 2,
+  "added": [
+   {
+    "id": "sutter-RNJ-300723090",
+    "title": "Staff Nurse II, Family Care Center Postpartum",
+    "facilityName": "Alta Bates (Berkeley campus)",
+    "fit": "strong"
+   },
+   {
+    "id": "ECH-CZ-169929071",
+    "title": "Clinical Nurse II - 0.8 - Days - Mother Baby Unit @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "ECH-CZ-169929072",
+    "title": "Clinical Nurse II - 0.8 - Nights - Mother Baby Unit @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "ECH-CZ-169929073",
+    "title": "Clinical Nurse II - 0.8 - Eves - Mother Baby Unit @ MV",
+    "facilityName": "El Camino Hospital",
+    "fit": "strong"
+   },
+   {
+    "id": "SHCTV-FH-64uovbb7",
+    "title": "FT Operating Room Nurse",
+    "facilityName": "Stanford Health Care Tri-Valley",
+    "fit": "stretch"
+   }
+  ],
+  "closed": [
+   {
+    "id": "WHHS-oPO6Afw3",
+    "title": "Staff Nurse II - Short Stay Unit - Full Time - 8hr - 1100-1900 - AM Variable Shifts",
+    "facilityName": "Washington Hospital"
+   },
+   {
+    "id": "sutter-RNJ-800139641",
+    "title": "Ambulatory Services Nurse II, PACU",
+    "facilityName": "Sutter Outpatient Services Novato (GI procedures)"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "32 Sutter jobs couldn't be checked, incl. the SF maternal-fetal medicine clinic, San Carlos GI and the part-time CPMC pre-registration job (all strong). Eden nursery R-135664 and full-time CPMC pre-registration dropped off the registerednurse.jobs mirror and may have closed; CPMC Mom and Baby rests only on an old mirror copy",
+    "why": "Sutter's job site refused the check, and registerednurse.jobs refused after about 14 pages",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "18 Stanford jobs couldn't be checked, incl. 500P Pre-Post Care (strong, ninth day) and the seven Tri-Valley pre-op/PACU jobs (strong)",
+    "why": "Stanford's job site refused the check and the freehire.me mirror's Stanford lists stopped updating",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "26 surgery and endoscopy center jobs couldn't be re-checked (MedBridge's six, Fremont Surgery Center, Soar, East Bay Endosurgery, Vista and others). Most will age off the list around Dec 1",
+    "why": "Glassdoor, Indeed and ZipRecruiter served only June to October copies, and MedBridge's own board blocks the check",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "Highland, Contra Costa, San Mateo",
+    "covers": "Highland's cath lab pre/post job and both K6 OB clinic jobs, Contra Costa L&D/postpartum and San Mateo perioperative relief couldn't be confirmed",
+    "why": "Alameda Health's job pages and governmentjobs.com refused the check",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   }
+  ]
  }
 ]
