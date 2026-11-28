@@ -4271,5 +4271,68 @@
     "url": "https://www.alamedahealthsystem.org/careers/"
    }
   ]
+ },
+ {
+  "date": "2026-11-28",
+  "ranAt": "2026-11-28T14:13:30+00:00",
+  "summary": "1 new openings, 1 of them strong or worth applying. 4 closed. MarinHealth has a second LDRP part-time nights opening. Sutter's and Stanford's job sites refused the check again.",
+  "addedCount": 1,
+  "closedCount": 4,
+  "added": [
+   {
+    "id": "MH-CZ-169929020",
+    "title": "Clinical RN II, LDRP, Part Time (36hr week), Night",
+    "facilityName": "MarinHealth Medical Center",
+    "fit": "strong"
+   }
+  ],
+  "closed": [
+   {
+    "id": "sutter-GD-1010291370844",
+    "title": "Ambulatory Services Nurse II, Gastroenterology",
+    "facilityName": "Golden Gate Endoscopy Center"
+   },
+   {
+    "id": "sutter-R-141230",
+    "title": "Ambulatory Services Nurse II, Pre-Admission & Pre-Operative Phone Calls",
+    "facilityName": "Sutter Outpatient Surgery SF (1635 Divisadero)"
+   },
+   {
+    "id": "sutter-R-141532",
+    "title": "Staff Nurse II, Neonatal ICU",
+    "facilityName": "CPMC Van Ness"
+   },
+   {
+    "id": "sutter-R-142119",
+    "title": "Clinic Nurse II, Maternal Fetal Medicine",
+    "facilityName": "Sutter Maternal-Fetal Medicine clinic"
+   }
+  ],
+  "issues": [
+   {
+    "name": "Sutter Health",
+    "covers": "30 Sutter jobs couldn't be checked, incl. the SF maternal-fetal medicine clinic, San Carlos GI and the part-time CPMC pre-registration job (all strong). Eden nursery R-135664 and full-time CPMC pre-registration have been missing from the registerednurse.jobs mirror for two days and may have closed",
+    "why": "Sutter's job site refused the check, and the mirrors' job pages were refused or stale",
+    "url": "https://jobs.sutterhealth.org"
+   },
+   {
+    "name": "Stanford Health Care",
+    "covers": "18 Stanford jobs couldn't be checked, incl. 500P Pre-Post Care (strong, tenth day), Tri-Valley L&D and the seven Tri-Valley pre-op/PACU jobs (strong)",
+    "why": "Stanford's job site refused the check and the freehire.me mirror's Stanford lists stopped updating",
+    "url": "https://careers.stanfordhealthcare.org"
+   },
+   {
+    "name": "Surgery centers on job boards",
+    "covers": "26 surgery and endoscopy center jobs couldn't be re-checked (MedBridge's six, Fremont Surgery Center, Soar, East Bay Endosurgery, Vista and others). MedBridge's will age off the list on Dec 1",
+    "why": "Glassdoor, Indeed and ZipRecruiter served only October copies, and the centers' own boards block the check",
+    "url": "https://www.indeed.com/q-pre-op-pacu-rn-l-san-francisco,-ca-jobs.html"
+   },
+   {
+    "name": "Highland, Contra Costa, MarinHealth NICU",
+    "covers": "Highland's cath lab pre/post job and both K6 OB clinic jobs, Contra Costa L&D/postpartum, Chinese Hospital same-day surgery and both MarinHealth NICU jobs couldn't be confirmed",
+    "why": "Alameda Health's job pages, governmentjobs.com and MarinHealth's Workday refused the check",
+    "url": "https://www.alamedahealthsystem.org/careers/"
+   }
+  ]
  }
 ]
